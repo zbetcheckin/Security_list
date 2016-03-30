@@ -35,7 +35,7 @@ I wanted to update it with my sources, I will probably continue to update and re
 * [Fingerprint](https://github.com/zbetcheckin/Security_list/blob/master/README.md#fingerprint)<br />
 * [SSL](https://github.com/zbetcheckin/Security_list/blob/master/README.md#ssl)<br />
 * [Tor resources](https://github.com/zbetcheckin/Security_list/blob/master/README.md#tor-resources)<br />
-
+* [Fun](https://github.com/zbetcheckin/Security_list/blob/master/README.md#fun-trollface)<br />
 
 
 
@@ -120,6 +120,10 @@ Name | URL
 CTFTIME | https://ctftime.org/
 Write-ups | https://github.com/ctfs
 Reddit | https://www.reddit.com/r/securityctf
+Tools list | https://github.com/Laxa/HackingTools
+Tools list | https://github.com/zardus/ctf-tools
+Tools list | https://github.com/apsdehal/awesome-ctf
+Tools list | http://tools.kali.org/tools-listing
 
 
 <br />
@@ -354,7 +358,7 @@ Jsobfuscate | http://www.jsobfuscate.com/
 Netteleuthe | http://www.netteleuthe.de/gc/
 PHPdecoder | http://ddecode.com/phpdecoder/
 PHP encoding | http://yehg.net/encoding/
-hackvertor (Tag based decoder/encoder) | https://hackvertor.co.uk/public
+Hackvertor (Tag based decoder/encoder) | https://hackvertor.co.uk/public
 
 
 
@@ -556,3 +560,18 @@ Torsocks | https://gitweb.torproject.org/torsocks.git
 Tor Hidden Services ".onion" search | http://www.ahmia.fi
 Onion Mail | http://onionmail.info/
 Tails |	https://blog.torproject.org/blogs/tails
+
+
+<br />
+
+
+##Fun :trollface:
+Name | URL 
+------------------------------------ | ---------------------------------------------
+Norse map | http://map.norsecorp.com/
+Fire eye map | https://www.fireeye.com/cyber-map/threat-map.html
+Kaspersky map | https://apt.securelist.com/
+Eset map | http://www.virusradar.com/
+DDoS attacks | http://www.digitalattackmap.com/
+Submarine cable | http://lifewinning.com/submarine-cable-taps/
+Flight radar | https://www.flightradar24.com
