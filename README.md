@@ -354,6 +354,7 @@ Jsobfuscate | http://www.jsobfuscate.com/
 Netteleuthe | http://www.netteleuthe.de/gc/
 PHPdecoder | http://ddecode.com/phpdecoder/
 PHP encoding | http://yehg.net/encoding/
+hackvertor (Tag based decoder/encoder) | https://hackvertor.co.uk/public
 
 
 
