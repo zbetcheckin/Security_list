@@ -1,4 +1,4 @@
-#Security list for fun and profite
+#Security list for fun and profit
 
 My initial idea came from this list : http://www.nothink.org/utilities.php<br />
 I wanted to update it with my sources, I will probably continue to update and reorganize it in the future.
