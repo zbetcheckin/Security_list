@@ -172,6 +172,7 @@ Newbiecontest | https://www.newbiecontest.org/
 OWASP VWAD list | https://github.com/OWASP/OWASP-VWAD/blob/master/src/online.tsv
 WeChall | https://www.wechall.net/
 Vulnhub | https://www.vulnhub.com/
+Reversing | http://reversing.kr/
 Hackthissite | http://www.hackthissite.org/
 Hack.me | https://hack.me
 HackThis! | http://www.hackthis.co.uk/
@@ -223,6 +224,7 @@ Name | URL
 ZoomEye | https://zoomeye.org/
 Shodan | https://www.shodan.io/
 Censys | https://censys.io/
+Gegereka | http://gegereka.com/ (not always up)
 
 
 <br />
@@ -427,6 +429,7 @@ Name	|URL
 Linux executable walkthrough | https://i.imgur.com/q5nyHp7.png
 Windows executable walkthrough | https://i.imgur.com/pHjcI.png
 Understand your commands | http://explainshell.com
+Hashes example | https://hashcat.net/wiki/doku.php?id=example_hashes
 w4rri0r toolbox | http://www.w4rri0r.com/
 Code analysises | https://en.wikipedia.org/wiki/List_of_tools_for_static_code_analysis
 Python tools | http://s3ize.blogspot.fr/2012/08/python-tools-for-penetration-testers.html
