@@ -13,6 +13,7 @@ I wanted to update it with my sources, I will probably continue to update and re
 * [Exercises](https://github.com/zbetcheckin/Security_list/blob/master/README.md#exercises-mortar_board)<br />
 * [Vulnerable environments](https://github.com/zbetcheckin/Security_list/blob/master/README.md#vulnerable-environments-unlock)<br />
 * [Security challenges](https://github.com/zbetcheckin/Security_list/blob/master/README.md#security-challenges-triangular_flag_on_post)<br />
+* [Books](https://github.com/zbetcheckin/Security_list/blob/master/README.md#books-books)<br />
 * [Bug bounty](https://github.com/zbetcheckin/Security_list/blob/master/README.md#bug-bounty-chocolate_bar)<br />
 * [Port scanners](https://github.com/zbetcheckin/Security_list/blob/master/README.md#port-scanners-dart)<br />
 * [Search engines](https://github.com/zbetcheckin/Security_list/blob/master/README.md#search-engines-satellite)<br />
@@ -183,6 +184,15 @@ Overthewire | http://overthewire.org/wargames/
 Ringzer0team | https://ringzer0team.com/challenges
 Forensic contest | http://forensicscontest.com/puzzles
 More challenges | http://captf.com/practice-ctf/
+
+
+<br />
+
+
+##Books :books:
+Name	|URL 
+------------------------------------ | ---------------------------------------------
+Books list | https://github.com/JpGallegos/CySecBooks/
 
 
 <br />
