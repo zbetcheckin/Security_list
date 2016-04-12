@@ -270,6 +270,7 @@ Name | URL
 Malc0de	| http://malc0de.com/database/
 Malekal	| http://malwaredb.malekal.com/
 Botnet.fr | https://www.botnets.fr/wiki/Main_Page
+Cybercrime tracker | http://cybercrime-tracker.net/
 Malshare | http://malshare.com
 Exposed Botnets	| http://www.exposedbotnets.com/
 VX Vault | http://vxvault.siri-urz.net
@@ -280,7 +281,6 @@ VirusShare | http://virusshare.com/
 Virusign | http://www.virusign.com/
 Malware domain list | http://www.malwaredomainlist.com
 Malware.lu | https://malware.lu/
-Cybercrime tracker | http://cybercrime-tracker.net/
 SafeGroup | http://www.malware.pl/
 NovCon Minotaur | http://minotauranalysis.com
 Clean MX | http://support.clean-mx.de/clean-mx/viruses.php
