@@ -7,7 +7,7 @@ I wanted to update it with my sources, I will probably continue to update and re
 
 * [Awesome lists](https://github.com/zbetcheckin/Security_list/blob/master/README.md#awesome-lists-1)<br />
 * [Cheat sheets](https://github.com/zbetcheckin/Security_list/blob/master/README.md#cheat-sheets-1)<br />
-* [Penetration testing](https://github.com/zbetcheckin/Security_list/blob/master/README.md#penetration-testing-wrench)<br />
+* [Penetration testing / Tools](https://github.com/zbetcheckin/Security_list/blob/master/README.md#penetration-testing-wrench)<br />
 * [Exploits and vulnerabilities](https://github.com/zbetcheckin/Security_list/blob/master/README.md#exploits-and-vulnerabilities-door)<br />
 * [CTF](https://github.com/zbetcheckin/Security_list/blob/master/README.md#ctf-triangular_flag_on_post)<br />
 * [Exercises](https://github.com/zbetcheckin/Security_list/blob/master/README.md#exercises-mortar_board)<br />
@@ -88,7 +88,11 @@ Services enumeration | http://www.0daysecurity.com/penetration-testing/enumerati
 Informaion gathering | http://www.w4rri0r.com/softwares-freeware-shareware-open-source/information-gathering.html
 Footprinting | http://www.0daysecurity.com/penetration-testing/network-footprinting.html
 Web | http://www.w4rri0r.com/softwares-freeware-shareware-open-source/web-application-analysis.html
+Reverse engineering | http://wiki.yobi.be/wiki/Reverse-Engineering
 Vulnerability | http://www.w4rri0r.com/softwares-freeware-shareware-open-source/vulnerability-assessment.html
+Great tools list | http://wiki.yobi.be/wiki/Table_of_contents#Security
+Kali list | http://tools.kali.org/tools-listing
+BlackArch list | https://blackarch.org/tools.html
 More tools | https://github.com/enaqx/awesome-pentest
 
 
@@ -124,7 +128,6 @@ Reddit | https://www.reddit.com/r/securityctf
 Tools list | https://github.com/Laxa/HackingTools
 Tools list | https://github.com/zardus/ctf-tools
 Tools list | https://github.com/apsdehal/awesome-ctf
-Tools list | http://tools.kali.org/tools-listing
 
 
 <br />
@@ -138,6 +141,34 @@ Network - Malware | http://www.malware-traffic-analysis.net/training-exercises.h
 Network - Forensic | https://www.honeynet.org/node/504
 Exploits | https://exploit-exercises.com/
 Exploits | https://thesprawl.org/research/
+
+
+<br />
+
+
+##Security challenges :triangular_flag_on_post:
+Name | URL 
+------------------------------------ | ---------------------------------------------
+Zenk-Security | https://www.zenk-security.com/
+Root-Me | http://www.root-me.org/
+Overthewire | http://overthewire.org/wargames/
+CrackMe.de | http://crackmes.de/
+Reversing | http://reversing.kr/
+Pwnable | http://pwnable.kr/
+Newbiecontest | https://www.newbiecontest.org/
+OWASP VWAD list | https://github.com/OWASP/OWASP-VWAD/blob/master/src/online.tsv
+WeChall | https://www.wechall.net/
+Vulnhub | https://www.vulnhub.com/
+Reversing | http://reversing.kr/
+Hackthissite | http://www.hackthissite.org/
+Hack.me | https://hack.me
+HackThis! | http://www.hackthis.co.uk/
+Backdoor.Sdslabs | https://backdoor.sdslabs.co/
+Bright-shadows | http://www.bright-shadows.net/
+SmashTheStack | http://smashthestack.org/
+Ringzer0team | https://ringzer0team.com/challenges
+Forensic contest | http://forensicscontest.com/puzzles
+More challenges | http://captf.com/practice-ctf/
 
 
 <br />
@@ -159,31 +190,6 @@ Igoat | http://code.google.com/p/owasp-igoat/
 Moth | http://www.bonsai-sec.com
 Peruggia | http://sourceforge.net/projects/peruggia/
 XSS play ground	| http://xssplayground.net23.net/
-
-
-<br />
-
-
-##Security challenges :triangular_flag_on_post:
-Name | URL 
------------------------------------- | ---------------------------------------------
-Zenk-Security | https://www.zenk-security.com/
-Root-Me | http://www.root-me.org/
-Newbiecontest | https://www.newbiecontest.org/
-OWASP VWAD list | https://github.com/OWASP/OWASP-VWAD/blob/master/src/online.tsv
-WeChall | https://www.wechall.net/
-Vulnhub | https://www.vulnhub.com/
-Reversing | http://reversing.kr/
-Hackthissite | http://www.hackthissite.org/
-Hack.me | https://hack.me
-HackThis! | http://www.hackthis.co.uk/
-Backdoor.Sdslabs | https://backdoor.sdslabs.co/
-Bright-shadows | http://www.bright-shadows.net/
-SmashTheStack | http://smashthestack.org/
-Overthewire | http://overthewire.org/wargames/
-Ringzer0team | https://ringzer0team.com/challenges
-Forensic contest | http://forensicscontest.com/puzzles
-More challenges | http://captf.com/practice-ctf/
 
 
 <br />
@@ -292,6 +298,7 @@ Malware domain blocklist | http://www.malwaredomains.com
 Tool Mwcrawler | https://github.com/0day1day/mwcrawler
 ZeuS Tracker | https://zeustracker.abuse.ch
 theZoo aka Malware DB | https://ytisf.github.io/theZoo/
+Malware Analysis course | https://github.com/RPISEC/Malware
 
 
 <br />
@@ -338,7 +345,6 @@ AVcaesar | https://avcaesar.malware.lu/
 Detux GNU/Linux sandbox | http://detux.org/
 Vscan | http://vscan.novirusthanks.org/
 Mastiff online | https://mastiff-online.korelogic.com/
-APK Analzyer | http://www.apk-analyzer.net/
 AndroTotal | https://andrototal.org/
 Comodo | http://camas.comodo.com/cgi-bin/submit
 Document Analyzer | http://www.document-analyzer.net/
@@ -350,6 +356,11 @@ PDF examiner | http://www.pdfexaminer.com/
 Randomly changes Win32/64 PE Files | https://github.com/secretsquirrel/recomposer
 Virus Total Notifier | https://github.com/mubix/vt-notify
 Other list | http://cleanbytes.net/malware-online-scanners
+APK Analzyer | http://www.apk-analyzer.net/
+Joebox Cloud | https://jbxcloud.joesecurity.org/login
+SandDroid | http://sanddroid.xjtu.edu.cn
+Tracedroid | http://tracedroid.few.vu.nl
+
 
 <br />
 
@@ -372,6 +383,22 @@ PHPdecoder | http://ddecode.com/phpdecoder/
 PHP encoding | http://yehg.net/encoding/
 Hackvertor (Tag based decoder/encoder) | https://hackvertor.co.uk/public
 
+
+<br />
+
+
+##Forensic - Network :mag: 
+Name | URL
+------------------------------------------- | ---------------------------------------------
+Tools list | http://toolcatalog.nist.gov/populated_taxonomy/index.php
+Aldeid list | https://www.aldeid.com/wiki/Category:Digital-Forensics
+Forensic tools | http://forensicswiki.org/wiki/Tools
+Windows tools list | http://forensic-proof.com/tools
+More forensic links | http://www.amanhardikar.com/mindmaps/ForensicChallenges.html
+Wireshark extentions | https://www.honeynet.org/project/WiresharkExtensions
+GNU/Linux monitoring | https://blog.serverdensity.com/80-linux-monitoring-tools-know/
+Anti forensic Windows | [https://www.reddit.com/r/security/](https://www.reddit.com/r/security/comments/32fb1l/open_guide_to_scrubbing_windows_oss_from_forensic/)
+Testing Images | http://dftt.sourceforge.net/
 
 
 <br />
@@ -481,20 +508,6 @@ Leakedin | http://www.leakedin.com/
 <br />
 
 
-##Forensic - Network :mag: 
-Name | URL
-------------------------------------------- | ---------------------------------------------
-Forensic tools | http://forensicswiki.org/wiki/Tools
-Windows tools list | http://forensic-proof.com/tools
-More forensic links | http://www.amanhardikar.com/mindmaps/ForensicChallenges.html
-Wireshark extentions | https://www.honeynet.org/project/WiresharkExtensions
-GNU/Linux monitoring | https://blog.serverdensity.com/80-linux-monitoring-tools-know/
-Anti forensic Windows | [https://www.reddit.com/r/security/](https://www.reddit.com/r/security/comments/32fb1l/open_guide_to_scrubbing_windows_oss_from_forensic/)
-Testing Images | http://dftt.sourceforge.net/
-
-<br />
-
-
 ##IP List
 Name | URL 
 ------------------------------------ | ---------------------------------------------
@@ -581,6 +594,7 @@ Tails |	https://blog.torproject.org/blogs/tails
 ##Fun :trollface:
 Name | URL 
 ------------------------------------ | ---------------------------------------------
+Pwnie Awards | http://pwnies.com/nominations/
 Norse map | http://map.norsecorp.com/
 Fire eye map | https://www.fireeye.com/cyber-map/threat-map.html
 Kaspersky map | https://apt.securelist.com/
