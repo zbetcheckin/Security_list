@@ -186,7 +186,6 @@ VulnHub	| http://vulnhub.com/
 LampSecurity | http://sourceforge.net/projects/lampsecurity/
 Dragon | https://www.dragonresearchgroup.org/challenges/
 Hackademic-RTB1 | http://www.aldeid.com/wiki/Hackademic-RTB1
-Igoat | http://code.google.com/p/owasp-igoat/
 Moth | http://www.bonsai-sec.com
 Peruggia | http://sourceforge.net/projects/peruggia/
 XSS play ground	| http://xssplayground.net23.net/
