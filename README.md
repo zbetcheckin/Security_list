@@ -69,7 +69,6 @@ Web application cheat sheet | https://www.owasp.org/index.php/Web_Application_Se
 Pentest monkey | http://pentestmonkey.net
 Packet life | http://packetlife.net/library/cheat-sheets/
 Reverse | http://r00ted.com/cheat%20sheet%20reverse%20v5.png
-SANS Penetration Testing | http://pen-testing.sans.org
 SANS Forensic | https://digital-forensics.sans.org/community/cheat-sheets
 SQL injection | http://websec.ca/kb/sql_injection
 Zeltser's cheat sheets list | https://zeltser.com/cheat-sheets/
@@ -84,12 +83,14 @@ Name | URL
 Owasp Check list | https://www.owasp.org/index.php/Testing_Checklist
 Owasp testing guide | https://www.owasp.org/images/5/52/OWASP_Testing_Guide_v4.pdf
 Owasp tools | https://www.owasp.org/index.php/Category:OWASP_Tool
+Reverse engineering | http://wiki.yobi.be/wiki/Reverse-Engineering
+Vulnerabilities | http://oss-security.openwall.org/wiki/tools
 Services enumeration | http://www.0daysecurity.com/penetration-testing/enumeration.html - Thx [rawger](https://twitter.com/_rawger)
 Informaion gathering | http://www.w4rri0r.com/softwares-freeware-shareware-open-source/information-gathering.html
 Footprinting | http://www.0daysecurity.com/penetration-testing/network-footprinting.html
 Web | http://www.w4rri0r.com/softwares-freeware-shareware-open-source/web-application-analysis.html
-Reverse engineering | http://wiki.yobi.be/wiki/Reverse-Engineering
-Vulnerability | http://www.w4rri0r.com/softwares-freeware-shareware-open-source/vulnerability-assessment.html
+Web vulnerabilities | http://www.w4rri0r.com/softwares-freeware-shareware-open-source/vulnerability-assessment.html
+SANS Penetration Testing | http://pen-testing.sans.org
 Great tools list | http://wiki.yobi.be/wiki/Table_of_contents#Security
 Kali list | http://tools.kali.org/tools-listing
 BlackArch list | https://blackarch.org/tools.html
@@ -114,6 +115,10 @@ Intelligent Exploit | http://www.intelligentexploit.com
 Exploits download | http://www.exploitsdownload.com
 NIST | http://web.nvd.nist.gov/
 Security focus | http://www.securityfocus.com/vulnerabilities
+Country compatibility | https://cve.mitre.org/compatible/country.html
+Mailing list | https://nmap.org/mailman/listinfo/fulldisclosure
+Mail received | http://lists.openwall.net/full-disclosure/2016/
+Mailing list | https://lists.debian.org/debian-security-announce/
 
 
 <br />
@@ -128,6 +133,7 @@ Reddit | https://www.reddit.com/r/securityctf
 Tools list | https://github.com/Laxa/HackingTools
 Tools list | https://github.com/zardus/ctf-tools
 Tools list | https://github.com/apsdehal/awesome-ctf
+Root-me resources - FR | http://repository.root-me.org/
 
 
 <br />
@@ -160,6 +166,8 @@ OWASP VWAD list | https://github.com/OWASP/OWASP-VWAD/blob/master/src/online.tsv
 WeChall | https://www.wechall.net/
 Vulnhub | https://www.vulnhub.com/
 Reversing | http://reversing.kr/
+Net Garage | http://io.netgarage.org/
+Flare-On | http://www.flare-on.com/
 Hackthissite | http://www.hackthissite.org/
 Hack.me | https://hack.me
 HackThis! | http://www.hackthis.co.uk/
@@ -277,6 +285,7 @@ Malekal	| http://malwaredb.malekal.com/
 Botnet.fr | https://www.botnets.fr/wiki/Main_Page
 Cybercrime tracker | http://cybercrime-tracker.net/
 Malshare | http://malshare.com
+Tracker | http://tracker.h3x.eu/
 Exposed Botnets	| http://www.exposedbotnets.com/
 VX Vault | http://vxvault.siri-urz.net
 Open Malware | http://openmalware.org/
@@ -392,7 +401,9 @@ Name | URL
 Tools list | http://toolcatalog.nist.gov/populated_taxonomy/index.php
 Aldeid list | https://www.aldeid.com/wiki/Category:Digital-Forensics
 Forensic tools | http://forensicswiki.org/wiki/Tools
+Forensic Control | https://forensiccontrol.com/resources/free-software/
 Windows tools list | http://forensic-proof.com/tools
+Windows Artifact | [https://blogs.sans.org/computer-forensics/](https://blogs.sans.org/computer-forensics/files/2012/06/SANS-Digital-Forensics-and-Incident-Response-Poster-2012.pdf)
 More forensic links | http://www.amanhardikar.com/mindmaps/ForensicChallenges.html
 Wireshark extentions | https://www.honeynet.org/project/WiresharkExtensions
 GNU/Linux monitoring | https://blog.serverdensity.com/80-linux-monitoring-tools-know/
@@ -449,9 +460,12 @@ DKIM validator | http://dkimvalidator.com/
 ##Passwords list :key:
 Name | URL
 ------------------------------------ | ---------------------------------------------
-Skull security list | https://wiki.skullsecurity.org/Passwords
+Skull security | https://wiki.skullsecurity.org/Passwords
 SecLists | https://github.com/danielmiessler/SecLists/tree/master/Passwords
-Other list | http://www.openwall.com/passwords/wordlists/
+OpenWall | http://www.openwall.com/passwords/wordlists/
+Packets storm | https://packetstormsecurity.com/Crackers/wordlists/ 
+Other list | https://github.com/duyetdev/bruteforce-database
+Default password | https://cirt.net/passwords
 
 
 <br />
@@ -471,6 +485,7 @@ Code analysises | https://en.wikipedia.org/wiki/List_of_tools_for_static_code_an
 Python tools | http://s3ize.blogspot.fr/2012/08/python-tools-for-penetration-testers.html
 Tools | http://seclist.us/
 Sans | http://isc.sans.edu/diary/
+Security wiki | http://oss-security.openwall.org/wiki/
 Hackforum | http://hackforums.net/
 Codepad	| http://codepad.org/
 Browserling | http://browserling.com/
@@ -596,8 +611,10 @@ Name | URL
 Pwnie Awards | http://pwnies.com/nominations/
 Norse map | http://map.norsecorp.com/
 Fire eye map | https://www.fireeye.com/cyber-map/threat-map.html
+Kaspersky AV map | https://cybermap.kaspersky.com/
 Kaspersky map | https://apt.securelist.com/
 Eset map | http://www.virusradar.com/
 DDoS attacks | http://www.digitalattackmap.com/
 Submarine cable | http://lifewinning.com/submarine-cable-taps/
 Flight radar | https://www.flightradar24.com
+Fligh aware | https://flightaware.com/
