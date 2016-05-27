@@ -71,6 +71,7 @@ Packet life | http://packetlife.net/library/cheat-sheets/
 Reverse | http://r00ted.com/cheat%20sheet%20reverse%20v5.png
 SANS Forensic | https://digital-forensics.sans.org/community/cheat-sheets
 SQL injection | http://websec.ca/kb/sql_injection
+LFI | https://highon.coffee/blog/lfi-cheat-sheet/
 Zeltser's cheat sheets list | https://zeltser.com/cheat-sheets/
 
 
@@ -170,6 +171,7 @@ Flare-On | http://www.flare-on.com/
 Hackthissite | http://www.hackthissite.org/
 Hack.me | https://hack.me
 HackThis! | http://www.hackthis.co.uk/
+PenTestLabs | https://lab.thecybershark.com/pentestlabs/5
 Backdoor.Sdslabs | https://backdoor.sdslabs.co/
 Bright-shadows | http://www.bright-shadows.net/
 SmashTheStack | http://smashthestack.org/
@@ -359,12 +361,15 @@ Vscan | http://vscan.novirusthanks.org/
 Mastiff online | https://mastiff-online.korelogic.com/
 AndroTotal | https://andrototal.org/
 Comodo | http://camas.comodo.com/cgi-bin/submit
+VirScan | http://r.virscan.org/
 Document Analyzer | http://www.document-analyzer.net/
 Malware tracker | http://www.cryptam.com/
 Metascan | https://www.metascan-online.com/
 Jotti | http://virusscan.jotti.org/it
 ViCheck | https://www.vicheck.ca/
 PDF examiner | http://www.pdfexaminer.com/
+ThreadExpert | http://www.threatexpert.com/submit.aspx
+Xecure-lab | http://scan.xecure-lab.com/
 Randomly changes Win32/64 PE Files | https://github.com/secretsquirrel/recomposer
 Virus Total Notifier | https://github.com/mubix/vt-notify
 Other list | http://cleanbytes.net/malware-online-scanners
@@ -372,6 +377,7 @@ APK Analzyer | http://www.apk-analyzer.net/
 Joebox Cloud | https://jbxcloud.joesecurity.org/login
 SandDroid | http://sanddroid.xjtu.edu.cn
 Tracedroid | http://tracedroid.few.vu.nl
+MobiSecLab | http://akana.mobiseclab.org/
 
 
 <br />
@@ -518,6 +524,7 @@ Fake ID | http://www.fakenamegenerator.com/
 ##Defaced websites / Data leak :ambulance:
 Name | URL 
 ------------------------------------ | ---------------------------------------------
+Zone-H | https://zone-h.org/
 URL Find | http://urlfind.org/
 XSSposed | https://www.xssposed.org/
 Leakedin | http://www.leakedin.com/
