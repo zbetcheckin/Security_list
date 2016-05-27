@@ -165,7 +165,6 @@ Newbiecontest | https://www.newbiecontest.org/
 OWASP VWAD list | https://github.com/OWASP/OWASP-VWAD/blob/master/src/online.tsv
 WeChall | https://www.wechall.net/
 Vulnhub | https://www.vulnhub.com/
-Reversing | http://reversing.kr/
 Net Garage | http://io.netgarage.org/
 Flare-On | http://www.flare-on.com/
 Hackthissite | http://www.hackthissite.org/
@@ -176,6 +175,11 @@ Bright-shadows | http://www.bright-shadows.net/
 SmashTheStack | http://smashthestack.org/
 Ringzer0team | https://ringzer0team.com/challenges
 Forensic contest | http://forensicscontest.com/puzzles
+Dareyourmind | http://www.dareyourmind.net
+Lost chall | http://www.lost-chall.org/
+Rankk | http://www.rankk.org/
+Happy Security | http://www.happy-security.de/
+Net force | https://www.net-force.nl/challenges/
 More challenges | http://captf.com/practice-ctf/
 
 
