@@ -111,6 +111,7 @@ CXSecurity | https://cxsecurity.com/
 Exploit-db | http://www.exploit-db.com
 Vulnerability-lab | http://www.vulnerability-lab.com/
 Inj3ct0r | http://0day.today/
+Backdoor - TCP-32764 | https://github.com/elvanderb/TCP-32764
 Rapid7 DB | https://www.rapid7.com/db/modules/
 Intelligent Exploit | http://www.intelligentexploit.com
 Exploits download | http://www.exploitsdownload.com
@@ -605,10 +606,14 @@ Poodle | https://poodle.io/,https://www.poodlescan.com/
 Name | URL 
 ------------------------------------ | ---------------------------------------------
 Tor Project | https://www.torproject.org/
-Know exit nodes | https://check.torproject.org/exit-addresses
+Tor know exit nodes | https://check.torproject.org/exit-addresses
+Tor bulk exit list | https://check.torproject.org/cgi-bin/TorBulkExitList.py
 Tor status | https://torstatus.blutmagie.de/
-Torsocks | https://gitweb.torproject.org/torsocks.git
-Tor Hidden Services ".onion" search | http://www.ahmia.fi
+Tor socks | https://gitweb.torproject.org/torsocks.git
+Tor hidden services | https://www.torproject.org/docs/hidden-services.html.en
+Tor Hidden Services search | http://www.ahmia.fi
+Tor hidden services scanner | https://github.com/superp00t/sadonion
+Tor Browser Fingerprint | https://github.com/jonaslejon/tor-fingerprint
 Onion Mail | http://onionmail.info/
 Tails |	https://blog.torproject.org/blogs/tails
 
@@ -619,6 +624,8 @@ Tails |	https://blog.torproject.org/blogs/tails
 ##Fun :trollface:
 Name | URL 
 ------------------------------------ | ---------------------------------------------
+Malware tech | https://intel.malwaretech.com/
+The cyber shark | https://lab.thecybershark.com/
 Pwnie Awards | http://pwnies.com/nominations/
 Norse map | http://map.norsecorp.com/
 Fire eye map | https://www.fireeye.com/cyber-map/threat-map.html
