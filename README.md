@@ -31,7 +31,7 @@ I wanted to update it with my sources, I will probably continue to update and re
 * [Defaced websites / Data leak](https://github.com/zbetcheckin/Security_list/blob/master/README.md#defaced-websites--data-leak-ambulance)<br />
 * [Forensic - Network](https://github.com/zbetcheckin/Security_list/blob/master/README.md#forensic---network-mag)<br />
 * [IP List](https://github.com/zbetcheckin/Security_list/blob/master/README.md#ip-list)<br />
-* [VPN List](https://github.com/zbetcheckin/Security_list/blob/master/README.md#vpn-list)<br />
+* [VPN](https://github.com/zbetcheckin/Security_list/blob/master/README.md#vpn)<br />
 * [Web browser test](https://github.com/zbetcheckin/Security_list/blob/master/README.md#web-browser-test)<br />
 * [Fingerprint](https://github.com/zbetcheckin/Security_list/blob/master/README.md#fingerprint)<br />
 * [SSL](https://github.com/zbetcheckin/Security_list/blob/master/README.md#ssl)<br />
@@ -546,10 +546,32 @@ Malicious IP | https://zeltser.com/malicious-ip-blocklists/
 <br />
 
 
-##VPN List 
+##VPN 
 Name | URL 
 ------------------------------------ | ---------------------------------------------
-Comparaison | https://docs.google.com/spreadsheets/d/1FJTvWT5RHFSYuEoFVpAeQjuQPU4BVzbOigT0xebxTOw/
+COmparison | https://thatoneprivacysite.net/vpn-comparison-chart/
+Comparison | https://docs.google.com/spreadsheets/d/1FJTvWT5RHFSYuEoFVpAeQjuQPU4BVzbOigT0xebxTOw/
+Location test | https://www.dnsleaktest.com/
+Location test | https://ipleak.net/
+
+
+<br />
+
+
+##Tor resources
+Name | URL 
+------------------------------------ | ---------------------------------------------
+Tor Project | https://www.torproject.org/
+Tor know exit nodes | https://check.torproject.org/exit-addresses
+Tor bulk exit list | https://check.torproject.org/cgi-bin/TorBulkExitList.py
+Tor status | https://torstatus.blutmagie.de/
+Tor socks | https://gitweb.torproject.org/torsocks.git
+Tor hidden services | https://www.torproject.org/docs/hidden-services.html.en
+Tor Hidden Services search | http://www.ahmia.fi
+Tor hidden services scanner | https://github.com/superp00t/sadonion
+Tor Browser Fingerprint | https://github.com/jonaslejon/tor-fingerprint
+Onion Mail | http://onionmail.info/
+Tails |	https://blog.torproject.org/blogs/tails
 
 
 <br />
@@ -558,8 +580,6 @@ Comparaison | https://docs.google.com/spreadsheets/d/1FJTvWT5RHFSYuEoFVpAeQjuQPU
 ##Web browser test
 Name | URL 
 ------------------------------------ | ---------------------------------------------
-Location test | https://www.dnsleaktest.com/
-Location test | https://ipleak.net/
 Fingerprint | https://amiunique.org/
 Fingerprint | https://panopticlick.eff.org/
 SSL | https://www.ssllabs.com/ssltest/viewMyClient.html
@@ -597,25 +617,6 @@ Freak | https://freakattack.com/
 Heartbleed | http://heartbleed.com/,https://filippo.io/Heartbleed/
 Logjam | https://weakdh.org/sysadmin.html
 Poodle | https://poodle.io/,https://www.poodlescan.com/
-
-
-<br />
-
-
-##Tor resources
-Name | URL 
------------------------------------- | ---------------------------------------------
-Tor Project | https://www.torproject.org/
-Tor know exit nodes | https://check.torproject.org/exit-addresses
-Tor bulk exit list | https://check.torproject.org/cgi-bin/TorBulkExitList.py
-Tor status | https://torstatus.blutmagie.de/
-Tor socks | https://gitweb.torproject.org/torsocks.git
-Tor hidden services | https://www.torproject.org/docs/hidden-services.html.en
-Tor Hidden Services search | http://www.ahmia.fi
-Tor hidden services scanner | https://github.com/superp00t/sadonion
-Tor Browser Fingerprint | https://github.com/jonaslejon/tor-fingerprint
-Onion Mail | http://onionmail.info/
-Tails |	https://blog.torproject.org/blogs/tails
 
 
 <br />
