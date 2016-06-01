@@ -549,7 +549,7 @@ Malicious IP | https://zeltser.com/malicious-ip-blocklists/
 ##VPN 
 Name | URL 
 ------------------------------------ | ---------------------------------------------
-COmparison | https://thatoneprivacysite.net/vpn-comparison-chart/
+Comparison | https://thatoneprivacysite.net/vpn-comparison-chart/
 Comparison | https://docs.google.com/spreadsheets/d/1FJTvWT5RHFSYuEoFVpAeQjuQPU4BVzbOigT0xebxTOw/
 Location test | https://www.dnsleaktest.com/
 Location test | https://ipleak.net/
