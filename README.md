@@ -95,6 +95,7 @@ SANS Penetration Testing | http://pen-testing.sans.org
 Great tools list | http://wiki.yobi.be/wiki/Table_of_contents#Security
 Kali list | http://tools.kali.org/tools-listing
 BlackArch list | https://blackarch.org/tools.html
+More tools | http://www.cotse.com/tools/
 More tools | https://github.com/enaqx/awesome-pentest
 
 
@@ -135,7 +136,9 @@ Reddit | https://www.reddit.com/r/securityctf
 Tools list | https://github.com/Laxa/HackingTools
 Tools list | https://github.com/zardus/ctf-tools
 Tools list | https://github.com/apsdehal/awesome-ctf
-Root-me resources - FR | http://repository.root-me.org/
+Tinyctf platform | https://github.com/balidani/tinyctf-platform
+Isislab platform | https://github.com/isislab/CTFd
+Facebook platform | https://github.com/facebook/fbctf
 
 
 <br />
