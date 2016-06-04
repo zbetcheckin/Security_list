@@ -466,7 +466,8 @@ Mxtoolbox | http://www.mxtoolbox.com/
 Open relay | http://www.mailradar.com
 Openresolver JP	| http://www.openresolver.jp/en/
 DKIM validator | http://dkimvalidator.com/
-
+Email recon | https://github.com/laramies/theHarvester
+Email recon | https://github.com/killswitch-GUI/SimplyEmail
 
 <br />
 
