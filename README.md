@@ -482,7 +482,11 @@ Open relay | http://www.mailradar.com
 Openresolver JP	| http://www.openresolver.jp/en/
 DKIM validator | http://dkimvalidator.com/
 Email recon | https://github.com/laramies/theHarvester
-Email recon | https://github.com/killswitch-GUI/SimplyEmail
+Gophish | https://github.com/gophish/gophish
+SimplyEmail | https://github.com/killswitch-GUI/SimplyEmail
+SpeedPhish Framework | https://github.com/tatanus/SPF
+Phishing Framework | https://github.com/pentestgeek/phishing-frenzy
+
 
 <br />
 
