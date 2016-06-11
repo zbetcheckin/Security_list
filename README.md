@@ -73,6 +73,7 @@ Pentest monkey | http://pentestmonkey.net
 Packet life | http://packetlife.net/library/cheat-sheets/
 Reverse | http://r00ted.com/cheat%20sheet%20reverse%20v5.png
 SANS Forensic | https://digital-forensics.sans.org/community/cheat-sheets
+Penetration test | https://github.com/jshaw87/Cheatsheets
 SQL injection | http://websec.ca/kb/sql_injection
 LFI | https://highon.coffee/blog/lfi-cheat-sheet/
 Zeltser's cheat sheets list | https://zeltser.com/cheat-sheets/
