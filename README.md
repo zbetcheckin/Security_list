@@ -529,6 +529,9 @@ OpenWall | http://www.openwall.com/passwords/wordlists/
 Packets storm | https://packetstormsecurity.com/Crackers/wordlists/ 
 Other list | https://github.com/duyetdev/bruteforce-database
 Default password | https://cirt.net/passwords
+Outpost9 | http://www.outpost9.com/files/WordLists.html
+Cotse | http://www.cotse.com/tools/wordlists.htm
+CrackStation | https://crackstation.net/buy-crackstation-wordlist-password-cracking-dictionary.htm
 
 
 <br />
