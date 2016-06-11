@@ -12,7 +12,7 @@ I wanted to update it with my sources, I will probably continue to update and re
 * [CTF](https://github.com/zbetcheckin/Security_list/blob/master/README.md#ctf-triangular_flag_on_post)<br />
 * [Exercises](https://github.com/zbetcheckin/Security_list/blob/master/README.md#exercises-mortar_board)<br />
 * [Vulnerable environments](https://github.com/zbetcheckin/Security_list/blob/master/README.md#vulnerable-environments-unlock)<br />
-* [Security challenges / WarGames](https://github.com/zbetcheckin/Security_list/blob/master/README.md#security-challenges--WarGames-triangular_flag_on_post)<br />
+* [Security challenges / WarGames](https://github.com/zbetcheckin/Security_list/blob/master/README.md#security-challenges--wargames-triangular_flag_on_post)<br />
 * [Books](https://github.com/zbetcheckin/Security_list/blob/master/README.md#books-books)<br />
 * [Bug bounty](https://github.com/zbetcheckin/Security_list/blob/master/README.md#bug-bounty-chocolate_bar)<br />
 * [Port scanners](https://github.com/zbetcheckin/Security_list/blob/master/README.md#port-scanners-dart)<br />
