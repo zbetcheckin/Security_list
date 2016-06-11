@@ -338,6 +338,7 @@ Viper | https://github.com/viper-framework/viper
 REMnux | http://zeltser.com/remnux/
 Fastir | https://github.com/SekoiaLab/Fastir_Collector
 Zeltser analysis | http://zeltser.com/reverse-malware/automated-malware-analysis.html
+Manalyze | https://github.com/JusticeRage/Manalyze
 Dorothy2 | https://github.com/m4rco-/dorothy2
 F-Secure see | https://github.com/F-Secure/see
 Noriben | https://github.com/Rurik/Noriben
@@ -371,6 +372,7 @@ Mastiff online | https://mastiff-online.korelogic.com/
 AndroTotal | https://andrototal.org/
 Comodo | http://camas.comodo.com/cgi-bin/submit
 VirScan | http://r.virscan.org/
+Manalyzer | https://manalyzer.org/
 Document Analyzer | http://www.document-analyzer.net/
 Malware tracker | http://www.cryptam.com/
 Metascan | https://www.metascan-online.com/
