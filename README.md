@@ -349,12 +349,13 @@ Name | URL
 Zeltser's list | https://zeltser.com/automated-malware-analysis/
 Cuckoo Sandbox | https://www.cuckoosandbox.org/
 Mastiff | https://github.com/KoreLogicSecurity/mastiff
-Quarkslab IRMA | http://irma.quarkslab.com/
+Fastir | https://github.com/SekoiaLab/Fastir_Collector
+SysAnalyser | https://github.com/dzzie/SysAnalyzer
 Viper | https://github.com/viper-framework/viper
 REMnux | http://zeltser.com/remnux/
-Fastir | https://github.com/SekoiaLab/Fastir_Collector
 Zeltser analysis | http://zeltser.com/reverse-malware/automated-malware-analysis.html
 Manalyze | https://github.com/JusticeRage/Manalyze
+Quarkslab IRMA | http://irma.quarkslab.com/
 Dorothy2 | https://github.com/m4rco-/dorothy2
 F-Secure see | https://github.com/F-Secure/see
 Noriben | https://github.com/Rurik/Noriben
