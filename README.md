@@ -641,6 +641,7 @@ Tails |	https://blog.torproject.org/blogs/tails
 ##Web browser test
 Name | URL 
 ------------------------------------ | ---------------------------------------------
+Browser recommendations | https://gist.github.com/atcuno/3425484ac5cce5298932
 Fingerprint | https://amiunique.org/
 Fingerprint | https://panopticlick.eff.org/
 SSL | https://www.ssllabs.com/ssltest/viewMyClient.html
