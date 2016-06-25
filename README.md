@@ -649,6 +649,7 @@ Name | URL
 ------------------------------------ | ---------------------------------------------
 Browser recommendations | https://gist.github.com/atcuno/3425484ac5cce5298932
 Fingerprint | https://amiunique.org/
+Amiunique project | https://github.com/DIVERSIFY-project/amiunique
 Fingerprint | https://panopticlick.eff.org/
 SSL | https://www.ssllabs.com/ssltest/viewMyClient.html
 User agent | http://whatsmyuseragent.com/
