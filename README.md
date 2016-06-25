@@ -437,6 +437,9 @@ Hackvertor (Tag based decoder/encoder) | https://hackvertor.co.uk/public
 ##Forensic - Network :mag: 
 Name | URL
 ------------------------------------------- | ---------------------------------------------
+Package forensic-all | https://packages.debian.org/jessie-backports/forensics-all
+CFReDS | http://www.cfreds.nist.gov/
+DEFT package | http://www.deftlinux.net/package-list/
 Tools list | http://toolcatalog.nist.gov/populated_taxonomy/index.php
 Aldeid list | https://www.aldeid.com/wiki/Category:Digital-Forensics
 Forensic tools | http://forensicswiki.org/wiki/Tools
@@ -448,6 +451,7 @@ Wireshark extentions | https://www.honeynet.org/project/WiresharkExtensions
 GNU/Linux monitoring | https://blog.serverdensity.com/80-linux-monitoring-tools-know/
 Anti forensic Windows | [https://www.reddit.com/r/security/](https://www.reddit.com/r/security/comments/32fb1l/open_guide_to_scrubbing_windows_oss_from_forensic/)
 Testing Images | http://dftt.sourceforge.net/
+FR - Zythom list | https://zythom.blogspot.se/2007/02/les-outils-dun-expert-judiciaire.html
 
 
 <br />
