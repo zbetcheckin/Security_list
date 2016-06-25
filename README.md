@@ -143,6 +143,7 @@ Tools list | https://github.com/apsdehal/awesome-ctf
 Tinyctf platform | https://github.com/balidani/tinyctf-platform
 Isislab platform | https://github.com/isislab/CTFd
 Facebook platform | https://github.com/facebook/fbctf
+Mellivora platform | https://github.com/Nakiami/mellivora
 
 
 <br />
@@ -517,6 +518,7 @@ Gophish | https://github.com/gophish/gophish
 SimplyEmail | https://github.com/killswitch-GUI/SimplyEmail
 SpeedPhish Framework | https://github.com/tatanus/SPF
 Phishing Framework | https://github.com/pentestgeek/phishing-frenzy
+Spam encode secret | http://spammimic.com/encode.cgi
 
 
 <br />
@@ -525,12 +527,15 @@ Phishing Framework | https://github.com/pentestgeek/phishing-frenzy
 ##Passwords list :key:
 Name | URL
 ------------------------------------ | ---------------------------------------------
+CrackStation | https://crackstation.net
+HaskKiller | https://hashkiller.co.uk
+Default password | https://default-password.info/
+Default password | https://cirt.net/passwords
 Skull security | https://wiki.skullsecurity.org/Passwords
 SecLists | https://github.com/danielmiessler/SecLists/tree/master/Passwords
 OpenWall | http://www.openwall.com/passwords/wordlists/
 Packets storm | https://packetstormsecurity.com/Crackers/wordlists/ 
 Other list | https://github.com/duyetdev/bruteforce-database
-Default password | https://cirt.net/passwords
 Outpost9 | http://www.outpost9.com/files/WordLists.html
 Cotse | http://www.cotse.com/tools/wordlists.htm
 CrackStation | https://crackstation.net/buy-crackstation-wordlist-password-cracking-dictionary.htm
@@ -666,6 +671,11 @@ Web cookies | http://webcookies.org/cookies/
 ##SSL 
 Name | URL 
 ------------------------------------ | ---------------------------------------------
+OWASP tests | [https://www.owasp.org/index.php/Testing_for_Weak_SSL/TLS_Ciphers](https://www.owasp.org/index.php/Testing_for_Weak_SSL/TLS_Ciphers,_Insufficient_Transport_Layer_Protection_%28OTG-CRYPST-001%29)
+Testssl.sh | https://github.com/drwetter/testssl.sh
+O-Saft | https://www.owasp.org/index.php/O-Saft
+SSLyze | https://github.com/iSECPartners/sslyze
+SSLscan | https://github.com/rbsec/sslscan
 Qualys SSL Labs	| https://www.ssllabs.com/ssltest/
 Htbridge | https://www.htbridge.com/ssl/
 SSLAnalyzer Comodoca | https://sslanalyzer.comodoca.com/
@@ -681,16 +691,19 @@ Poodle | https://poodle.io/,https://www.poodlescan.com/
 ##Fun :trollface:
 Name | URL 
 ------------------------------------ | ---------------------------------------------
+Pwnie Awards | http://pwnies.com/nominations/
+Dead drops | https://deaddrops.com/db/
 Malware tech | https://intel.malwaretech.com/
 The cyber shark | https://lab.thecybershark.com/
-Pwnie Awards | http://pwnies.com/nominations/
 Norse map | http://map.norsecorp.com/
 Fire eye map | https://www.fireeye.com/cyber-map/threat-map.html
 Kaspersky AV map | https://cybermap.kaspersky.com/
 Kaspersky map | https://apt.securelist.com/
 Eset map | http://www.virusradar.com/
 DDoS attacks | http://www.digitalattackmap.com/
-Submarine cable | http://lifewinning.com/submarine-cable-taps/
+Sub marine cable | http://www.submarinecablemap.com/
+Sub marine cable | http://submarine-cable-map-2016.telegeography.com/
+Sub marine cable | http://lifewinning.com/submarine-cable-taps/
 Flight radar | https://www.flightradar24.com
 Fligh aware | https://flightaware.com/
 World of VNC | https://worldofvnc.net/
