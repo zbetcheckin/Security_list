@@ -46,9 +46,9 @@ I wanted to update it with my sources, I will probably continue to update and re
 ##Awesome lists :+1:
 Name | URL 
 ------------------------------------ | ---------------------------------------------
-Malware analysis | https://github.com/rshipp/awesome-malware-analysis/
-Incident response | https://github.com/meirwah/awesome-incident-response/
-Honeypots | https://github.com/paralax/awesome-honeypots
+Malware analysis | https://github.com/rshipp/awesome-malware-analysis/ :trophy:
+Incident response | https://github.com/meirwah/awesome-incident-response/ :trophy:
+Honeypots | https://github.com/paralax/awesome-honeypots :trophy:
 PCAP | https://github.com/caesar0301/awesome-pcaptools
 Network | https://github.com/Security-Onion-Solutions/security-onion/wiki/Tools
 GNU/Linux workstation | https://github.com/lfit/itpol/blob/master/linux-workstation-security.md
@@ -87,7 +87,7 @@ Zeltser's cheat sheets list | https://zeltser.com/cheat-sheets/
 Name | URL
 ------------------------------------ | ---------------------------------------------
 Owasp Check list | https://www.owasp.org/index.php/Testing_Checklist
-Owasp testing guide | https://www.owasp.org/images/5/52/OWASP_Testing_Guide_v4.pdf
+Owasp testing guide | https://www.owasp.org/images/5/52/OWASP_Testing_Guide_v4.pdf :+1:
 Owasp tools | https://www.owasp.org/index.php/Category:OWASP_Tool
 Reverse engineering | http://wiki.yobi.be/wiki/Reverse-Engineering
 Vulnerabilities | http://oss-security.openwall.org/wiki/tools
@@ -113,7 +113,7 @@ Name | URL
 CVEdetails | http://www.cvedetails.com/
 CVE.mitre | https://cve.mitre.org/
 Full disclosure | http://seclists.org/fulldisclosure/
-CXSecurity | https://cxsecurity.com/
+CXSecurity | https://cxsecurity.com/ :+1:
 Exploit-db | http://www.exploit-db.com
 Vulnerability-lab | http://www.vulnerability-lab.com/
 Inj3ct0r | http://0day.today/
@@ -265,7 +265,7 @@ PFRing | https://github.com/ntop/PF_RING - High-speed packet processing framewor
 ##Search engines :satellite:
 Name | URL
 ------------------------------------ | ---------------------------------------------
-ZoomEye | https://zoomeye.org/
+ZoomEye | https://zoomeye.org/ :+1:
 Shodan | https://www.shodan.io/
 Censys | https://censys.io/
 Gegereka | http://gegereka.com/ (not always up)
@@ -277,7 +277,7 @@ Gegereka | http://gegereka.com/ (not always up)
 ##Malicious traffic detection :vertical_traffic_light:
 Name | URL
 ------------------------------------------- | ---------------------------------------------
-Maltrail | https://github.com/stamparm/maltrail
+Maltrail | https://github.com/stamparm/maltrail :+1:
 Tsusen | https://github.com/stamparm/tsusen
 Packetbeat | https://www.elastic.co/products/beats/packetbeat
 p0f | http://lcamtuf.coredump.cx/p0f3/
@@ -302,7 +302,7 @@ Blackhat conference | [https://www.blackhat.com/](https://www.blackhat.com/docs/
 ##Honeypots :honey_pot:
 Name | URL
 ------------------------------------ | ---------------------------------------------
-Awesome list - All of them ! | https://github.com/paralax/awesome-honeypots#honeypots
+Awesome list - All of them ! | https://github.com/paralax/awesome-honeypots#honeypots :trophy:
 Live nothink | http://www.nothink.org/honeypots.php
 Live sshpot | http://sshpot.com/
 
@@ -350,7 +350,7 @@ Structured Threat Information eXpression | https://stixproject.github.io/
 Name | URL 
 ------------------------------------ | ---------------------------------------------
 Zeltser's list | https://zeltser.com/automated-malware-analysis/
-Cuckoo Sandbox | https://www.cuckoosandbox.org/
+Cuckoo Sandbox | https://www.cuckoosandbox.org/ :+1:
 Mastiff | https://github.com/KoreLogicSecurity/mastiff
 Fastir | https://github.com/SekoiaLab/Fastir_Collector
 SysAnalyser | https://github.com/dzzie/SysAnalyzer
@@ -378,8 +378,8 @@ Androidsandbox | http://androidsandbox.net/ (temporarily out of service)
 ##Online malware analysis  - Sandbox :mask:
 Name	|URL 
 ------------------------------------ | ---------------------------------------------
-Malwr | https://malwr.com/submission/
-Hybrid analysis | https://www.hybrid-analysis.com/
+Malwr | https://malwr.com/submission/ :+1:
+Hybrid analysis | https://www.hybrid-analysis.com/ :+1:
 Virscan	| http://www.virscan.org/
 Virusade | http://virusade.com/
 VirusTotal | http://www.virustotal.com/
@@ -440,7 +440,7 @@ Hackvertor (Tag based decoder/encoder) | https://hackvertor.co.uk/public
 ##Forensic - Network :mag: 
 Name | URL
 ------------------------------------------- | ---------------------------------------------
-Package forensic-all | https://packages.debian.org/jessie-backports/forensics-all
+Package forensic-all | https://packages.debian.org/jessie-backports/forensics-all :+1:
 CFReDS | http://www.cfreds.nist.gov/
 DEFT package | http://www.deftlinux.net/package-list/
 Tools list | http://toolcatalog.nist.gov/populated_taxonomy/index.php
