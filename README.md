@@ -35,7 +35,7 @@ I wanted to update it with my sources, I will probably continue to update and re
 * [VOIP](https://github.com/zbetcheckin/Security_list/blob/master/README.md#voip-phone)<br />
 * [IP List](https://github.com/zbetcheckin/Security_list/blob/master/README.md#ip-list)<br />
 * [VPN](https://github.com/zbetcheckin/Security_list/blob/master/README.md#vpn)<br />
-* [Web browser test](https://github.com/zbetcheckin/Security_list/blob/master/README.md#web-browser-test)<br />
+* [Web browser](https://github.com/zbetcheckin/Security_list/blob/master/README.md#web-browser)<br />
 * [Fingerprint](https://github.com/zbetcheckin/Security_list/blob/master/README.md#fingerprint)<br />
 * [SSL](https://github.com/zbetcheckin/Security_list/blob/master/README.md#ssl)<br />
 * [Tor resources](https://github.com/zbetcheckin/Security_list/blob/master/README.md#tor-resources)<br />
@@ -339,6 +339,7 @@ Tool Mwcrawler | https://github.com/0day1day/mwcrawler
 ZeuS Tracker | https://zeustracker.abuse.ch
 theZoo aka Malware DB | https://ytisf.github.io/theZoo/
 Malware Analysis course | https://github.com/RPISEC/Malware
+Structured Threat Information eXpression | https://stixproject.github.io/
 
 
 <br />
@@ -397,6 +398,7 @@ Metascan | https://www.metascan-online.com/
 Jotti | http://virusscan.jotti.org/it
 ViCheck | https://www.vicheck.ca/
 PDF examiner | http://www.pdfexaminer.com/
+Malware tracker | https://www.malwaretracker.com
 ThreadExpert | http://www.threatexpert.com/submit.aspx
 Xecure-lab | http://scan.xecure-lab.com/
 Randomly changes Win32/64 PE Files | https://github.com/secretsquirrel/recomposer
@@ -441,6 +443,7 @@ Package forensic-all | https://packages.debian.org/jessie-backports/forensics-al
 CFReDS | http://www.cfreds.nist.gov/
 DEFT package | http://www.deftlinux.net/package-list/
 Tools list | http://toolcatalog.nist.gov/populated_taxonomy/index.php
+DFIR tools list | http://www.dfir.training/index.php/tools/
 Aldeid list | https://www.aldeid.com/wiki/Category:Digital-Forensics
 Forensic tools | http://forensicswiki.org/wiki/Tools
 Forensic Control | https://forensiccontrol.com/resources/free-software/
@@ -594,6 +597,7 @@ Fake ID | http://www.fakenamegenerator.com/
 Name | URL 
 ------------------------------------ | ---------------------------------------------
 Zone-H | https://zone-h.org/
+Mr white | https://mrwhite.biz/
 URL Find | http://urlfind.org/
 XSSposed | https://www.xssposed.org/
 Leakedin | http://www.leakedin.com/
@@ -637,6 +641,8 @@ Tor hidden services | https://www.torproject.org/docs/hidden-services.html.en
 Tor Hidden Services search | http://www.ahmia.fi
 Tor hidden services scanner | https://github.com/superp00t/sadonion
 Tor Browser Fingerprint | https://github.com/jonaslejon/tor-fingerprint
+Tor relays bandwidth | https://github.com/TheTorProject/bwscanner
+Tor flow map | https://torflow.uncharted.software
 Onion Mail | http://onionmail.info/
 Tails |	https://blog.torproject.org/blogs/tails
 
@@ -644,13 +650,14 @@ Tails |	https://blog.torproject.org/blogs/tails
 <br />
 
 
-##Web browser test
+##Web browser
 Name | URL 
 ------------------------------------ | ---------------------------------------------
 Browser recommendations | https://gist.github.com/atcuno/3425484ac5cce5298932
 Fingerprint | https://amiunique.org/
 Amiunique project | https://github.com/DIVERSIFY-project/amiunique
 Fingerprint | https://panopticlick.eff.org/
+Browser info | http://www.browser-info.net/
 SSL | https://www.ssllabs.com/ssltest/viewMyClient.html
 User agent | http://whatsmyuseragent.com/
 Referer | https://www.whatismyreferer.com/
@@ -700,14 +707,16 @@ Poodle | https://poodle.io/,https://www.poodlescan.com/
 Name | URL 
 ------------------------------------ | ---------------------------------------------
 Pwnie Awards | http://pwnies.com/nominations/
+Malware museum | https://archive.org/details/malwaremuseum
 Dead drops | https://deaddrops.com/db/
-Malware tech | https://intel.malwaretech.com/
-The cyber shark | https://lab.thecybershark.com/
+The cyber shark map | https://lab.thecybershark.com/
 Norse map | http://map.norsecorp.com/
 Fire eye map | https://www.fireeye.com/cyber-map/threat-map.html
 Kaspersky AV map | https://cybermap.kaspersky.com/
 Kaspersky map | https://apt.securelist.com/
 Eset map | http://www.virusradar.com/
+Fortinet map | https://threatmap.fortiguard.com/
+Blueliv map | https://community.blueliv.com/map/
 DDoS attacks | http://www.digitalattackmap.com/
 Sub marine cable | http://www.submarinecablemap.com/
 Sub marine cable | http://submarine-cable-map-2016.telegeography.com/
