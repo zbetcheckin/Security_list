@@ -33,7 +33,7 @@ I wanted to update it with my sources, I will probably continue to update and re
 * [Forensic - Network](https://github.com/zbetcheckin/Security_list/blob/master/README.md#forensic---network-mag)<br />
 * [Wireless](https://github.com/zbetcheckin/Security_list/blob/master/README.md#wireless-signal_strength)<br />
 * [VOIP](https://github.com/zbetcheckin/Security_list/blob/master/README.md#voip-phone)<br />
-* [IP List](https://github.com/zbetcheckin/Security_list/blob/master/README.md#ip-list)<br />
+* [IP Research / Analysis / Investigation](https://github.com/zbetcheckin/Security_list/blob/master/README.md#ip-research--analysis--investigation)<br />
 * [VPN](https://github.com/zbetcheckin/Security_list/blob/master/README.md#vpn)<br />
 * [Web browser](https://github.com/zbetcheckin/Security_list/blob/master/README.md#web-browser)<br />
 * [Fingerprint](https://github.com/zbetcheckin/Security_list/blob/master/README.md#fingerprint)<br />
@@ -323,6 +323,7 @@ Exposed Botnets	| http://www.exposedbotnets.com/
 VX Vault | http://vxvault.siri-urz.net
 Open Malware | http://openmalware.org/
 Total hash | https://totalhash.cymru.com/
+Custom Google search engine | https://cse.google.com/cse/home?cx=011750002002865445766%3Apc60zx1rliu (from Corey Harrell)
 Contagio | http://contagiodump.blogspot.se/
 VirusShare | http://virusshare.com/
 Virusign | http://www.virusign.com/
@@ -393,6 +394,7 @@ AndroTotal | https://andrototal.org/
 Comodo | http://camas.comodo.com/cgi-bin/submit
 VirScan | http://r.virscan.org/
 Manalyzer | https://manalyzer.org/
+ID Ransomware | https://id-ransomware.malwarehunterteam.com/
 Document Analyzer | http://www.document-analyzer.net/
 Malware tracker | http://www.cryptam.com/
 Metascan | https://www.metascan-online.com/
@@ -607,14 +609,24 @@ Leakedin | http://www.leakedin.com/
 <br />
 
 
-##IP List
+##IP Research / Analysis / Investigation
 Name | URL 
 ------------------------------------ | ---------------------------------------------
-BGP Toolkit | http://bgp.he.net/
-Check-host | http://check-host.net/
+BGP Toolkit | http://bgp.he.net/ :trophy:
+Google dork | "xxx.xxx.xxx.xxx" (replace xxx.xxx.xxx.xxx with the ip you are looking for)
+Bing dork | ip:xxx.xxx.xxx.xxx
+Whois | https://whois.domaintools.com/
+IP void | http://www.ipvoid.com/ :+1:
+IPv4 info | http://ipv4info.com/ :+1:
+TCP utils | http://www.tcpiputils.com/
+Black List Alert | http://www.blacklistalert.org/
+Whatch Guard | http://www.reputationauthority.org/
+Black List Check | http://whatismyipaddress.com/blacklist-check/
+Project Honeypot | https://www.projecthoneypot.org/search_ip.php
+Spamhaus | https://www.spamhaus.org/lookup/
 Nirsoft country IP | http://www.nirsoft.net/countryip/
-Wikiscan | http://fr.wikiscan.org/plage-ip
-Malicious IP | https://zeltser.com/malicious-ip-blocklists/
+Check-host | http://check-host.net/
+
 
 <br />
 
