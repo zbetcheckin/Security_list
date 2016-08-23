@@ -439,6 +439,42 @@ Hackvertor (Tag based decoder/encoder) | https://hackvertor.co.uk/public
 <br />
 
 
+GNU/Linux
+Name | URL 
+------------------------------------ | ---------------------------------------------
+Lynis | https://packages.debian.org/en/jessie/lynis
+Chkrootkit | https://packages.debian.org/en/jessie/chkrootkit
+RKhunter | https://packages.debian.org/en/jessie/rkhunter
+Debsecan | https://packages.debian.org/en/jessie/debsecan
+GNU/Linux post exploitation | https://github.com/mubix/post-exploitation/wiki/Linux-Post-Exploitation-Command-List
+GNU/Linux workstation | https://github.com/lfit/itpol/blob/master/linux-workstation-security.md
+Securing debian | https://www.debian.org/doc/manuals/securing-debian-howto/ch10.en.html
+GNU/Linux containers | https://github.com/Friz-zy/awesome-linux-containers#security
+Command collection | https://github.com/tuwid/GNU-Linux-OpsWiki
+
+
+<br />
+
+
+Windows
+Name | URL 
+------------------------------------ | ---------------------------------------------
+Windows exploitation | https://github.com/enddo/awesome-windows-exploitation
+Anti forensic Windows | https://www.reddit.com/r/security/comments/32fb1l/open_guide_to_scrubbing_windows_oss_from_forensic/
+
+
+<br />
+
+
+OS X
+Name | URL 
+------------------------------------ | ---------------------------------------------
+Security and privacy guide | https://github.com/drduh/OS-X-Security-and-Privacy-Guide
+
+
+<br />
+
+
 ##Forensic - Network :mag: 
 Name | URL
 ------------------------------------------- | ---------------------------------------------
@@ -455,7 +491,6 @@ Windows Artifact | [https://blogs.sans.org/computer-forensics/](https://blogs.sa
 More forensic links | http://www.amanhardikar.com/mindmaps/ForensicChallenges.html
 Wireshark extentions | https://www.honeynet.org/project/WiresharkExtensions
 GNU/Linux monitoring | https://blog.serverdensity.com/80-linux-monitoring-tools-know/
-Anti forensic Windows | [https://www.reddit.com/r/security/](https://www.reddit.com/r/security/comments/32fb1l/open_guide_to_scrubbing_windows_oss_from_forensic/)
 Testing Images | http://dftt.sourceforge.net/
 FR - Zythom list | https://zythom.blogspot.se/2007/02/les-outils-dun-expert-judiciaire.html
 Write blocker | http://www.cftt.nist.gov/software_write_block.htm
