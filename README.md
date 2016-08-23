@@ -439,7 +439,7 @@ Hackvertor (Tag based decoder/encoder) | https://hackvertor.co.uk/public
 <br />
 
 
-GNU/Linux
+##GNU/Linux
 Name | URL 
 ------------------------------------ | ---------------------------------------------
 Lynis | https://packages.debian.org/en/jessie/lynis
@@ -456,7 +456,7 @@ Command collection | https://github.com/tuwid/GNU-Linux-OpsWiki
 <br />
 
 
-Windows
+##Windows
 Name | URL 
 ------------------------------------ | ---------------------------------------------
 Windows exploitation | https://github.com/enddo/awesome-windows-exploitation
@@ -466,7 +466,7 @@ Anti forensic Windows | https://www.reddit.com/r/security/comments/32fb1l/open_g
 <br />
 
 
-OS X
+##OS X
 Name | URL 
 ------------------------------------ | ---------------------------------------------
 Security and privacy guide | https://github.com/drduh/OS-X-Security-and-Privacy-Guide
