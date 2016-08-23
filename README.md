@@ -24,6 +24,9 @@ I wanted to update it with my sources, I will probably continue to update and re
 * [Malware analysis - Sandbox](https://github.com/zbetcheckin/Security_list/blob/master/README.md#malware-analysis---sandbox-mask)<br />
 * [Online malware analysis - Sandbox](https://github.com/zbetcheckin/Security_list/blob/master/README.md#online-malware-analysis----sandbox-mask)<br />
 * [Decoder/Packer/Unpacker](https://github.com/zbetcheckin/Security_list/blob/master/README.md#decoderpackerunpacker-hurtrealbad)<br />
+* [GNU/Linux](https://github.com/zbetcheckin/Security_list/blob/master/README.md#gnulinux)<br />
+* [Windows](https://github.com/zbetcheckin/Security_list/blob/master/README.md#windows)<br />
+* [OS X](https://github.com/zbetcheckin/Security_list/blob/master/README.md#os-x)<br />
 * [Forensic - Network](https://github.com/zbetcheckin/Security_list/blob/master/README.md#forensic---network-mag)<br />
 * [IP Research / Analysis / Investigation](https://github.com/zbetcheckin/Security_list/blob/master/README.md#ip-research--analysis--investigation)<br />
 * [Free shell](https://github.com/zbetcheckin/Security_list/blob/master/README.md#free-shell-shell)<br />
