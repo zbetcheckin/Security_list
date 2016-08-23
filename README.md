@@ -29,7 +29,7 @@ I wanted to update it with my sources, I will probably continue to update and re
 * [Free shell](https://github.com/zbetcheckin/Security_list/blob/master/README.md#free-shell-shell)<br />
 * [Domain reputation](https://github.com/zbetcheckin/Security_list/blob/master/README.md#domain-reputation-chart_with_downwards_trend)<br />
 * [Mail utilities](https://github.com/zbetcheckin/Security_list/blob/master/README.md#mail-utilities-mailbox_with_mail)<br />
-* [Passwords list](https://github.com/zbetcheckin/Security_list/blob/master/README.md#passwords-list-key)<br />
+* [Passwords](https://github.com/zbetcheckin/Security_list/blob/master/README.md#passwords-key)<br />
 * [Generic utilities](https://github.com/zbetcheckin/Security_list/blob/master/README.md#generic-utilities-file_folder)<br />
 * [Defaced websites / Data leak](https://github.com/zbetcheckin/Security_list/blob/master/README.md#defaced-websites--data-leak-ambulance)<br />
 * [Wireless](https://github.com/zbetcheckin/Security_list/blob/master/README.md#wireless-signal_strength)<br />
@@ -556,21 +556,31 @@ Spam encode secret | http://spammimic.com/encode.cgi
 <br />
 
 
-##Passwords list :key:
+##Passwords :key:
 Name | URL
 ------------------------------------ | ---------------------------------------------
-CrackStation | https://crackstation.net
-HaskKiller | https://hashkiller.co.uk
+Password research | http://www.passwordresearch.com/
+Programming - Secure Password Storage | https://paragonie.com/blog/2016/02/how-safely-store-password-in-2016
+Hashcat WIKI | https://hashcat.net/wiki/
+Fun secure password checker  | https://password.kaspersky.com/
 Default password | https://default-password.info/
 Default password | https://cirt.net/passwords
+Default password | http://www.defaultpassword.com/
+Default password | http://www.defaultpassword.us/
+Default Router Password | http://portforward.com/default_username_password/
 Skull security | https://wiki.skullsecurity.org/Passwords
 SecLists | https://github.com/danielmiessler/SecLists/tree/master/Passwords
-OpenWall | http://www.openwall.com/passwords/wordlists/
-Packets storm | https://packetstormsecurity.com/Crackers/wordlists/ 
-Other list | https://github.com/duyetdev/bruteforce-database
+OpenWall | http://www.openwall.com/passwords/wordlists/ or ftp://ftp.openwall.com/pub/wordlists/
+Packets storm | https://packetstormsecurity.com/Crackers/wordlists/
 Outpost9 | http://www.outpost9.com/files/WordLists.html
 Cotse | http://www.cotse.com/tools/wordlists.htm
 CrackStation | https://crackstation.net/buy-crackstation-wordlist-password-cracking-dictionary.htm
+Multiple dictionary | https://github.com/danielmiessler/SecLists/tree/master/Passwords
+Multiple dictionary | https://github.com/duyetdev/bruteforce-database
+CrackStation | https://crackstation.net
+HaskKiller | https://hashkiller.co.uk
+Hash crack | http://www.onlinehashcrack.com/
+MD5 and SHA1 db | http://hashtoolkit.com/
 
 
 <br />
