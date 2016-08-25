@@ -228,7 +228,8 @@ XSS play ground	| http://xssplayground.net23.net/
 ##Books :books:
 Name	|URL 
 ------------------------------------ | ---------------------------------------------
-Books list | https://github.com/JpGallegos/CySecBooks/
+Many books | https://yadi.sk/d/Fkww0QKbuTdVF :trophy:
+Books | https://github.com/JpGallegos/CySecBooks/
 
 
 <br />
@@ -699,6 +700,7 @@ Tor socks | https://gitweb.torproject.org/torsocks.git
 Tor hidden services | https://www.torproject.org/docs/hidden-services.html.en
 Tor Hidden Services search | http://www.ahmia.fi
 Tor hidden services scanner | https://github.com/superp00t/sadonion
+Scan Onion Services | https://github.com/s-rah/onionscan
 Tor Browser Fingerprint | https://github.com/jonaslejon/tor-fingerprint
 Tor relays bandwidth | https://github.com/TheTorProject/bwscanner
 Tor flow map | https://torflow.uncharted.software
