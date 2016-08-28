@@ -29,14 +29,14 @@ I wanted to update it with my sources, I will probably continue to update and re
 * [OS X](https://github.com/zbetcheckin/Security_list/blob/master/README.md#os-x)<br />
 * [Forensic - Network](https://github.com/zbetcheckin/Security_list/blob/master/README.md#forensic---network-mag)<br />
 * [IP Research / Analysis / Investigation](https://github.com/zbetcheckin/Security_list/blob/master/README.md#ip-research--analysis--investigation)<br />
-* [Free shell](https://github.com/zbetcheckin/Security_list/blob/master/README.md#free-shell-shell)<br />
-* [Domain reputation](https://github.com/zbetcheckin/Security_list/blob/master/README.md#domain-reputation-chart_with_downwards_trend)<br />
+* [Domain Research / Analysis / Reputation](https://github.com/zbetcheckin/Security_list/blob/master/README.md#domain-research--analysis--reputation-chart_with_downwards_trend)<br />
 * [Mail utilities](https://github.com/zbetcheckin/Security_list/blob/master/README.md#mail-utilities-mailbox_with_mail)<br />
 * [Passwords](https://github.com/zbetcheckin/Security_list/blob/master/README.md#passwords-key)<br />
 * [Generic utilities](https://github.com/zbetcheckin/Security_list/blob/master/README.md#generic-utilities-file_folder)<br />
 * [Defaced websites / Data leak](https://github.com/zbetcheckin/Security_list/blob/master/README.md#defaced-websites--data-leak-ambulance)<br />
 * [Wireless](https://github.com/zbetcheckin/Security_list/blob/master/README.md#wireless-signal_strength)<br />
 * [VOIP](https://github.com/zbetcheckin/Security_list/blob/master/README.md#voip-phone)<br />
+* [Free shell](https://github.com/zbetcheckin/Security_list/blob/master/README.md#free-shell-shell)<br />
 * [VPN](https://github.com/zbetcheckin/Security_list/blob/master/README.md#vpn)<br />
 * [Web browser](https://github.com/zbetcheckin/Security_list/blob/master/README.md#web-browser)<br />
 * [Fingerprint](https://github.com/zbetcheckin/Security_list/blob/master/README.md#fingerprint)<br />
@@ -525,18 +525,24 @@ Check-host | http://check-host.net/
 <br />
 
 
-##Domain reputation :chart_with_downwards_trend:
+##Domain Research / Analysis / Reputation :chart_with_downwards_trend:
 Name | URL 
 ------------------------------------ | ---------------------------------------------
-Domain Analysis | https://github.com/rshipp/awesome-malware-analysis/#domain-analysis
-URL Void	| http://www.urlvoid.com/
-Zeltser's list | https://zeltser.com/lookup-malicious-websites/
-Alien Vault | http://www.alienvault.com
-Isithacked | http://www.isithacked.com
+Checking multiple blocklists | http://rbls.org/ :+1:
+Into DNS | http://www.intodns.com/intodns.com
+URL Void | http://www.urlvoid.com/ :+1:
+urlQuery | http://urlquery.net/search.php :+1:
+Virus total | https://www.virustotal.com/#url
+Google | https://www.google.com/transparencyreport/safebrowsing/diagnostic/
 Sucuri | http://sitecheck.sucuri.net/scanner/
-Trustedsource | http://www.trustedsource.org/
-urlQuery | http://urlquery.net/search.php
-Haveibeenpwned | http://haveibeenpwned.com/
+Trusted source | http://www.trustedsource.org/
+Isithacked | http://www.isithacked.com
+MXToolBox | https://mxtoolbox.com/SuperTool.aspx#
+Wois | https://whois.domaintools.com/
+Build with | https://builtwith.com/
+Expired domain | https://www.expireddomains.net/backorder-expired-domains/
+Zeltser's list | https://zeltser.com/lookup-malicious-websites/
+Domain analysis list | https://github.com/rshipp/awesome-malware-analysis/#domain-analysis
 
 
 <br />
