@@ -15,9 +15,10 @@ I wanted to update it with my sources, I will probably continue to update and re
 * [Security challenges / WarGames](https://github.com/zbetcheckin/Security_list/blob/master/README.md#security-challenges--wargames-triangular_flag_on_post)<br />
 * [Books](https://github.com/zbetcheckin/Security_list/blob/master/README.md#books-books)<br />
 * [Bug bounty](https://github.com/zbetcheckin/Security_list/blob/master/README.md#bug-bounty-chocolate_bar)<br />
+* [Search engines](https://github.com/zbetcheckin/Security_list/blob/master/README.md#search-engines-satellite)<br />
+* [Social engineering](https://github.com/zbetcheckin/Security_list/blob/master/README.md#social-engineering)<br />
 * [Port scanners](https://github.com/zbetcheckin/Security_list/blob/master/README.md#port-scanners-dart)<br />
 * [Malicious traffic detection](https://github.com/zbetcheckin/Security_list/blob/master/README.md#malicious-traffic-detection-vertical_traffic_light)<br />
-* [Search engines](https://github.com/zbetcheckin/Security_list/blob/master/README.md#search-engines-satellite)<br />
 * [Wide Scans](https://github.com/zbetcheckin/Security_list/blob/master/README.md#wide-scans-earth_americas)<br />
 * [Honeypots](https://github.com/zbetcheckin/Security_list/blob/master/README.md#honeypots-honey_pot)<br />
 * [Malware / Botnet sources](https://github.com/zbetcheckin/Security_list/blob/master/README.md#malware--botnet-sources-angel)<br />
@@ -251,6 +252,53 @@ More bug bounty | https://bugcrowd.com/list-of-bug-bounty-programs#
 <br />
 
 
+##Search engines :satellite:
+Name | URL
+------------------------------------ | ---------------------------------------------
+ZoomEye | https://zoomeye.org/ :+1:
+Shodan | https://www.shodan.io/
+Censys | https://censys.io/
+Gegereka | http://gegereka.com/ (not always up)
+Google | https://www.google.com/advanced_search
+Google dorks | https://gist.github.com/zbetcheckin/04e6a5d7f2d5ef8cfa3c298701f47f9c
+List of search engines | https://en.wikipedia.org/wiki/List_of_search_engines
+
+
+<br />
+
+
+##Social engineering
+Name | URL
+------------------------------------ | ---------------------------------------------
+Reddit | https://www.reddit.com/r/SocialEngineering/
+List of social network | https://en.wikipedia.org/wiki/List_of_social_networking_websites
+Pipl | https://pipl.com/
+Peek you | http://www.peekyou.com/
+Yatedo | http://www.yatedo.com/
+Lullar | http://com.lullar.com/
+Lakako | http://www.lakako.com/
+Yasni | http://www.yasni.com/
+Google | https://www.google.com/advanced_search
+Google dorks | `intext:lastName firstName`
+Google dorks | `insubject:lastName firstName`
+Google dorks | `intext:lastName firstName filetype:pdf || filetype:doc || filetype:xml || filetype:txt ||  filetype:xls || filetype:ppt || filetype:pps || filetype:docx || filetype:wps || filetype:rtf || filetype:csv || filetype:pptx || filetype:xlsx || filetype:xlr || filetype:sxw || filetype:ods || filetype:odt || filetype:psw`
+Bing | https://www.bing.com/
+Bing dorks | `lastName firstName (filetype:doc OR filetype:ppt OR filetype:pps OR filetype:xls OR filetype:docx OR filetype:pptx OR filetype:ppsx OR filetype:xlsx OR filetype:sxw OR filetype:sxc OR filetype:sxi OR filetype:odt OR filetype:ods OR filetype:odg OR filetype:odp OR filetype:pdf OR filetype:wpd OR filetype:svg OR filetype:svgz OR filetype:indd OR filetype:rdp OR filetype:ica)`
+Yahoo | https://search.yahoo.com/
+Duck duck go | https://duckduckgo.com/
+Yandex | https://www.yandex.com/
+Exa lead | http://www.exalead.com
+Maltego | https://www.paterva.com/
+Osint stalker | https://github.com/milo2012/osintstalker
+Speed phish framework | https://github.com/tatanus/SPF
+Browser exploitation framework | https://github.com/beefproject/beef
+The harvester | https://github.com/laramies/theHarvester
+Meta goofil | https://github.com/laramies/metagoofil
+
+
+<br />
+
+
 ##Port scanners :dart:
 Name | URL
 ------------------------------------ | ---------------------------------------------
@@ -262,20 +310,6 @@ Nscan | https://github.com/OffensivePython/Nscan
 Scanrand | https://www.sans.org/security-resources/idfaq/scanrand.php
 PFRing | https://github.com/ntop/PF_RING - High-speed packet processing framework
 
-
-<br />
-
-
-##Search engines :satellite:
-Name | URL
------------------------------------- | ---------------------------------------------
-ZoomEye | https://zoomeye.org/ :+1:
-Shodan | https://www.shodan.io/
-Censys | https://censys.io/
-Gegereka | http://gegereka.com/ (not always up)
-Google | https://www.google.com/advanced_search
-Google dorks | https://gist.github.com/zbetcheckin/04e6a5d7f2d5ef8cfa3c298701f47f9c
-List of search engines | https://en.wikipedia.org/wiki/List_of_search_engines
 
 <br />
 
