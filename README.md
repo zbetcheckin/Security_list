@@ -273,7 +273,9 @@ ZoomEye | https://zoomeye.org/ :+1:
 Shodan | https://www.shodan.io/
 Censys | https://censys.io/
 Gegereka | http://gegereka.com/ (not always up)
-
+Google | https://www.google.com/advanced_search
+Google dorks | https://gist.github.com/zbetcheckin/04e6a5d7f2d5ef8cfa3c298701f47f9c
+List of search engines | https://en.wikipedia.org/wiki/List_of_search_engines
 
 <br />
 
@@ -326,6 +328,7 @@ Tracker | http://tracker.h3x.eu/
 Exposed Botnets	| http://www.exposedbotnets.com/
 VX Vault | http://vxvault.siri-urz.net
 Open Malware | http://openmalware.org/
+Malware exploit database | https://www.pwnmalw.re/
 Total hash | https://totalhash.cymru.com/
 Custom Google search engine | https://cse.google.com/cse/home?cx=011750002002865445766%3Apc60zx1rliu (from Corey Harrell)
 Contagio | http://contagiodump.blogspot.se/
@@ -346,7 +349,7 @@ ZeuS Tracker | https://zeustracker.abuse.ch
 theZoo aka Malware DB | https://ytisf.github.io/theZoo/
 Malware Analysis course | https://github.com/RPISEC/Malware
 Structured Threat Information eXpression | https://stixproject.github.io/
-
+Vulnerability scoring calculator | https://nvd.nist.gov/cvss/v3-calculator
 
 <br />
 
@@ -721,6 +724,7 @@ Tails |	https://blog.torproject.org/blogs/tails
 Name | URL 
 ------------------------------------ | ---------------------------------------------
 Browser recommendations | https://gist.github.com/atcuno/3425484ac5cce5298932
+Browser exploit | https://github.com/julienbedard/browsersploit
 Fingerprint | https://amiunique.org/
 Amiunique project | https://github.com/DIVERSIFY-project/amiunique
 Fingerprint | https://panopticlick.eff.org/
@@ -776,6 +780,7 @@ Name | URL
 Pwnie Awards | http://pwnies.com/nominations/
 Malware museum | https://archive.org/details/malwaremuseum
 Dead drops | https://deaddrops.com/db/
+Mozilla location service | https://location.services.mozilla.com/map - Thx [rawger](https://twitter.com/_rawger)
 The cyber shark map | https://lab.thecybershark.com/
 Norse map | http://map.norsecorp.com/
 Fire eye map | https://www.fireeye.com/cyber-map/threat-map.html
