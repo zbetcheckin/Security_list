@@ -101,6 +101,7 @@ Footprinting | http://www.0daysecurity.com/penetration-testing/network-footprint
 Web | http://www.w4rri0r.com/softwares-freeware-shareware-open-source/web-application-analysis.html
 Web vulnerabilities | http://www.w4rri0r.com/softwares-freeware-shareware-open-source/vulnerability-assessment.html
 SANS Penetration Testing | http://pen-testing.sans.org
+Python tools | https://github.com/dloss/python-pentest-tools
 Great tools list | http://wiki.yobi.be/wiki/Table_of_contents#Security
 Kali list | http://tools.kali.org/tools-listing
 BlackArch list | https://blackarch.org/tools.html
@@ -213,7 +214,7 @@ Owasp list | https://www.owasp.org/index.php/OWASP_Vulnerable_Web_Applications_D
 Owasp BWA | https://www.owasp.org/index.php/OWASP_Broken_Web_Applications_Project
 DVWA | http://www.dvwa.co.uk/
 WebGoat	| http://code.google.com/p/webgoat
-Metasploitable | http://information.rapid7.com
+Metasploitable | https://information.rapid7.com/metasploitable-download.html
 VulnHub	| http://vulnhub.com/
 LampSecurity | http://sourceforge.net/projects/lampsecurity/
 Dragon | https://www.dragonresearchgroup.org/challenges/
@@ -230,7 +231,6 @@ XSS play ground	| http://xssplayground.net23.net/
 Name	|URL 
 ------------------------------------ | ---------------------------------------------
 Many books | https://yadi.sk/d/Fkww0QKbuTdVF :trophy:
-Books | https://github.com/JpGallegos/CySecBooks/
 
 
 <br />
@@ -278,6 +278,7 @@ Yatedo | http://www.yatedo.com/
 Lullar | http://com.lullar.com/
 Lakako | http://www.lakako.com/
 Yasni | http://www.yasni.com/
+User search | https://usersearch.org/
 Google | https://www.google.com/advanced_search
 Google dorks | `intext:lastName firstName`
 Google dorks | `insubject:lastName firstName`
@@ -487,6 +488,7 @@ Lynis | https://packages.debian.org/en/jessie/lynis
 Chkrootkit | https://packages.debian.org/en/jessie/chkrootkit
 RKhunter | https://packages.debian.org/en/jessie/rkhunter
 Debsecan | https://packages.debian.org/en/jessie/debsecan
+Vulnerability scanner | https://github.com/future-architect/vuls
 GNU/Linux post exploitation | https://github.com/mubix/post-exploitation/wiki/Linux-Post-Exploitation-Command-List
 GNU/Linux workstation | https://github.com/lfit/itpol/blob/master/linux-workstation-security.md
 Securing debian | https://www.debian.org/doc/manuals/securing-debian-howto/ch10.en.html
@@ -574,6 +576,8 @@ Google | https://www.google.com/transparencyreport/safebrowsing/diagnostic/
 Sucuri | http://sitecheck.sucuri.net/scanner/
 Trusted source | http://www.trustedsource.org/
 Isithacked | http://www.isithacked.com
+DNS dumpster | https://dnsdumpster.com/
+Threat miner | https://www.threatminer.org/
 MXToolBox | https://mxtoolbox.com/SuperTool.aspx#
 Wois | https://whois.domaintools.com/
 Build with | https://builtwith.com/
@@ -621,6 +625,11 @@ Red-pill | http://shells.red-pill.eu/
 ##Mail utilities :mailbox_with_mail:
 Name | URL 
 ------------------------------------ | ---------------------------------------------
+Yop mail | http://www.yopmail.com/
+Mailinator | https://www.mailinator.com/ # https://gist.github.com/nocturnalgeek/1b8fa44283314544c487
+Mailnesia | http://mailnesia.com/
+Mailcatch | http://mailcatch.com/
+Get air mail | http://en.getairmail.com/
 10 Minute Mail | http://10minutemail.com
 Spam DB | http://www.dnsbl.info/dnsbl-database-check.php
 Mxtoolbox | http://www.mxtoolbox.com/
@@ -744,6 +753,7 @@ Tor hidden services | https://www.torproject.org/docs/hidden-services.html.en
 Tor Hidden Services search | http://www.ahmia.fi
 Tor hidden services scanner | https://github.com/superp00t/sadonion
 Scan Onion Services | https://github.com/s-rah/onionscan
+URL onion inspector | https://github.com/k4m4/onioff
 Tor Browser Fingerprint | https://github.com/jonaslejon/tor-fingerprint
 Tor relays bandwidth | https://github.com/TheTorProject/bwscanner
 Tor flow map | https://torflow.uncharted.software
