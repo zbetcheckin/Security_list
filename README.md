@@ -723,7 +723,6 @@ Name | URL
 Zone-H | https://zone-h.org/
 Mr white | https://mrwhite.biz/
 URL Find | http://urlfind.org/
-XSSposed | https://www.xssposed.org/
 Leakedin | http://www.leakedin.com/
 
 
