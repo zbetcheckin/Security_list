@@ -118,6 +118,7 @@ Name | URL
 CVEdetails | http://www.cvedetails.com/
 CVE.mitre | https://cve.mitre.org/
 Full disclosure | http://seclists.org/fulldisclosure/
+See bug | https://www.seebug.org/ :+1:
 CXSecurity | https://cxsecurity.com/ :+1:
 Exploit-db | http://www.exploit-db.com
 Vulnerability-lab | http://www.vulnerability-lab.com/
@@ -239,8 +240,11 @@ Many books | https://yadi.sk/d/Fkww0QKbuTdVF :trophy:
 ##Bug bounty :chocolate_bar:
 Name	|URL 
 ------------------------------------ | ---------------------------------------------
-BugCrowd.com | https://bugcrowd.com/programs
+Great list of Bug Bounty programs | https://github.com/ngalongc/bug-bounty-reference
+Great list of Bug Bounty programs | https://github.com/djadmin/awesome-bug-bounty
 HackerOne | https://hackerone.com
+BugCrowd.com | https://bugcrowd.com/programs
+Open bug bounty | https://www.openbugbounty.org/
 BountyFactory | https://bountyfactory.io
 Firebounty | https://firebounty.com
 Bugsheet | http://www.bugsheet.com/
@@ -494,6 +498,7 @@ GNU/Linux workstation | https://github.com/lfit/itpol/blob/master/linux-workstat
 Securing debian | https://www.debian.org/doc/manuals/securing-debian-howto/ch10.en.html
 GNU/Linux containers | https://github.com/Friz-zy/awesome-linux-containers#security
 Command collection | https://github.com/tuwid/GNU-Linux-OpsWiki
+GNU/Linux executable walkthrough | https://i.imgur.com/q5nyHp7.png
 
 
 <br />
@@ -504,6 +509,7 @@ Name | URL
 ------------------------------------ | ---------------------------------------------
 Windows exploitation | https://github.com/enddo/awesome-windows-exploitation
 Anti forensic Windows | https://www.reddit.com/r/security/comments/32fb1l/open_guide_to_scrubbing_windows_oss_from_forensic/
+Windows executable walkthrough | https://i.imgur.com/pHjcI.png
 
 
 <br />
@@ -682,8 +688,7 @@ Will be reorganized</sub><br />
 
 Name	|URL 
 ------------------------------------ | ---------------------------------------------
-Linux executable walkthrough | https://i.imgur.com/q5nyHp7.png
-Windows executable walkthrough | https://i.imgur.com/pHjcI.png
+Skimmers | https://krebsonsecurity.com/all-about-skimmers/
 Understand your commands | http://explainshell.com
 Hashes example | https://hashcat.net/wiki/doku.php?id=example_hashes
 w4rri0r toolbox | http://www.w4rri0r.com/
@@ -701,11 +706,8 @@ Magic-net | http://www.magic-net.info
 MAC_Find | http://www.coffer.com/mac_find/
 MAC_Search | http://hwaddress.com
 Mibbit | http://www.mibbit.com/
-Skype grab | http://skypegrab.net/resolver.php
-Microsoft security scanner | http://www.microsoft.com/security
 Microsoft threat | http://www.microsoft.com/security
 Random data generator | http://www.mockaroo.com/
-Nmap-parser | http://www.nmap-parser.org/
 Ping.eu | http://ping.eu/
 Project Honeypot | https://www.projecthoneypot.org/
 Router-defaults	| http://router-defaults.com/
