@@ -348,8 +348,8 @@ Blackhat conference | [https://www.blackhat.com/](https://www.blackhat.com/docs/
 Name | URL
 ------------------------------------ | ---------------------------------------------
 Awesome list - All of them ! | https://github.com/paralax/awesome-honeypots#honeypots :trophy:
+Honeynet | https://honeynet.org/project
 Live nothink | http://www.nothink.org/honeypots.php
-Live sshpot | http://sshpot.com/
 
 
 <br />
@@ -664,7 +664,12 @@ Default password | https://default-password.info/
 Default password | https://cirt.net/passwords
 Default password | http://www.defaultpassword.com/
 Default password | http://www.defaultpassword.us/
-Default Router Password | http://portforward.com/default_username_password/
+Default router Password | http://portforward.com/default_username_password/
+Default router password | http://router-defaults.com/
+Dafault router password | http://www.cleancss.com/router-default/
+Default router password | https://github.com/jeanphorn/wordlist/blob/master/router_default_password.md
+Default IP Cameras password | https://github.com/jeanphorn/wordlist/blob/master/README.md
+Default VoIP password | https://github.com/netbiosX/Default-Credentials/blob/master/VoIP-Default-Password-List.mdown
 Skull security | https://wiki.skullsecurity.org/Passwords
 SecLists | https://github.com/danielmiessler/SecLists/tree/master/Passwords
 OpenWall | http://www.openwall.com/passwords/wordlists/ or ftp://ftp.openwall.com/pub/wordlists/
@@ -710,7 +715,6 @@ Microsoft threat | http://www.microsoft.com/security
 Random data generator | http://www.mockaroo.com/
 Ping.eu | http://ping.eu/
 Project Honeypot | https://www.projecthoneypot.org/
-Router-defaults	| http://router-defaults.com/
 Sandsprite | http://sandsprite.com/shellcode_2_exe.php
 Uptimerobot | http://uptimerobot.com/
 Fake ID | http://www.fakenamegenerator.com/
