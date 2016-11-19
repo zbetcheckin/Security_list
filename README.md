@@ -34,7 +34,7 @@ I wanted to update it with my sources, I will probably continue to update and re
 * [Mail utilities](https://github.com/zbetcheckin/Security_list/blob/master/README.md#mail-utilities-mailbox_with_mail)<br />
 * [Passwords](https://github.com/zbetcheckin/Security_list/blob/master/README.md#passwords-key)<br />
 * [Generic utilities](https://github.com/zbetcheckin/Security_list/blob/master/README.md#generic-utilities-file_folder)<br />
-* [Defaced websites / Data leak](https://github.com/zbetcheckin/Security_list/blob/master/README.md#defaced-websites--data-leak-ambulance)<br />
+* [Leak / Defaced](https://github.com/zbetcheckin/Security_list/blob/master/README.md#leak--defaced-ambulance)<br />
 * [Wireless](https://github.com/zbetcheckin/Security_list/blob/master/README.md#wireless-signal_strength)<br />
 * [VOIP](https://github.com/zbetcheckin/Security_list/blob/master/README.md#voip-phone)<br />
 * [Free shell](https://github.com/zbetcheckin/Security_list/blob/master/README.md#free-shell-shell)<br />
@@ -762,7 +762,7 @@ Fake ID | http://www.fakenamegenerator.com/
 <br />
 
 
-##Defaced websites / Data leak :ambulance:
+##Leak / Defaced :ambulance:
 Name | URL 
 ------------------------------------ | ---------------------------------------------
 Have I been pwned | https://haveibeenpwned.com/
