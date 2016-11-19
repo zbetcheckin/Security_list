@@ -23,7 +23,7 @@ I wanted to update it with my sources, I will probably continue to update and re
 * [Honeypots](https://github.com/zbetcheckin/Security_list/blob/master/README.md#honeypots-honey_pot)<br />
 * [Malware / Botnet sources](https://github.com/zbetcheckin/Security_list/blob/master/README.md#malware--botnet-sources-angel)<br />
 * [Malware analysis - Sandbox](https://github.com/zbetcheckin/Security_list/blob/master/README.md#malware-analysis---sandbox-mask)<br />
-* [Malware analysis - Sandbox - Online](https://github.com/zbetcheckin/Security_list/blob/master/README.md#online-malware-analysis---sandbox---online-mask)<br />
+* [Malware analysis - Sandbox - Online](https://github.com/zbetcheckin/Security_list/blob/master/README.md#malware-analysis---sandbox---online-mask)<br />
 * [Decoder/Packer/Unpacker](https://github.com/zbetcheckin/Security_list/blob/master/README.md#decoderpackerunpacker-hurtrealbad)<br />
 * [GNU/Linux](https://github.com/zbetcheckin/Security_list/blob/master/README.md#gnulinux)<br />
 * [Windows](https://github.com/zbetcheckin/Security_list/blob/master/README.md#windows)<br />
