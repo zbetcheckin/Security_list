@@ -126,6 +126,9 @@ CXSecurity | https://cxsecurity.com/ :+1:
 Exploit-db | http://www.exploit-db.com
 Vulnerability-lab | http://www.vulnerability-lab.com/
 Inj3ct0r | http://0day.today/
+Packet Storm | https://packetstormsecurity.com/files/tags/exploit/
+Vulndb | https://vuldb.com/?archive.2016
+Vulners | https://vulners.com/search?query=order:published
 Backdoor - TCP-32764 | https://github.com/elvanderb/TCP-32764
 Rapid7 DB | https://www.rapid7.com/db/modules/
 Intelligent Exploit | http://www.intelligentexploit.com
@@ -138,6 +141,7 @@ Mail received | http://lists.openwall.net/full-disclosure/2016/
 Mailing list | http://seclists.org/
 Mailing list | https://lists.debian.org/debian-security-announce/
 Vulnerability scoring calculator | https://nvd.nist.gov/cvss/v3-calculator
+CVSS | https://www.first.org/cvss
 
 
 <br />
@@ -247,16 +251,21 @@ Many books | https://yadi.sk/d/Fkww0QKbuTdVF :trophy:
 ##Bug bounty :chocolate_bar:
 Name	|URL 
 ------------------------------------ | ---------------------------------------------
-Great list of Bug Bounty programs | https://github.com/ngalongc/bug-bounty-reference
-Great list of Bug Bounty programs | https://github.com/djadmin/awesome-bug-bounty
+Programs and write-ups | https://github.com/djadmin/awesome-bug-bounty
+Write-ups | https://github.com/ngalongc/bug-bounty-reference
 HackerOne | https://hackerone.com
 BugCrowd.com | https://bugcrowd.com/programs
+Zerodium | https://www.zerodium.com/
+Vul box | https://www.vulbox.com/
 Open bug bounty | https://www.openbugbounty.org/
 BountyFactory | https://bountyfactory.io
 Firebounty | https://firebounty.com
 Bugsheet | http://www.bugsheet.com/
 BountySource | https://www.bountysource.com/
 NewsLetter about bug bounty | http://bugbountyweekly.com
+Hunter edu | http://www.bountyhunteredu.org/careers/
+Google | https://www.google.com/about/appsecurity/reward-program/
+Microsoft | https://technet.microsoft.com/en-us/security/dn425036
 More bug bounty | https://bugcrowd.com/list-of-bug-bounty-programs#
 
 
@@ -283,6 +292,7 @@ Name | URL
 ------------------------------------ | ---------------------------------------------
 Reddit | https://www.reddit.com/r/SocialEngineering/
 List of social network | https://en.wikipedia.org/wiki/List_of_social_networking_websites
+Hunter | https://hunter.io/
 Pipl | https://pipl.com/
 Peek you | http://www.peekyou.com/
 Yatedo | http://www.yatedo.com/
@@ -475,8 +485,14 @@ MobiSecLab | http://akana.mobiseclab.org/
 ##Decoder/Packer/Unpacker :hurtrealbad:
 Name | URL 
 ------------------------------------ | ---------------------------------------------
-URL | http://meyerweb.com/eric/tools/dencoder/
-HEXdecoder | http://ddecode.com/hexdecoder/
+Code beautifier | http://codebeautify.org/
+VB code beautifier | http://warp.senecac.on.ca/timothy.mckenna/CodeFormatter.asp
+VB code beautifier | http://www.vbindent.com/
+PHP formatter | http://beta.phpformatter.com/
+PHPdecoder | http://ddecode.com/phpdecoder/
+PHP encoding | http://yehg.net/encoding/
+SQL formatter | http://dpriver.com/pp/sqlformat.htm
+XML formatter | http://chris.photobooks.com/xml/default.htm
 JSDetox | http://www.relentless-coding.com/projects/jsdetox/
 JSNice | http://www.jsnice.org/
 JSUnpack | https://github.com/urule99/jsunpack-n
@@ -486,8 +502,9 @@ Jjencode | http://utf-8.jp/public/jjencode.html
 JSFuck | http://www.jsfuck.com/
 Jsobfuscate | http://www.jsobfuscate.com/
 Netteleuthe | http://www.netteleuthe.de/gc/
-PHPdecoder | http://ddecode.com/phpdecoder/
-PHP encoding | http://yehg.net/encoding/
+Colour higlighter | http://quickhighlighter.com/
+URL | http://meyerweb.com/eric/tools/dencoder/
+HEXdecoder | http://ddecode.com/hexdecoder/
 Hackvertor (Tag based decoder/encoder) | https://hackvertor.co.uk/public
 
 
@@ -568,13 +585,17 @@ Whois | https://whois.domaintools.com/
 IP void | http://www.ipvoid.com/ :+1:
 IPv4 info | http://ipv4info.com/ :+1:
 TCP utils | http://www.tcpiputils.com/
+Virus total | https://www.virustotal.com/en/ip-address/xxx.xxx.xxx.xxx/information/
+Multi RBL |  http://multirbl.valli.org/lookup/
 Black List Alert | http://www.blacklistalert.org/
 Whatch Guard | http://www.reputationauthority.org/
 Black List Check | http://whatismyipaddress.com/blacklist-check/
 Project Honeypot | https://www.projecthoneypot.org/search_ip.php
 Spamhaus | https://www.spamhaus.org/lookup/
 Nirsoft country IP | http://www.nirsoft.net/countryip/
-Check-host | http://check-host.net/
+Host file | https://hosts-file.net/
+Check host | http://check-host.net/
+Host tracker | https://www.host-tracker.com/
 
 <br />
 
@@ -589,6 +610,9 @@ urlQuery | http://urlquery.net/search.php :+1:
 Virus total | https://www.virustotal.com/#url
 Google | https://www.google.com/transparencyreport/safebrowsing/diagnostic/
 Sucuri | http://sitecheck.sucuri.net/scanner/
+RBL | http://rbls.org/
+Multi RBL | http://multirbl.valli.org/lookup/
+Global DNS checker | https://www.whatsmydns.net/
 Trusted source | http://www.trustedsource.org/
 Isithacked | http://www.isithacked.com
 DNS dumpster | https://dnsdumpster.com/
@@ -657,6 +681,7 @@ SimplyEmail | https://github.com/killswitch-GUI/SimplyEmail
 SpeedPhish Framework | https://github.com/tatanus/SPF
 Phishing Framework | https://github.com/pentestgeek/phishing-frenzy
 Spam encode secret | http://spammimic.com/encode.cgi
+DNSBL | https://en.wikipedia.org/wiki/DNSBL
 
 
 <br />
@@ -702,6 +727,8 @@ Will be reorganized</sub><br />
 
 Name	|URL 
 ------------------------------------ | ---------------------------------------------
+Electronic Frontier Foundation | https://www.eff.org/
+CERT teams | https://www.first.org/about/organization/teams
 Skimmers | https://krebsonsecurity.com/all-about-skimmers/
 Understand your commands | http://explainshell.com
 Hashes example | https://hashcat.net/wiki/doku.php?id=example_hashes
@@ -712,8 +739,11 @@ Tools | http://seclist.us/
 Sans | http://isc.sans.edu/diary/
 Security wiki | http://oss-security.openwall.org/wiki/
 Hackforum | http://hackforums.net/
+Cracking forum | http://crackingforum.com/
+Cracking seal | https://crackingseal.io/
+0day.su | https://0day.su/
+Deepweb | https://www.reddit.com/r/deepweb/
 Codepad	| http://codepad.org/
-Browserling | http://browserling.com/
 GZinflate | http://www.tareeinternet.com/scripts/decrypt.php
 Hurl | http://www.hurl.it/
 Magic-net | http://www.magic-net.info
@@ -755,16 +785,21 @@ Location test | https://ipleak.net/
 <br />
 
 
-##Tor resources
+##Tor
 Name | URL 
 ------------------------------------ | ---------------------------------------------
 Tor Project | https://www.torproject.org/
 Tor know exit nodes | https://check.torproject.org/exit-addresses
+Tor IP history | https://exonerator.torproject.org/
 Tor bulk exit list | https://check.torproject.org/cgi-bin/TorBulkExitList.py
 Tor status | https://torstatus.blutmagie.de/
 Tor socks | https://gitweb.torproject.org/torsocks.git
+Grams - search engine | http://grams7enufi7jmdl.onion/
+Ahmia - search engine | https://ahmia.fi/
+TORCH - search engine | http://xmh57jrzrnw6insl.onion/
+DuckDuckGo | http://3g2upl4pq6kufc4m.onion/ 
+The hidden wiki | https://thehiddenwiki.org/
 Tor hidden services | https://www.torproject.org/docs/hidden-services.html.en
-Tor Hidden Services search | http://www.ahmia.fi
 Tor hidden services scanner | https://github.com/superp00t/sadonion
 Scan Onion Services | https://github.com/s-rah/onionscan
 URL onion inspector | https://github.com/k4m4/onioff
@@ -773,6 +808,7 @@ Tor relays bandwidth | https://github.com/TheTorProject/bwscanner
 Tor flow map | https://torflow.uncharted.software
 Onion Mail | http://onionmail.info/
 Tails |	https://blog.torproject.org/blogs/tails
+Reddit | https://www.reddit.com/r/onions/
 
 
 <br />
@@ -787,10 +823,12 @@ Fingerprint | https://amiunique.org/
 Amiunique project | https://github.com/DIVERSIFY-project/amiunique
 Fingerprint | https://panopticlick.eff.org/
 Browser info | http://www.browser-info.net/
+Browser leaks | https://www.browserleaks.com/
 SSL | https://www.ssllabs.com/ssltest/viewMyClient.html
 User agent | http://whatsmyuseragent.com/
 Referer | https://www.whatismyreferer.com/
 Flash | http://isflashinstalled.com/
+Browserling | https://www.browserling.com/
 
 
 <br />
