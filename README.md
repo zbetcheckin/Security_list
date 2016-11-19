@@ -50,9 +50,11 @@ I wanted to update it with my sources, I will probably continue to update and re
 ##Awesome lists :+1:
 Name | URL 
 ------------------------------------ | ---------------------------------------------
+Collection of awesome lists | https://github.com/Hack-with-Github/Awesome-Hacking :trophy:
 Malware analysis | https://github.com/rshipp/awesome-malware-analysis/ :trophy:
 Incident response | https://github.com/meirwah/awesome-incident-response/ :trophy:
 Honeypots | https://github.com/paralax/awesome-honeypots :trophy:
+Threat intelligence | https://github.com/hslatman/awesome-threat-intelligence
 PCAP | https://github.com/caesar0301/awesome-pcaptools
 Network | https://github.com/Security-Onion-Solutions/security-onion/wiki/Tools
 GNU/Linux workstation | https://github.com/lfit/itpol/blob/master/linux-workstation-security.md
@@ -82,6 +84,7 @@ Penetration Test | https://highon.coffee/blog/penetration-testing-tools-cheat-sh
 SQL injection | http://websec.ca/kb/sql_injection
 LFI | https://highon.coffee/blog/lfi-cheat-sheet/
 Zeltser's cheat sheets list | https://zeltser.com/cheat-sheets/
+General cheat sheets | http://www.cheat-sheets.org/
 
 
 <br />
@@ -132,7 +135,9 @@ Security focus | http://www.securityfocus.com/vulnerabilities
 Country compatibility | https://cve.mitre.org/compatible/country.html
 Mailing list | https://nmap.org/mailman/listinfo/fulldisclosure
 Mail received | http://lists.openwall.net/full-disclosure/2016/
+Mailing list | http://seclists.org/
 Mailing list | https://lists.debian.org/debian-security-announce/
+Vulnerability scoring calculator | https://nvd.nist.gov/cvss/v3-calculator
 
 
 <br />
@@ -159,11 +164,13 @@ Mellivora platform | https://github.com/Nakiami/mellivora
 ##Exercises :mortar_board:
 Name | URL 
 ------------------------------------ | ---------------------------------------------
+Essential basics | https://github.com/alex/what-happens-when
 Reverse - Malware | http://fumalwareanalysis.blogspot.se/p/malware-analysis-tutorials-reverse.html
 Network - Malware | http://www.malware-traffic-analysis.net/training-exercises.html
 Network - Forensic | https://www.honeynet.org/node/504
 Exploits | https://exploit-exercises.com/
 Exploits | https://thesprawl.org/research/
+Basics with F-Secure | http://mooc.fi/courses/2016/cybersecurity/
 
 
 <br />
@@ -215,7 +222,7 @@ Owasp list | https://www.owasp.org/index.php/OWASP_Vulnerable_Web_Applications_D
 Owasp BWA | https://www.owasp.org/index.php/OWASP_Broken_Web_Applications_Project
 DVWA | http://www.dvwa.co.uk/
 WebGoat	| http://code.google.com/p/webgoat
-Metasploitable | https://information.rapid7.com/metasploitable-download.html
+Metasploitable 3 | https://github.com/rapid7/metasploitable3/wiki
 VulnHub	| http://vulnhub.com/
 LampSecurity | http://sourceforge.net/projects/lampsecurity/
 Dragon | https://www.dragonresearchgroup.org/challenges/
@@ -366,10 +373,12 @@ Malshare | http://malshare.com
 Tracker | http://tracker.h3x.eu/
 Exposed Botnets	| http://www.exposedbotnets.com/
 VX Vault | http://vxvault.siri-urz.net
-Open Malware | http://openmalware.org/
 Malware exploit database | https://www.pwnmalw.re/
 Total hash | https://totalhash.cymru.com/
+Cyber tracker | http://cybertracker.malwarehunterteam.com/
 Custom Google search engine | https://cse.google.com/cse/home?cx=011750002002865445766%3Apc60zx1rliu (from Corey Harrell)
+Ransomware overview | https://docs.google.com/spreadsheets/d/1TWS238xacAto-fLKh1n5uTsdijWdCEsGIM0Y0Hvmc5g/pubhtml#
+Ransomware simulator | https://shinolocker.com/
 Contagio | http://contagiodump.blogspot.se/
 VirusShare | http://virusshare.com/
 Virusign | http://www.virusign.com/
@@ -388,7 +397,7 @@ ZeuS Tracker | https://zeustracker.abuse.ch
 theZoo aka Malware DB | https://ytisf.github.io/theZoo/
 Malware Analysis course | https://github.com/RPISEC/Malware
 Structured Threat Information eXpression | https://stixproject.github.io/
-Vulnerability scoring calculator | https://nvd.nist.gov/cvss/v3-calculator
+
 
 <br />
 
