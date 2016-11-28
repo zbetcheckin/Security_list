@@ -1,7 +1,10 @@
 #Security list for fun and profit
 
 My initial idea came from this list : http://www.nothink.org/utilities.php
+
 I wanted to update it with my sources, I will probably continue to update and reorganize it in the future.
+
+## Table of Contents
 
 * [Awesome lists](#awesome-lists-1)
 * [Books](#books-books)
@@ -43,6 +46,7 @@ I wanted to update it with my sources, I will probably continue to update and re
 * [Windows](#windows)
 * [Wireless](#wireless-signal_strength)
 
+----
 
 ## Awesome lists :+1:
 Name | URL 
