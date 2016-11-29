@@ -1,54 +1,54 @@
 #Security list for fun and profit
 
-My initial idea came from this list : http://www.nothink.org/utilities.php<br />
+My initial idea came from this list : http://www.nothink.org/utilities.php
+
 I wanted to update it with my sources, I will probably continue to update and reorganize it in the future.
 
+## Table of Contents
 
+* [Awesome lists](#awesome-lists-1)
+* [Books](#books-books)
+* [Bug bounty](#bug-bounty-chocolate_bar)
+* [Cheat sheets](#cheat-sheets-1)
+* [CTF](#ctf-triangular_flag_on_post)
+* [Decoder/Packer/Unpacker](#decoderpackerunpacker-hurtrealbad)
+* [Domain Research / Analysis / Reputation](#domain-research--analysis--reputation-chart_with_downwards_trend)
+* [Exercises](#exercises-mortar_board)
+* [Exploits and vulnerabilities](#exploits-and-vulnerabilities-door)
+* [Forensic - Network](#forensic---network-mag)
+* [Fingerprint](#fingerprint)
+* [Free shell](#free-shell-shell)
+* [Fun](#fun-trollface)
+* [Generic utilities](#generic-utilities-file_folder)
+* [GNU/Linux](#gnulinux)
+* [Honeypots](#honeypots-honey_pot)
+* [IP Research / Analysis / Investigation](#ip-research--analysis--investigation)
+* [Leak / Defaced](#leak--defaced-ambulance)
+* [Mail utilities](#mail-utilities-mailbox_with_mail)
+* [Malicious traffic detection](#malicious-traffic-detection-vertical_traffic_light)
+* [Malware / Botnet sources](#malware--botnet-sources-angel)
+* [Malware analysis - Sandbox](#malware-analysis---sandbox-mask)
+* [Malware analysis - Sandbox - Online](#malware-analysis---sandbox---online-mask)
+* [OS X](#os-x)
+* [Passwords](#passwords-key)
+* [Penetration testing / Tools](#penetration-testing-wrench)
+* [Port scanners](#port-scanners-dart)
+* [Search engines](#search-engines-satellite)
+* [Security challenges / WarGames](#security-challenges--wargames-triangular_flag_on_post)
+* [Social engineering](#social-engineering)
+* [SSL](#ssl)
+* [Tor resources](#tor-resources)
+* [VOIP](#voip-phone)
+* [VPN](vpn)
+* [Vulnerable environments](#vulnerable-environments-unlock)
+* [Web browser](#web-browser)
+* [Wide Scans](#wide-scans-earth_americas)
+* [Windows](#windows)
+* [Wireless](#wireless-signal_strength)
 
-* [Awesome lists](https://github.com/zbetcheckin/Security_list/blob/master/README.md#awesome-lists-1)<br />
-* [Books](https://github.com/zbetcheckin/Security_list/blob/master/README.md#books-books)<br />
-* [Bug bounty](https://github.com/zbetcheckin/Security_list/blob/master/README.md#bug-bounty-chocolate_bar)<br />
-* [Cheat sheets](https://github.com/zbetcheckin/Security_list/blob/master/README.md#cheat-sheets-1)<br />
-* [CTF](https://github.com/zbetcheckin/Security_list/blob/master/README.md#ctf-triangular_flag_on_post)<br />
-* [Decoder/Packer/Unpacker](https://github.com/zbetcheckin/Security_list/blob/master/README.md#decoderpackerunpacker-hurtrealbad)<br />
-* [Domain Research / Analysis / Reputation](https://github.com/zbetcheckin/Security_list/blob/master/README.md#domain-research--analysis--reputation-chart_with_downwards_trend)<br />
-* [Exercises](https://github.com/zbetcheckin/Security_list/blob/master/README.md#exercises-mortar_board)<br />
-* [Exploits and vulnerabilities](https://github.com/zbetcheckin/Security_list/blob/master/README.md#exploits-and-vulnerabilities-door)<br />
-* [Forensic - Network](https://github.com/zbetcheckin/Security_list/blob/master/README.md#forensic---network-mag)<br />
-* [Fingerprint](https://github.com/zbetcheckin/Security_list/blob/master/README.md#fingerprint)<br />
-* [Free shell](https://github.com/zbetcheckin/Security_list/blob/master/README.md#free-shell-shell)<br />
-* [Fun](https://github.com/zbetcheckin/Security_list/blob/master/README.md#fun-trollface)<br />
-* [Generic utilities](https://github.com/zbetcheckin/Security_list/blob/master/README.md#generic-utilities-file_folder)<br />
-* [GNU/Linux](https://github.com/zbetcheckin/Security_list/blob/master/README.md#gnulinux)<br />
-* [Honeypots](https://github.com/zbetcheckin/Security_list/blob/master/README.md#honeypots-honey_pot)<br />
-* [IP Research / Analysis / Investigation](https://github.com/zbetcheckin/Security_list/blob/master/README.md#ip-research--analysis--investigation)<br />
-* [Leak / Defaced](https://github.com/zbetcheckin/Security_list/blob/master/README.md#leak--defaced-ambulance)<br />
-* [Mail utilities](https://github.com/zbetcheckin/Security_list/blob/master/README.md#mail-utilities-mailbox_with_mail)<br />
-* [Malicious traffic detection](https://github.com/zbetcheckin/Security_list/blob/master/README.md#malicious-traffic-detection-vertical_traffic_light)<br />
-* [Malware / Botnet sources](https://github.com/zbetcheckin/Security_list/blob/master/README.md#malware--botnet-sources-angel)<br />
-* [Malware analysis - Sandbox](https://github.com/zbetcheckin/Security_list/blob/master/README.md#malware-analysis---sandbox-mask)<br />
-* [Malware analysis - Sandbox - Online](https://github.com/zbetcheckin/Security_list/blob/master/README.md#malware-analysis---sandbox---online-mask)<br />
-* [OS X](https://github.com/zbetcheckin/Security_list/blob/master/README.md#os-x)<br />
-* [Passwords](https://github.com/zbetcheckin/Security_list/blob/master/README.md#passwords-key)<br />
-* [Penetration testing / Tools](https://github.com/zbetcheckin/Security_list/blob/master/README.md#penetration-testing-wrench)<br />
-* [Port scanners](https://github.com/zbetcheckin/Security_list/blob/master/README.md#port-scanners-dart)<br />
-* [Search engines](https://github.com/zbetcheckin/Security_list/blob/master/README.md#search-engines-satellite)<br />
-* [Security challenges / WarGames](https://github.com/zbetcheckin/Security_list/blob/master/README.md#security-challenges--wargames-triangular_flag_on_post)<br />
-* [Social engineering](https://github.com/zbetcheckin/Security_list/blob/master/README.md#social-engineering)<br />
-* [SSL](https://github.com/zbetcheckin/Security_list/blob/master/README.md#ssl)<br />
-* [Tor resources](https://github.com/zbetcheckin/Security_list/blob/master/README.md#tor-resources)<br />
-* [VOIP](https://github.com/zbetcheckin/Security_list/blob/master/README.md#voip-phone)<br />
-* [VPN](https://github.com/zbetcheckin/Security_list/blob/master/README.md#vpn)<br />
-* [Vulnerable environments](https://github.com/zbetcheckin/Security_list/blob/master/README.md#vulnerable-environments-unlock)<br />
-* [Web browser](https://github.com/zbetcheckin/Security_list/blob/master/README.md#web-browser)<br />
-* [Wide Scans](https://github.com/zbetcheckin/Security_list/blob/master/README.md#wide-scans-earth_americas)<br />
-* [Windows](https://github.com/zbetcheckin/Security_list/blob/master/README.md#windows)<br />
-* [Wireless](https://github.com/zbetcheckin/Security_list/blob/master/README.md#wireless-signal_strength)<br />
+----
 
-
-
-
-##Awesome lists :+1:
+## Awesome lists :+1:
 Name | URL 
 ------------------------------------ | ---------------------------------------------
 Collection of awesome lists | https://github.com/Hack-with-Github/Awesome-Hacking :trophy:
@@ -68,10 +68,7 @@ Lists of lists of lists | https://github.com/t3chnoboy/awesome-awesome-awesome
 Other lists of lists of lists | https://github.com/geekan/awesome-awesome-awesome
 
 
-<br />
-
-
-##Cheat sheets :+1:
+## Cheat sheets :+1:
 Name | URL
 ------------------------------------ | ---------------------------------------------
 Owasp cheat sheet series | https://www.owasp.org/index.php/OWASP_Cheat_Sheet_Series
@@ -88,10 +85,7 @@ Zeltser's cheat sheets list | https://zeltser.com/cheat-sheets/
 General cheat sheets | http://www.cheat-sheets.org/
 
 
-<br />
-
-
-##Penetration testing :wrench:
+## Penetration testing :wrench:
 Name | URL
 ------------------------------------ | ---------------------------------------------
 Owasp Check list | https://www.owasp.org/index.php/Testing_Checklist
@@ -113,10 +107,7 @@ More tools | http://www.cotse.com/tools/
 More tools | https://github.com/enaqx/awesome-pentest
 
 
-<br />
-
-
-##Exploits and vulnerabilities :door:
+## Exploits and vulnerabilities :door:
 Name | URL 
 ------------------------------------ | ---------------------------------------------
 CVEdetails | http://www.cvedetails.com/
@@ -145,10 +136,7 @@ Vulnerability scoring calculator | https://nvd.nist.gov/cvss/v3-calculator
 CVSS | https://www.first.org/cvss
 
 
-<br />
-
-
-##CTF :triangular_flag_on_post:
+## CTF :triangular_flag_on_post:
 Name | URL 
 ------------------------------------ | ---------------------------------------------
 CTFTIME | https://ctftime.org/
@@ -163,10 +151,7 @@ Facebook platform | https://github.com/facebook/fbctf
 Mellivora platform | https://github.com/Nakiami/mellivora
 
 
-<br />
-
-
-##Exercises :mortar_board:
+## Exercises :mortar_board:
 Name | URL 
 ------------------------------------ | ---------------------------------------------
 Essential basics | https://github.com/alex/what-happens-when
@@ -177,11 +162,7 @@ Exploits | https://exploit-exercises.com/
 Exploits | https://thesprawl.org/research/
 Basics with F-Secure | http://mooc.fi/courses/2016/cybersecurity/
 
-
-<br />
-
-
-##Security challenges / WarGames :triangular_flag_on_post:
+## Security challenges / WarGames :triangular_flag_on_post:
 Name | URL 
 ------------------------------------ | ---------------------------------------------
 Zenk-Security | https://www.zenk-security.com/
@@ -217,10 +198,7 @@ Microcorruption | https://microcorruption.com/
 More challenges | http://captf.com/practice-ctf/
 
 
-<br />
-
-
-##Vulnerable environments :unlock:
+## Vulnerable environments :unlock:
 Name | URL 
 ------------------------------------ | ---------------------------------------------
 Owasp list | https://www.owasp.org/index.php/OWASP_Vulnerable_Web_Applications_Directory_Project/Pages/Offline
@@ -237,19 +215,13 @@ Peruggia | http://sourceforge.net/projects/peruggia/
 XSS play ground	| http://xssplayground.net23.net/
 
 
-<br />
-
-
-##Books :books:
+## Books :books:
 Name	|URL 
 ------------------------------------ | ---------------------------------------------
 Many books | https://yadi.sk/d/Fkww0QKbuTdVF :trophy:
 
 
-<br />
-
-
-##Bug bounty :chocolate_bar:
+## Bug bounty :chocolate_bar:
 Name	|URL 
 ------------------------------------ | ---------------------------------------------
 Programs and write-ups | https://github.com/djadmin/awesome-bug-bounty
@@ -270,10 +242,7 @@ Microsoft | https://technet.microsoft.com/en-us/security/dn425036
 More bug bounty | https://bugcrowd.com/list-of-bug-bounty-programs#
 
 
-<br />
-
-
-##Search engines :satellite:
+## Search engines :satellite:
 Name | URL
 ------------------------------------ | ---------------------------------------------
 ZoomEye | https://zoomeye.org/ :+1:
@@ -285,10 +254,7 @@ Google dorks | https://gist.github.com/zbetcheckin/04e6a5d7f2d5ef8cfa3c298701f47
 List of search engines | https://en.wikipedia.org/wiki/List_of_search_engines
 
 
-<br />
-
-
-##Social engineering
+## Social engineering
 Name | URL
 ------------------------------------ | ---------------------------------------------
 Reddit | https://www.reddit.com/r/SocialEngineering/
@@ -319,10 +285,7 @@ The harvester | https://github.com/laramies/theHarvester
 Meta goofil | https://github.com/laramies/metagoofil
 
 
-<br />
-
-
-##Port scanners :dart:
+## Port scanners :dart:
 Name | URL
 ------------------------------------ | ---------------------------------------------
 Masscan | https://github.com/robertdavidgraham/masscan
@@ -334,10 +297,7 @@ Scanrand | https://www.sans.org/security-resources/idfaq/scanrand.php
 PFRing | https://github.com/ntop/PF_RING - High-speed packet processing framework
 
 
-<br />
-
-
-##Malicious traffic detection :vertical_traffic_light:
+## Malicious traffic detection :vertical_traffic_light:
 Name | URL
 ------------------------------------------- | ---------------------------------------------
 Maltrail | https://github.com/stamparm/maltrail :+1:
@@ -346,10 +306,7 @@ Packetbeat | https://www.elastic.co/products/beats/packetbeat
 p0f | http://lcamtuf.coredump.cx/p0f3/
 
 
-<br />
-
-
-##Wide Scans :earth_americas:
+## Wide Scans :earth_americas:
 Name | URL
 -------------------------------------------- | ---------------------------------------------
 Scans.io | https://scans.io/
@@ -359,10 +316,7 @@ Defcon conference | [https://defcon.org/](https://defcon.org/images/defcon-22/dc
 Blackhat conference | [https://www.blackhat.com/](https://www.blackhat.com/docs/asia-14/materials/Schloesser/Asia-14-Schloesser-Scan-All-The-Things.pdf)
 
 
-<br />
-
-
-##Honeypots :honey_pot:
+## Honeypots :honey_pot:
 Name | URL
 ------------------------------------ | ---------------------------------------------
 Awesome list - All of them ! | https://github.com/paralax/awesome-honeypots#honeypots :trophy:
@@ -370,10 +324,7 @@ Honeynet | https://honeynet.org/project
 Live nothink | http://www.nothink.org/honeypots.php
 
 
-<br />
-
-
-##Malware / Botnet sources :angel:
+## Malware / Botnet sources :angel:
 Name | URL 
 ------------------------------------ | ---------------------------------------------
 Malc0de	| http://malc0de.com/database/
@@ -410,10 +361,7 @@ Malware Analysis course | https://github.com/RPISEC/Malware
 Structured Threat Information eXpression | https://stixproject.github.io/
 
 
-<br />
-
-
-##Malware analysis - Sandbox :mask:
+## Malware analysis - Sandbox :mask:
 Name | URL 
 ------------------------------------ | ---------------------------------------------
 Zeltser's list | https://zeltser.com/automated-malware-analysis/
@@ -439,10 +387,7 @@ Malwasm | https://github.com/malwarelu/malwasm
 Androidsandbox | http://androidsandbox.net/ (temporarily out of service)
 
 
-<br />
-
-
-##Malware analysis - Sandbox - Online :mask:
+## Malware analysis - Sandbox - Online :mask:
 Name	|URL 
 ------------------------------------ | ---------------------------------------------
 Malwr | https://malwr.com/submission/ :+1:
@@ -480,10 +425,7 @@ Tracedroid | http://tracedroid.few.vu.nl
 MobiSecLab | http://akana.mobiseclab.org/
 
 
-<br />
-
-
-##Decoder/Packer/Unpacker :hurtrealbad:
+## Decoder/Packer/Unpacker :hurtrealbad:
 Name | URL 
 ------------------------------------ | ---------------------------------------------
 Code beautifier | http://codebeautify.org/
@@ -509,10 +451,7 @@ HEXdecoder | http://ddecode.com/hexdecoder/
 Hackvertor (Tag based decoder/encoder) | https://hackvertor.co.uk/public
 
 
-<br />
-
-
-##GNU/Linux
+## GNU/Linux
 Name | URL 
 ------------------------------------ | ---------------------------------------------
 Lynis | https://packages.debian.org/en/jessie/lynis
@@ -528,10 +467,7 @@ Command collection | https://github.com/tuwid/GNU-Linux-OpsWiki
 GNU/Linux executable walkthrough | https://i.imgur.com/q5nyHp7.png
 
 
-<br />
-
-
-##Windows
+## Windows
 Name | URL 
 ------------------------------------ | ---------------------------------------------
 Windows exploitation | https://github.com/enddo/awesome-windows-exploitation
@@ -539,19 +475,13 @@ Anti forensic Windows | https://www.reddit.com/r/security/comments/32fb1l/open_g
 Windows executable walkthrough | https://i.imgur.com/pHjcI.png
 
 
-<br />
-
-
-##OS X
+## OS X
 Name | URL 
 ------------------------------------ | ---------------------------------------------
 Security and privacy guide | https://github.com/drduh/OS-X-Security-and-Privacy-Guide
 
 
-<br />
-
-
-##Forensic - Network :mag: 
+## Forensic - Network :mag: 
 Name | URL
 ------------------------------------------- | ---------------------------------------------
 Package forensic-all | https://packages.debian.org/jessie-backports/forensics-all :+1:
@@ -573,10 +503,7 @@ Write blocker | http://www.cftt.nist.gov/software_write_block.htm
 Write blocker | https://github.com/msuhanov/Linux-write-blocker
 
 
-<br />
-
-
-##IP Research / Analysis / Investigation
+## IP Research / Analysis / Investigation
 Name | URL 
 ------------------------------------ | ---------------------------------------------
 BGP Toolkit | http://bgp.he.net/ :trophy:
@@ -598,10 +525,8 @@ Host file | https://hosts-file.net/
 Check host | http://check-host.net/
 Host tracker | https://www.host-tracker.com/
 
-<br />
 
-
-##Domain Research / Analysis / Reputation :chart_with_downwards_trend:
+## Domain Research / Analysis / Reputation :chart_with_downwards_trend:
 Name | URL 
 ------------------------------------ | ---------------------------------------------
 Checking multiple blocklists | http://rbls.org/ :+1:
@@ -626,10 +551,7 @@ Zeltser's list | https://zeltser.com/lookup-malicious-websites/
 Domain analysis list | https://github.com/rshipp/awesome-malware-analysis/#domain-analysis
 
 
-<br />
-
-
-##Wireless :signal_strength:
+## Wireless :signal_strength:
 Name | URL
 ------------------------------------------- | ---------------------------------------------
 Awesome wifi tools list | https://github.com/0x90/wifi-arsenal
@@ -638,20 +560,14 @@ Great wifi map | https://wigle.net/
 Wireless in airports | https://www.google.com/maps/d/viewer?mid=1Z1dI8hoBZSJNWFx2xr_MMxSxSxY
 
 
-<br />
-
-
-##VOIP :phone:
+## VOIP :phone:
 Name | URL
 ------------------------------------------- | ---------------------------------------------
 Penetration test | http://0daysecurity.com/penetration-testing/VoIP-security.html
 Penetration test | http://www.backtrack-linux.org/wiki/index.php/Pentesting_VOIP
 
 
-<br />
-
-
-##Free shell :shell:
+## Free shell :shell:
 Name | URL 
 ------------------------------------ | ---------------------------------------------
 FreeShells list | http://www.freeshells.info/
@@ -659,10 +575,7 @@ Devio.us OpenBSD | http://devio.us/
 Red-pill | http://shells.red-pill.eu/
 
 
-<br />
-
-
-##Mail utilities :mailbox_with_mail:
+## Mail utilities :mailbox_with_mail:
 Name | URL 
 ------------------------------------ | ---------------------------------------------
 Yop mail | http://www.yopmail.com/
@@ -685,10 +598,7 @@ Spam encode secret | http://spammimic.com/encode.cgi
 DNSBL | https://en.wikipedia.org/wiki/DNSBL
 
 
-<br />
-
-
-##Passwords :key:
+## Passwords :key:
 Name | URL
 ------------------------------------ | ---------------------------------------------
 Password research | http://www.passwordresearch.com/
@@ -720,11 +630,8 @@ Hash crack | http://www.onlinehashcrack.com/
 MD5 and SHA1 db | http://hashtoolkit.com/
 
 
-<br />
-
-
-##Generic utilities :file_folder:
-Will be reorganized</sub><br />
+## Generic utilities :file_folder:
+Will be reorganized</sub>
 
 Name	|URL 
 ------------------------------------ | ---------------------------------------------
@@ -760,10 +667,7 @@ Uptimerobot | http://uptimerobot.com/
 Fake ID | http://www.fakenamegenerator.com/
 
 
-<br />
-
-
-##Leak / Defaced :ambulance:
+## Leak / Defaced :ambulance:
 Name | URL 
 ------------------------------------ | ---------------------------------------------
 Have I been pwned | https://haveibeenpwned.com/
@@ -777,10 +681,7 @@ URL Find | http://urlfind.org/
 Isithacked | http://www.isithacked.com
 
 
-<br />
-
-
-##VPN 
+## VPN 
 Name | URL 
 ------------------------------------ | ---------------------------------------------
 Comparison | https://thatoneprivacysite.net/vpn-comparison-chart/
@@ -788,10 +689,7 @@ Location test | https://www.dnsleaktest.com/
 Location test | https://ipleak.net/
 
 
-<br />
-
-
-##Tor
+## Tor
 Name | URL 
 ------------------------------------ | ---------------------------------------------
 Tor Project | https://www.torproject.org/
@@ -817,10 +715,7 @@ Tails |	https://blog.torproject.org/blogs/tails
 Reddit | https://www.reddit.com/r/onions/
 
 
-<br />
-
-
-##Web browser
+## Web browser
 Name | URL 
 ------------------------------------ | ---------------------------------------------
 Browser recommendations | https://gist.github.com/atcuno/3425484ac5cce5298932
@@ -837,11 +732,7 @@ Flash | http://isflashinstalled.com/
 Browserling | https://www.browserling.com/
 
 
-<br />
-
-
-##Fingerprint
-
+## Fingerprint
 Name | URL
 ------------------------------------ | ---------------------------------------------
 Robtex | https://www.robtex.com/dns/
@@ -853,10 +744,7 @@ Web archive | https://web.archive.org/web/*/
 Web cookies | http://webcookies.org/cookies/
 
 
-<br />
-
-
-##SSL 
+## SSL 
 Name | URL 
 ------------------------------------ | ---------------------------------------------
 OWASP tests | [https://www.owasp.org/index.php/Testing_for_Weak_SSL/TLS_Ciphers](https://www.owasp.org/index.php/Testing_for_Weak_SSL/TLS_Ciphers,_Insufficient_Transport_Layer_Protection_%28OTG-CRYPST-001%29)
@@ -873,10 +761,7 @@ Logjam | https://weakdh.org/sysadmin.html
 Poodle | https://poodle.io/,https://www.poodlescan.com/
 
 
-<br />
-
-
-##Fun :trollface:
+## Fun :trollface:
 Name | URL 
 ------------------------------------ | ---------------------------------------------
 Pwnie Awards | http://pwnies.com/nominations/
