@@ -91,7 +91,7 @@ Name | URL
 ------------------------------------ | ---------------------------------------------
 Owasp Check list | https://www.owasp.org/index.php/Testing_Checklist
 Owasp testing guide | https://www.owasp.org/images/5/52/OWASP_Testing_Guide_v4.pdf :+1:
-Owasp tools | https://www.owasp.org/index.php/Category:OWASP_Tool
+Public pentest reports | https://github.com/juliocesarfort/public-pentesting-reports :+1:
 Reverse engineering | http://wiki.yobi.be/wiki/Reverse-Engineering
 Vulnerabilities | http://oss-security.openwall.org/wiki/tools
 Services enumeration | http://www.0daysecurity.com/penetration-testing/enumeration.html - Thx [rawger](https://twitter.com/_rawger)
@@ -100,6 +100,8 @@ Footprinting | http://www.0daysecurity.com/penetration-testing/network-footprint
 Web | http://www.w4rri0r.com/softwares-freeware-shareware-open-source/web-application-analysis.html
 Web vulnerabilities | http://www.w4rri0r.com/softwares-freeware-shareware-open-source/vulnerability-assessment.html
 SANS Penetration Testing | http://pen-testing.sans.org
+Pentest procedure | https://github.com/nixawk/pentest-wiki
+Owasp tools | https://www.owasp.org/index.php/Category:OWASP_Tool
 Python tools | https://github.com/dloss/python-pentest-tools
 Great tools list | http://wiki.yobi.be/wiki/Table_of_contents#Security
 Kali list | http://tools.kali.org/tools-listing
@@ -162,6 +164,7 @@ Network - Forensic | https://www.honeynet.org/node/504
 Exploits | https://exploit-exercises.com/
 Exploits | https://thesprawl.org/research/
 Basics with F-Secure | http://mooc.fi/courses/2016/cybersecurity/
+Cybrary training | https://www.cybrary.it/
 
 ## Security challenges / WarGames :triangular_flag_on_post:
 Name | URL 
@@ -482,6 +485,7 @@ Windows executable walkthrough | https://i.imgur.com/pHjcI.png
 Name | URL 
 ------------------------------------ | ---------------------------------------------
 Security and privacy guide | https://github.com/drduh/OS-X-Security-and-Privacy-Guide
+OSX auditor | https://github.com/jipegit/OSXAuditor
 
 
 ## Forensic - Network :mag: 
@@ -536,9 +540,13 @@ Host tracker | https://www.host-tracker.com/
 Name | URL 
 ------------------------------------ | ---------------------------------------------
 Checking multiple blocklists | http://rbls.org/ :+1:
-Into DNS | http://www.intodns.com/intodns.com
 URL Void | http://www.urlvoid.com/ :+1:
-urlQuery | http://urlquery.net/search.php :+1:
+URL Query | http://urlquery.net/ :+1:
+Robtex | https://www.robtex.com/dns/
+Netcraft | http://www.netcraft.com/
+TCP utils | http://www.tcpiputils.com/
+DNS stuff | http://www.dnsstuff.com/
+Into dns | http://www.intodns.com/
 Virus total | https://www.virustotal.com/#url
 Google | https://www.google.com/transparencyreport/safebrowsing/diagnostic/
 Sucuri | http://sitecheck.sucuri.net/scanner/
@@ -555,6 +563,12 @@ Build with | https://builtwith.com/
 Expired domain | https://www.expireddomains.net/backorder-expired-domains/
 Zeltser's list | https://zeltser.com/lookup-malicious-websites/
 Domain analysis list | https://github.com/rshipp/awesome-malware-analysis/#domain-analysis
+Web archive | https://web.archive.org/
+Cache view | http://cachedview.com/
+Cache page | http://www.cachedpages.com/
+Archive a page | https://archive.fo/
+DGA intro | https://en.wikipedia.org/wiki/Domain_generation_algorithm
+Domain hijacking intro | https://en.wikipedia.org/wiki/Domain_hijacking
 
 
 ## Wireless :signal_strength:
@@ -652,6 +666,7 @@ Python tools | http://s3ize.blogspot.fr/2012/08/python-tools-for-penetration-tes
 Tools | http://seclist.us/
 Sans | http://isc.sans.edu/diary/
 Security wiki | http://oss-security.openwall.org/wiki/
+Citizen lab | https://citizenlab.org/
 Hackforum | http://hackforums.net/
 Cracking forum | http://crackingforum.com/
 Cracking seal | https://crackingseal.io/
@@ -685,6 +700,7 @@ Zone-H | https://zone-h.org/
 Mr white | https://mrwhite.biz/
 URL Find | http://urlfind.org/
 Isithacked | http://www.isithacked.com
+Cam | http://www.insecam.org/
 
 
 ## VPN 
@@ -760,6 +776,7 @@ SSLyze | https://github.com/iSECPartners/sslyze
 SSLscan | https://github.com/rbsec/sslscan
 Qualys SSL Labs	| https://www.ssllabs.com/ssltest/
 Htbridge | https://www.htbridge.com/ssl/
+Symantec report | https://cryptoreport.websecurity.symantec.com/checker/
 SSLAnalyzer Comodoca | https://sslanalyzer.comodoca.com/
 Freak | https://freakattack.com/
 Heartbleed | http://heartbleed.com/,https://filippo.io/Heartbleed/
