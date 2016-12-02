@@ -23,6 +23,7 @@ I wanted to update it with my sources, I will probably continue to update and re
 * [Honeypots](#honeypots-honey_pot)
 * [IP Research / Analysis / Investigation](#ip-research--analysis--investigation)
 * [Leak / Defaced](#leak--defaced-ambulance)
+* [Lock picking](#lock-picking-closed_lock_with_key)
 * [Mail utilities](#mail-utilities-mailbox_with_mail)
 * [Malicious traffic detection](#malicious-traffic-detection-vertical_traffic_light)
 * [Malware / Botnet sources](#malware--botnet-sources-angel)
@@ -702,13 +703,31 @@ Isithacked | http://www.isithacked.com
 Cam | http://www.insecam.org/
 
 
-## VPN 
+## Lock picking :closed_lock_with_key:
 Name | URL 
 ------------------------------------ | ---------------------------------------------
-Open VPN | https://github.com/OpenVPN
-Comparison | https://thatoneprivacysite.net/vpn-comparison-chart/
-Location test | https://www.dnsleaktest.com/
-Location test | https://ipleak.net/
+Lock pick guide | http://lockpickguide.com :+1:
+Bosnianbill video | https://www.youtube.com/user/bosnianbill/videos :1:
+Lock lab | https://lock-lab.com/
+Lock wiki | http://www.lockwiki.com/
+
+
+## SSL 
+Name | URL 
+------------------------------------ | ---------------------------------------------
+OWASP tests | [https://www.owasp.org/index.php/Testing_for_Weak_SSL/TLS_Ciphers](https://www.owasp.org/index.php/Testing_for_Weak_SSL/TLS_Ciphers,_Insufficient_Transport_Layer_Protection_%28OTG-CRYPST-001%29)
+Testssl.sh | https://github.com/drwetter/testssl.sh
+O-Saft | https://www.owasp.org/index.php/O-Saft
+SSLyze | https://github.com/iSECPartners/sslyze
+SSLscan | https://github.com/rbsec/sslscan
+Qualys SSL Labs	| https://www.ssllabs.com/ssltest/
+Htbridge | https://www.htbridge.com/ssl/
+Symantec report | https://cryptoreport.websecurity.symantec.com/checker/
+SSLAnalyzer Comodoca | https://sslanalyzer.comodoca.com/
+Freak | https://freakattack.com/
+Heartbleed | http://heartbleed.com/,https://filippo.io/Heartbleed/
+Logjam | https://weakdh.org/sysadmin.html
+Poodle | https://poodle.io/,https://www.poodlescan.com/
 
 
 ## Tor
@@ -737,6 +756,15 @@ Tails |	https://blog.torproject.org/blogs/tails
 Reddit | https://www.reddit.com/r/onions/
 
 
+## VPN 
+Name | URL 
+------------------------------------ | ---------------------------------------------
+Open VPN | https://github.com/OpenVPN
+Comparison | https://thatoneprivacysite.net/vpn-comparison-chart/
+Location test | https://www.dnsleaktest.com/
+Location test | https://ipleak.net/
+
+
 ## Web browser
 Name | URL 
 ------------------------------------ | ---------------------------------------------
@@ -752,24 +780,6 @@ User agent | http://whatsmyuseragent.com/
 Referer | https://www.whatismyreferer.com/
 Flash | http://isflashinstalled.com/
 Browserling | https://www.browserling.com/
-
-
-## SSL 
-Name | URL 
------------------------------------- | ---------------------------------------------
-OWASP tests | [https://www.owasp.org/index.php/Testing_for_Weak_SSL/TLS_Ciphers](https://www.owasp.org/index.php/Testing_for_Weak_SSL/TLS_Ciphers,_Insufficient_Transport_Layer_Protection_%28OTG-CRYPST-001%29)
-Testssl.sh | https://github.com/drwetter/testssl.sh
-O-Saft | https://www.owasp.org/index.php/O-Saft
-SSLyze | https://github.com/iSECPartners/sslyze
-SSLscan | https://github.com/rbsec/sslscan
-Qualys SSL Labs	| https://www.ssllabs.com/ssltest/
-Htbridge | https://www.htbridge.com/ssl/
-Symantec report | https://cryptoreport.websecurity.symantec.com/checker/
-SSLAnalyzer Comodoca | https://sslanalyzer.comodoca.com/
-Freak | https://freakattack.com/
-Heartbleed | http://heartbleed.com/,https://filippo.io/Heartbleed/
-Logjam | https://weakdh.org/sysadmin.html
-Poodle | https://poodle.io/,https://www.poodlescan.com/
 
 
 ## Fun :trollface:
