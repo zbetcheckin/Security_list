@@ -69,6 +69,34 @@ Lists of lists of lists | https://github.com/t3chnoboy/awesome-awesome-awesome
 Other lists of lists of lists | https://github.com/geekan/awesome-awesome-awesome
 
 
+## Books :books:
+Name	|URL 
+------------------------------------ | ---------------------------------------------
+Many books | https://yadi.sk/d/Fkww0QKbuTdVF :trophy:
+Free programming books | https://github.com/vhf/free-programming-books
+
+
+## Bug bounty :chocolate_bar:
+Name	|URL 
+------------------------------------ | ---------------------------------------------
+Programs and write-ups | https://github.com/djadmin/awesome-bug-bounty
+Write-ups | https://github.com/ngalongc/bug-bounty-reference
+HackerOne | https://hackerone.com
+BugCrowd.com | https://bugcrowd.com/programs
+Zerodium | https://www.zerodium.com/
+Vul box | https://www.vulbox.com/
+Open bug bounty | https://www.openbugbounty.org/
+BountyFactory | https://bountyfactory.io
+Firebounty | https://firebounty.com
+Bugsheet | http://www.bugsheet.com/
+BountySource | https://www.bountysource.com/
+NewsLetter about bug bounty | http://bugbountyweekly.com
+Hunter edu | http://www.bountyhunteredu.org/careers/
+Google | https://www.google.com/about/appsecurity/reward-program/
+Microsoft | https://technet.microsoft.com/en-us/security/dn425036
+More bug bounty | https://bugcrowd.com/list-of-bug-bounty-programs#
+
+
 ## Cheat sheets :+1:
 Name | URL
 ------------------------------------ | ---------------------------------------------
@@ -86,28 +114,93 @@ Zeltser's cheat sheets list | https://zeltser.com/cheat-sheets/
 General cheat sheets | http://www.cheat-sheets.org/
 
 
-## Penetration testing :wrench:
-Name | URL
+## CTF :triangular_flag_on_post:
+Name | URL 
 ------------------------------------ | ---------------------------------------------
-Owasp Check list | https://www.owasp.org/index.php/Testing_Checklist
-Owasp testing guide | https://www.owasp.org/images/5/52/OWASP_Testing_Guide_v4.pdf :+1:
-Public pentest reports | https://github.com/juliocesarfort/public-pentesting-reports :+1:
-Reverse engineering | http://wiki.yobi.be/wiki/Reverse-Engineering
-Vulnerabilities | http://oss-security.openwall.org/wiki/tools
-Services enumeration | http://www.0daysecurity.com/penetration-testing/enumeration.html - Thx [rawger](https://twitter.com/_rawger)
-Informaion gathering | http://www.w4rri0r.com/softwares-freeware-shareware-open-source/information-gathering.html
-Footprinting | http://www.0daysecurity.com/penetration-testing/network-footprinting.html
-Web | http://www.w4rri0r.com/softwares-freeware-shareware-open-source/web-application-analysis.html
-Web vulnerabilities | http://www.w4rri0r.com/softwares-freeware-shareware-open-source/vulnerability-assessment.html
-SANS Penetration Testing | http://pen-testing.sans.org
-Pentest procedure | https://github.com/nixawk/pentest-wiki
-Owasp tools | https://www.owasp.org/index.php/Category:OWASP_Tool
-Python tools | https://github.com/dloss/python-pentest-tools
-Great tools list | http://wiki.yobi.be/wiki/Table_of_contents#Security
-Kali list | http://tools.kali.org/tools-listing
-BlackArch list | https://blackarch.org/tools.html
-More tools | http://www.cotse.com/tools/
-More tools | https://github.com/enaqx/awesome-pentest
+CTFTIME | https://ctftime.org/
+Write-ups | https://github.com/ctfs
+Reddit | https://www.reddit.com/r/securityctf
+Tools list | https://github.com/Laxa/HackingTools
+Tools list | https://github.com/zardus/ctf-tools
+Tools list | https://github.com/apsdehal/awesome-ctf
+Tinyctf platform | https://github.com/balidani/tinyctf-platform
+Isislab platform | https://github.com/isislab/CTFd
+Facebook platform | https://github.com/facebook/fbctf
+Mellivora platform | https://github.com/Nakiami/mellivora
+
+
+## Decoder/Packer/Unpacker :hurtrealbad:
+Name | URL 
+------------------------------------ | ---------------------------------------------
+Code beautifier | http://codebeautify.org/
+VB code beautifier | http://warp.senecac.on.ca/timothy.mckenna/CodeFormatter.asp
+VB code beautifier | http://www.vbindent.com/
+PHP formatter | http://beta.phpformatter.com/
+PHPdecoder | http://ddecode.com/phpdecoder/
+PHP encoding | http://yehg.net/encoding/
+SQL formatter | http://dpriver.com/pp/sqlformat.htm
+XML formatter | http://chris.photobooks.com/xml/default.htm
+JSDetox | http://www.relentless-coding.com/projects/jsdetox/
+JSNice | http://www.jsnice.org/
+JSUnpack | https://github.com/urule99/jsunpack-n
+JSBeautifier | http://jsbeautifier.org/
+JavaScript Compressor | http://dean.edwards.name/packer/
+Jjencode | http://utf-8.jp/public/jjencode.html
+JSFuck | http://www.jsfuck.com/
+Jsobfuscate | http://www.jsobfuscate.com/
+Netteleuthe | http://www.netteleuthe.de/gc/
+Colour higlighter | http://quickhighlighter.com/
+URL | http://meyerweb.com/eric/tools/dencoder/
+HEXdecoder | http://ddecode.com/hexdecoder/
+Hackvertor (Tag based decoder/encoder) | https://hackvertor.co.uk/public
+
+
+## Domain Research / Analysis / Reputation :chart_with_downwards_trend:
+Name | URL 
+------------------------------------ | ---------------------------------------------
+Checking multiple blocklists | http://rbls.org/ :+1:
+URL Void | http://www.urlvoid.com/ :+1:
+URL Query | http://urlquery.net/ :+1:
+Robtex | https://www.robtex.com/dns/
+Netcraft | http://www.netcraft.com/
+TCP utils | http://www.tcpiputils.com/
+DNS stuff | http://www.dnsstuff.com/
+Into dns | http://www.intodns.com/
+Virus total | https://www.virustotal.com/#url
+Google | https://www.google.com/transparencyreport/safebrowsing/diagnostic/
+Sucuri | http://sitecheck.sucuri.net/scanner/
+RBL | http://rbls.org/
+Multi RBL | http://multirbl.valli.org/lookup/
+Global DNS checker | https://www.whatsmydns.net/
+Trusted source | http://www.trustedsource.org/
+Isithacked | http://www.isithacked.com
+DNS dumpster | https://dnsdumpster.com/
+Threat miner | https://www.threatminer.org/
+MXToolBox | https://mxtoolbox.com/SuperTool.aspx#
+Wois | https://whois.domaintools.com/
+Build with | https://builtwith.com/
+Expired domain | https://www.expireddomains.net/backorder-expired-domains/
+Zeltser's list | https://zeltser.com/lookup-malicious-websites/
+Domain analysis list | https://github.com/rshipp/awesome-malware-analysis/#domain-analysis
+Web archive | https://web.archive.org/
+Cache view | http://cachedview.com/
+Cache page | http://www.cachedpages.com/
+Archive a page | https://archive.fo/
+DGA intro | https://en.wikipedia.org/wiki/Domain_generation_algorithm
+Domain hijacking intro | https://en.wikipedia.org/wiki/Domain_hijacking
+
+
+## Exercises :mortar_board:
+Name | URL 
+------------------------------------ | ---------------------------------------------
+Essential basics | https://github.com/alex/what-happens-when
+Reverse - Malware | http://fumalwareanalysis.blogspot.se/p/malware-analysis-tutorials-reverse.html
+Network - Malware | http://www.malware-traffic-analysis.net/training-exercises.html
+Network - Forensic | https://www.honeynet.org/node/504
+Exploits | https://exploit-exercises.com/
+Exploits | https://thesprawl.org/research/
+Basics with F-Secure | http://mooc.fi/courses/2016/cybersecurity/
+Cybrary training | https://www.cybrary.it/
 
 
 ## Exploits and vulnerabilities :door:
@@ -139,168 +232,193 @@ Vulnerability scoring calculator | https://nvd.nist.gov/cvss/v3-calculator
 CVSS | https://www.first.org/cvss
 
 
-## CTF :triangular_flag_on_post:
+## Forensic - Network :mag: 
+Name | URL
+------------------------------------------- | ---------------------------------------------
+Package forensic-all | https://packages.debian.org/jessie-backports/forensics-all :+1:
+CFReDS | http://www.cfreds.nist.gov/ :+1:
+Awesome forensic | https://github.com/Cugu/awesome-forensics
+DFIR tools list | http://www.dfir.training/index.php/tools/ :+1:
+DEFT package | http://www.deftlinux.net/package-list/
+Tools list | http://toolcatalog.nist.gov/populated_taxonomy/index.php
+Aldeid list | https://www.aldeid.com/wiki/Category:Digital-Forensics
+Forensic tools | http://forensicswiki.org/wiki/Tools
+Forensic Control | https://forensiccontrol.com/resources/free-software/
+DFRWS challenge | http://www.dfrws.org/dfrws-forensic-challenge-2016
+Forensic kb practical | http://www.forensickb.com/2008/01/forensic-practical.html
+Windows tools list | http://forensic-proof.com/tools
+Windows Artifact | [https://blogs.sans.org/computer-forensics/](https://blogs.sans.org/computer-forensics/files/2012/06/SANS-Digital-Forensics-and-Incident-Response-Poster-2012.pdf)
+More forensic links | http://www.amanhardikar.com/mindmaps/ForensicChallenges.html
+Wireshark extentions | https://www.honeynet.org/project/WiresharkExtensions
+GNU/Linux monitoring | https://blog.serverdensity.com/80-linux-monitoring-tools-know/
+Testing Images | http://dftt.sourceforge.net/
+FR - Zythom list | https://zythom.blogspot.se/2007/02/les-outils-dun-expert-judiciaire.html
+Write blocker | http://www.cftt.nist.gov/software_write_block.htm
+Write blocker | https://github.com/msuhanov/Linux-write-blocker
+
+
+## Free shell :shell:
 Name | URL 
 ------------------------------------ | ---------------------------------------------
-CTFTIME | https://ctftime.org/
-Write-ups | https://github.com/ctfs
-Reddit | https://www.reddit.com/r/securityctf
-Tools list | https://github.com/Laxa/HackingTools
-Tools list | https://github.com/zardus/ctf-tools
-Tools list | https://github.com/apsdehal/awesome-ctf
-Tinyctf platform | https://github.com/balidani/tinyctf-platform
-Isislab platform | https://github.com/isislab/CTFd
-Facebook platform | https://github.com/facebook/fbctf
-Mellivora platform | https://github.com/Nakiami/mellivora
+FreeShells list | http://www.freeshells.info/
+Devio.us OpenBSD | http://devio.us/
+Red-pill | http://shells.red-pill.eu/
 
 
-## Exercises :mortar_board:
+## Fun :trollface:
 Name | URL 
 ------------------------------------ | ---------------------------------------------
-Essential basics | https://github.com/alex/what-happens-when
-Reverse - Malware | http://fumalwareanalysis.blogspot.se/p/malware-analysis-tutorials-reverse.html
-Network - Malware | http://www.malware-traffic-analysis.net/training-exercises.html
-Network - Forensic | https://www.honeynet.org/node/504
-Exploits | https://exploit-exercises.com/
-Exploits | https://thesprawl.org/research/
-Basics with F-Secure | http://mooc.fi/courses/2016/cybersecurity/
-Cybrary training | https://www.cybrary.it/
-
-## Security challenges / WarGames :triangular_flag_on_post:
-Name | URL 
------------------------------------- | ---------------------------------------------
-Zenk-Security | https://www.zenk-security.com/
-Root-Me | http://www.root-me.org/
-Overthewire | http://overthewire.org/wargames/
-CrackMe.de | http://crackmes.de/
-Reversing | http://reversing.kr/
-Pwnable | http://pwnable.kr/
-Newbiecontest | https://www.newbiecontest.org/
-OWASP VWAD list | https://github.com/OWASP/OWASP-VWAD/blob/master/src/online.tsv
-WeChall | https://www.wechall.net/
-Vulnhub | https://www.vulnhub.com/
-Net Garage | http://io.netgarage.org/
-Flare-On | http://www.flare-on.com/
-SmashTheStack | http://smashthestack.org/
-Hackthissite | http://www.hackthissite.org/
-Hack.me | https://hack.me
-HackThis! | http://www.hackthis.co.uk/
-PenTestLabs | https://lab.thecybershark.com/pentestlabs/5
-Backdoor.Sdslabs | https://backdoor.sdslabs.co/
-Bright-shadows | http://www.bright-shadows.net/
-SmashTheStack | http://smashthestack.org/
-Ringzer0team | https://ringzer0team.com/challenges
-Forensic contest | http://forensicscontest.com/puzzles
-Dareyourmind | http://www.dareyourmind.net
-Lost chall | http://www.lost-chall.org/
-Rankk | http://www.rankk.org/
-Happy Security | http://www.happy-security.de/
-Net force | https://www.net-force.nl/challenges/
-CanYouHack.it | http://canyouhack.it/
-Hellboundhackers | https://www.hellboundhackers.org/
-Microcorruption | https://microcorruption.com/
-More challenges | http://captf.com/practice-ctf/
+Pwnie Awards | http://pwnies.com/nominations/
+Malware museum | https://archive.org/details/malwaremuseum
+Dead drops | https://deaddrops.com/db/
+Mozilla location service | https://location.services.mozilla.com/map - Thx [rawger](https://twitter.com/_rawger)
+The cyber shark map | https://lab.thecybershark.com/
+Norse map | http://map.norsecorp.com/
+Fire eye map | https://www.fireeye.com/cyber-map/threat-map.html
+Kaspersky AV map | https://cybermap.kaspersky.com/
+Kaspersky map | https://apt.securelist.com/
+Eset map | http://www.virusradar.com/
+Fortinet map | https://threatmap.fortiguard.com/
+Blueliv map | https://community.blueliv.com/map/
+DDoS attacks | http://www.digitalattackmap.com/
+Sub marine cable | http://www.submarinecablemap.com/
+Sub marine cable | http://submarine-cable-map-2016.telegeography.com/
+Sub marine cable | http://lifewinning.com/submarine-cable-taps/
+Flight radar | https://www.flightradar24.com
+Fligh aware | https://flightaware.com/
+World of VNC | https://worldofvnc.net/
 
 
-## Vulnerable environments :unlock:
-Name | URL 
------------------------------------- | ---------------------------------------------
-Owasp list | https://www.owasp.org/index.php/OWASP_Vulnerable_Web_Applications_Directory_Project/Pages/Offline
-Owasp BWA | https://www.owasp.org/index.php/OWASP_Broken_Web_Applications_Project
-DVWA | http://www.dvwa.co.uk/
-WebGoat	| http://code.google.com/p/webgoat
-Metasploitable 3 | https://github.com/rapid7/metasploitable3/wiki
-VulnHub	| http://vulnhub.com/
-LampSecurity | http://sourceforge.net/projects/lampsecurity/
-Dragon | https://www.dragonresearchgroup.org/challenges/
-Hackademic-RTB1 | http://www.aldeid.com/wiki/Hackademic-RTB1
-Moth | http://www.bonsai-sec.com
-Peruggia | http://sourceforge.net/projects/peruggia/
-XSS play ground	| http://xssplayground.net23.net/
+## Generic utilities :file_folder:
+Will be reorganized</sub>
 
-
-## Books :books:
 Name	|URL 
 ------------------------------------ | ---------------------------------------------
-Many books | https://yadi.sk/d/Fkww0QKbuTdVF :trophy:
-Free programming books | https://github.com/vhf/free-programming-books
+Electronic Frontier Foundation | https://www.eff.org/
+CERT teams | https://www.first.org/about/organization/teams
+Skimmers | https://krebsonsecurity.com/all-about-skimmers/
+Understand your commands | http://explainshell.com
+Hashes example | https://hashcat.net/wiki/doku.php?id=example_hashes
+w4rri0r toolbox | http://www.w4rri0r.com/
+Code analysises | https://en.wikipedia.org/wiki/List_of_tools_for_static_code_analysis
+Python tools | http://s3ize.blogspot.fr/2012/08/python-tools-for-penetration-testers.html
+Tools | http://seclist.us/
+Sans | http://isc.sans.edu/diary/
+Security wiki | http://oss-security.openwall.org/wiki/
+Citizen lab | https://citizenlab.org/
+Hackforum | http://hackforums.net/
+Cracking forum | http://crackingforum.com/
+Cracking seal | https://crackingseal.io/
+0day.su | https://0day.su/
+Deepweb | https://www.reddit.com/r/deepweb/
+Codepad	| http://codepad.org/
+GZinflate | http://www.tareeinternet.com/scripts/decrypt.php
+Hurl | http://www.hurl.it/
+Magic-net | http://www.magic-net.info
+MAC_Find | http://www.coffer.com/mac_find/
+MAC_Search | http://hwaddress.com
+Mibbit | http://www.mibbit.com/
+Microsoft threat | http://www.microsoft.com/security
+Random data generator | http://www.mockaroo.com/
+Ping.eu | http://ping.eu/
+Project Honeypot | https://www.projecthoneypot.org/
+Sandsprite | http://sandsprite.com/shellcode_2_exe.php
+Uptimerobot | http://uptimerobot.com/
+Fake ID | http://www.fakenamegenerator.com/
 
 
-## Bug bounty :chocolate_bar:
-Name	|URL 
+## GNU/Linux
+Name | URL 
 ------------------------------------ | ---------------------------------------------
-Programs and write-ups | https://github.com/djadmin/awesome-bug-bounty
-Write-ups | https://github.com/ngalongc/bug-bounty-reference
-HackerOne | https://hackerone.com
-BugCrowd.com | https://bugcrowd.com/programs
-Zerodium | https://www.zerodium.com/
-Vul box | https://www.vulbox.com/
-Open bug bounty | https://www.openbugbounty.org/
-BountyFactory | https://bountyfactory.io
-Firebounty | https://firebounty.com
-Bugsheet | http://www.bugsheet.com/
-BountySource | https://www.bountysource.com/
-NewsLetter about bug bounty | http://bugbountyweekly.com
-Hunter edu | http://www.bountyhunteredu.org/careers/
-Google | https://www.google.com/about/appsecurity/reward-program/
-Microsoft | https://technet.microsoft.com/en-us/security/dn425036
-More bug bounty | https://bugcrowd.com/list-of-bug-bounty-programs#
+Lynis | https://packages.debian.org/en/jessie/lynis
+Chkrootkit | https://packages.debian.org/en/jessie/chkrootkit
+RKhunter | https://packages.debian.org/en/jessie/rkhunter
+Debsecan | https://packages.debian.org/en/jessie/debsecan
+Vulnerability scanner | https://github.com/future-architect/vuls
+GNU/Linux post exploitation | https://github.com/mubix/post-exploitation/wiki/Linux-Post-Exploitation-Command-List
+GNU/Linux workstation | https://github.com/lfit/itpol/blob/master/linux-workstation-security.md
+Securing debian | https://www.debian.org/doc/manuals/securing-debian-howto/ch10.en.html
+GNU/Linux containers | https://github.com/Friz-zy/awesome-linux-containers#security
+Command collection | https://github.com/tuwid/GNU-Linux-OpsWiki
+GNU/Linux executable walkthrough | https://i.imgur.com/q5nyHp7.png
 
 
-## Search engines :satellite:
+## Honeypots :honey_pot:
 Name | URL
 ------------------------------------ | ---------------------------------------------
-ZoomEye | https://zoomeye.org/ :+1:
-Shodan | https://www.shodan.io/
-Censys | https://censys.io/
-Gegereka | http://gegereka.com/ (not always up)
-Google | https://www.google.com/advanced_search
-Google dorks | https://gist.github.com/zbetcheckin/04e6a5d7f2d5ef8cfa3c298701f47f9c
-List of search engines | https://en.wikipedia.org/wiki/List_of_search_engines
+Awesome list - All of them ! | https://github.com/paralax/awesome-honeypots#honeypots :trophy:
+Honeynet | https://honeynet.org/project
+Live nothink | http://www.nothink.org/honeypots.php
 
 
-## Social engineering
-Name | URL
+## IP Research / Analysis / Investigation
+Name | URL 
 ------------------------------------ | ---------------------------------------------
-Osint list | https://github.com/jivoi/awesome-osint :+1:
-List of social network | https://en.wikipedia.org/wiki/List_of_social_networking_websites
-Reddit | https://www.reddit.com/r/SocialEngineering/
-Maltego | https://www.paterva.com/
-Hunter | https://hunter.io/
-Pipl | https://pipl.com/
-Peek you | http://www.peekyou.com/
-Yatedo | http://www.yatedo.com/
-Lullar | http://com.lullar.com/
-Lakako | http://www.lakako.com/
-Yasni | http://www.yasni.com/
-User search | https://usersearch.org/
-Google | https://www.google.com/advanced_search
-Google dorks | `intext:lastName firstName`
-Google dorks | `insubject:lastName firstName`
-Google dorks | `intext:lastName firstName filetype:pdf || filetype:doc || filetype:xml || filetype:txt ||  filetype:xls || filetype:ppt || filetype:pps || filetype:docx || filetype:wps || filetype:rtf || filetype:csv || filetype:pptx || filetype:xlsx || filetype:xlr || filetype:sxw || filetype:ods || filetype:odt || filetype:psw`
-Bing | https://www.bing.com/
-Bing dorks | `lastName firstName (filetype:doc OR filetype:ppt OR filetype:pps OR filetype:xls OR filetype:docx OR filetype:pptx OR filetype:ppsx OR filetype:xlsx OR filetype:sxw OR filetype:sxc OR filetype:sxi OR filetype:odt OR filetype:ods OR filetype:odg OR filetype:odp OR filetype:pdf OR filetype:wpd OR filetype:svg OR filetype:svgz OR filetype:indd OR filetype:rdp OR filetype:ica)`
-Yahoo | https://search.yahoo.com/
-Duck duck go | https://duckduckgo.com/
-Yandex | https://www.yandex.com/
-Exa lead | http://www.exalead.com
-Osint stalker | https://github.com/milo2012/osintstalker
-Speed phish framework | https://github.com/tatanus/SPF
-Browser exploitation framework | https://github.com/beefproject/beef
-The harvester | https://github.com/laramies/theHarvester
-Meta goofil | https://github.com/laramies/metagoofil
+BGP Toolkit | http://bgp.he.net/ :trophy:
+Google dork | "xxx.xxx.xxx.xxx" (replace xxx.xxx.xxx.xxx with the ip you are looking for)
+Bing dork | ip:xxx.xxx.xxx.xxx
+Whois | https://whois.domaintools.com/
+IP void | http://www.ipvoid.com/ :+1:
+IPv4 info | http://ipv4info.com/ :+1:
+TCP utils | http://www.tcpiputils.com/
+Virus total | https://www.virustotal.com/en/ip-address/xxx.xxx.xxx.xxx/information/
+Multi RBL |  http://multirbl.valli.org/lookup/
+Black List Alert | http://www.blacklistalert.org/
+Whatch Guard | http://www.reputationauthority.org/
+Black List Check | http://whatismyipaddress.com/blacklist-check/
+Project Honeypot | https://www.projecthoneypot.org/search_ip.php
+Spamhaus | https://www.spamhaus.org/lookup/
+Nirsoft country IP | http://www.nirsoft.net/countryip/
+Host file | https://hosts-file.net/
+Check host | http://check-host.net/
+Host tracker | https://www.host-tracker.com/
 
 
-## Port scanners :dart:
-Name | URL
+## Leak / Defaced :ambulance:
+Name | URL 
 ------------------------------------ | ---------------------------------------------
-Masscan | https://github.com/robertdavidgraham/masscan
-Nmap | https://nmap.org/7/
-Zmap | https://zmap.io/
-Zgrab | https://github.com/zmap/zgrab (Banner Grabber)
-Nscan | https://github.com/OffensivePython/Nscan
-Scanrand | https://www.sans.org/security-resources/idfaq/scanrand.php
-PFRing | https://github.com/ntop/PF_RING - High-speed packet processing framework
+Have I been pwned | https://haveibeenpwned.com/
+Siph0n | https://twitter.com/datasiph0n
+Leaked source | https://www.leakedsource.com/
+Leak forums | https://leakforums.net/
+Leakedin | http://www.leakedin.com/
+Zone-H | https://zone-h.org/
+Mr white | https://mrwhite.biz/
+URL Find | http://urlfind.org/
+Isithacked | http://www.isithacked.com
+Cam | http://www.insecam.org/
+
+
+## Lock picking :closed_lock_with_key:
+Name | URL 
+------------------------------------ | ---------------------------------------------
+Lock pick guide | http://lockpickguide.com :+1:
+Bosnianbill video | https://www.youtube.com/user/bosnianbill/videos :1:
+Lock lab | https://lock-lab.com/
+Lock wiki | http://www.lockwiki.com/
+
+
+## Mail utilities :mailbox_with_mail:
+Name | URL 
+------------------------------------ | ---------------------------------------------
+Yop mail | http://www.yopmail.com/
+Mailinator | https://www.mailinator.com/ # https://gist.github.com/nocturnalgeek/1b8fa44283314544c487
+Mailnesia | http://mailnesia.com/
+Mailcatch | http://mailcatch.com/
+Get air mail | http://en.getairmail.com/
+10 Minute Mail | http://10minutemail.com
+Spam DB | http://www.dnsbl.info/dnsbl-database-check.php
+Mxtoolbox | http://www.mxtoolbox.com/
+Open relay | http://www.mailradar.com
+Openresolver JP	| http://www.openresolver.jp/en/
+DKIM validator | http://dkimvalidator.com/
+Email recon | https://github.com/laramies/theHarvester
+Gophish | https://github.com/gophish/gophish
+SimplyEmail | https://github.com/killswitch-GUI/SimplyEmail
+SpeedPhish Framework | https://github.com/tatanus/SPF
+Phishing Framework | https://github.com/pentestgeek/phishing-frenzy
+Spam encode secret | http://spammimic.com/encode.cgi
+DNSBL | https://en.wikipedia.org/wiki/DNSBL
 
 
 ## Malicious traffic detection :vertical_traffic_light:
@@ -310,24 +428,6 @@ Maltrail | https://github.com/stamparm/maltrail :+1:
 Tsusen | https://github.com/stamparm/tsusen
 Packetbeat | https://www.elastic.co/products/beats/packetbeat
 p0f | http://lcamtuf.coredump.cx/p0f3/
-
-
-## Wide Scans :earth_americas:
-Name | URL
--------------------------------------------- | ---------------------------------------------
-Scans.io | https://scans.io/
-Rapid7 Sonar Labs | https://sonar.labs.rapid7.com/
-Similar projects | https://github.com/rapid7/sonar/wiki/Similar-Projects
-Defcon conference | [https://defcon.org/](https://defcon.org/images/defcon-22/dc-22-presentations/Graham-McMillan-Tentler/DEFCON-22-Graham-McMillan-Tentler-Masscaning-the-Internet.pdf)
-Blackhat conference | [https://www.blackhat.com/](https://www.blackhat.com/docs/asia-14/materials/Schloesser/Asia-14-Schloesser-Scan-All-The-Things.pdf)
-
-
-## Honeypots :honey_pot:
-Name | URL
------------------------------------- | ---------------------------------------------
-Awesome list - All of them ! | https://github.com/paralax/awesome-honeypots#honeypots :trophy:
-Honeynet | https://honeynet.org/project
-Live nothink | http://www.nothink.org/honeypots.php
 
 
 ## Malware / Botnet sources :angel:
@@ -431,191 +531,11 @@ Tracedroid | http://tracedroid.few.vu.nl
 MobiSecLab | http://akana.mobiseclab.org/
 
 
-## Decoder/Packer/Unpacker :hurtrealbad:
-Name | URL 
------------------------------------- | ---------------------------------------------
-Code beautifier | http://codebeautify.org/
-VB code beautifier | http://warp.senecac.on.ca/timothy.mckenna/CodeFormatter.asp
-VB code beautifier | http://www.vbindent.com/
-PHP formatter | http://beta.phpformatter.com/
-PHPdecoder | http://ddecode.com/phpdecoder/
-PHP encoding | http://yehg.net/encoding/
-SQL formatter | http://dpriver.com/pp/sqlformat.htm
-XML formatter | http://chris.photobooks.com/xml/default.htm
-JSDetox | http://www.relentless-coding.com/projects/jsdetox/
-JSNice | http://www.jsnice.org/
-JSUnpack | https://github.com/urule99/jsunpack-n
-JSBeautifier | http://jsbeautifier.org/
-JavaScript Compressor | http://dean.edwards.name/packer/
-Jjencode | http://utf-8.jp/public/jjencode.html
-JSFuck | http://www.jsfuck.com/
-Jsobfuscate | http://www.jsobfuscate.com/
-Netteleuthe | http://www.netteleuthe.de/gc/
-Colour higlighter | http://quickhighlighter.com/
-URL | http://meyerweb.com/eric/tools/dencoder/
-HEXdecoder | http://ddecode.com/hexdecoder/
-Hackvertor (Tag based decoder/encoder) | https://hackvertor.co.uk/public
-
-
-## GNU/Linux
-Name | URL 
------------------------------------- | ---------------------------------------------
-Lynis | https://packages.debian.org/en/jessie/lynis
-Chkrootkit | https://packages.debian.org/en/jessie/chkrootkit
-RKhunter | https://packages.debian.org/en/jessie/rkhunter
-Debsecan | https://packages.debian.org/en/jessie/debsecan
-Vulnerability scanner | https://github.com/future-architect/vuls
-GNU/Linux post exploitation | https://github.com/mubix/post-exploitation/wiki/Linux-Post-Exploitation-Command-List
-GNU/Linux workstation | https://github.com/lfit/itpol/blob/master/linux-workstation-security.md
-Securing debian | https://www.debian.org/doc/manuals/securing-debian-howto/ch10.en.html
-GNU/Linux containers | https://github.com/Friz-zy/awesome-linux-containers#security
-Command collection | https://github.com/tuwid/GNU-Linux-OpsWiki
-GNU/Linux executable walkthrough | https://i.imgur.com/q5nyHp7.png
-
-
-## Windows
-Name | URL 
------------------------------------- | ---------------------------------------------
-Windows exploitation | https://github.com/enddo/awesome-windows-exploitation
-Anti forensic Windows | https://www.reddit.com/r/security/comments/32fb1l/open_guide_to_scrubbing_windows_oss_from_forensic/
-Windows executable walkthrough | https://i.imgur.com/pHjcI.png
-
-
 ## OS X
 Name | URL 
 ------------------------------------ | ---------------------------------------------
 Security and privacy guide | https://github.com/drduh/OS-X-Security-and-Privacy-Guide
 OSX auditor | https://github.com/jipegit/OSXAuditor
-
-
-## Forensic - Network :mag: 
-Name | URL
-------------------------------------------- | ---------------------------------------------
-Package forensic-all | https://packages.debian.org/jessie-backports/forensics-all :+1:
-CFReDS | http://www.cfreds.nist.gov/ :+1:
-Awesome forensic | https://github.com/Cugu/awesome-forensics
-DFIR tools list | http://www.dfir.training/index.php/tools/ :+1:
-DEFT package | http://www.deftlinux.net/package-list/
-Tools list | http://toolcatalog.nist.gov/populated_taxonomy/index.php
-Aldeid list | https://www.aldeid.com/wiki/Category:Digital-Forensics
-Forensic tools | http://forensicswiki.org/wiki/Tools
-Forensic Control | https://forensiccontrol.com/resources/free-software/
-DFRWS challenge | http://www.dfrws.org/dfrws-forensic-challenge-2016
-Forensic kb practical | http://www.forensickb.com/2008/01/forensic-practical.html
-Windows tools list | http://forensic-proof.com/tools
-Windows Artifact | [https://blogs.sans.org/computer-forensics/](https://blogs.sans.org/computer-forensics/files/2012/06/SANS-Digital-Forensics-and-Incident-Response-Poster-2012.pdf)
-More forensic links | http://www.amanhardikar.com/mindmaps/ForensicChallenges.html
-Wireshark extentions | https://www.honeynet.org/project/WiresharkExtensions
-GNU/Linux monitoring | https://blog.serverdensity.com/80-linux-monitoring-tools-know/
-Testing Images | http://dftt.sourceforge.net/
-FR - Zythom list | https://zythom.blogspot.se/2007/02/les-outils-dun-expert-judiciaire.html
-Write blocker | http://www.cftt.nist.gov/software_write_block.htm
-Write blocker | https://github.com/msuhanov/Linux-write-blocker
-
-
-## IP Research / Analysis / Investigation
-Name | URL 
------------------------------------- | ---------------------------------------------
-BGP Toolkit | http://bgp.he.net/ :trophy:
-Google dork | "xxx.xxx.xxx.xxx" (replace xxx.xxx.xxx.xxx with the ip you are looking for)
-Bing dork | ip:xxx.xxx.xxx.xxx
-Whois | https://whois.domaintools.com/
-IP void | http://www.ipvoid.com/ :+1:
-IPv4 info | http://ipv4info.com/ :+1:
-TCP utils | http://www.tcpiputils.com/
-Virus total | https://www.virustotal.com/en/ip-address/xxx.xxx.xxx.xxx/information/
-Multi RBL |  http://multirbl.valli.org/lookup/
-Black List Alert | http://www.blacklistalert.org/
-Whatch Guard | http://www.reputationauthority.org/
-Black List Check | http://whatismyipaddress.com/blacklist-check/
-Project Honeypot | https://www.projecthoneypot.org/search_ip.php
-Spamhaus | https://www.spamhaus.org/lookup/
-Nirsoft country IP | http://www.nirsoft.net/countryip/
-Host file | https://hosts-file.net/
-Check host | http://check-host.net/
-Host tracker | https://www.host-tracker.com/
-
-
-## Domain Research / Analysis / Reputation :chart_with_downwards_trend:
-Name | URL 
------------------------------------- | ---------------------------------------------
-Checking multiple blocklists | http://rbls.org/ :+1:
-URL Void | http://www.urlvoid.com/ :+1:
-URL Query | http://urlquery.net/ :+1:
-Robtex | https://www.robtex.com/dns/
-Netcraft | http://www.netcraft.com/
-TCP utils | http://www.tcpiputils.com/
-DNS stuff | http://www.dnsstuff.com/
-Into dns | http://www.intodns.com/
-Virus total | https://www.virustotal.com/#url
-Google | https://www.google.com/transparencyreport/safebrowsing/diagnostic/
-Sucuri | http://sitecheck.sucuri.net/scanner/
-RBL | http://rbls.org/
-Multi RBL | http://multirbl.valli.org/lookup/
-Global DNS checker | https://www.whatsmydns.net/
-Trusted source | http://www.trustedsource.org/
-Isithacked | http://www.isithacked.com
-DNS dumpster | https://dnsdumpster.com/
-Threat miner | https://www.threatminer.org/
-MXToolBox | https://mxtoolbox.com/SuperTool.aspx#
-Wois | https://whois.domaintools.com/
-Build with | https://builtwith.com/
-Expired domain | https://www.expireddomains.net/backorder-expired-domains/
-Zeltser's list | https://zeltser.com/lookup-malicious-websites/
-Domain analysis list | https://github.com/rshipp/awesome-malware-analysis/#domain-analysis
-Web archive | https://web.archive.org/
-Cache view | http://cachedview.com/
-Cache page | http://www.cachedpages.com/
-Archive a page | https://archive.fo/
-DGA intro | https://en.wikipedia.org/wiki/Domain_generation_algorithm
-Domain hijacking intro | https://en.wikipedia.org/wiki/Domain_hijacking
-
-
-## Wireless :signal_strength:
-Name | URL
-------------------------------------------- | ---------------------------------------------
-Awesome wifi tools list | https://github.com/0x90/wifi-arsenal
-Penetration test | http://0daysecurity.com/penetration-testing/wireless-penetration.html
-Great wifi map | https://wigle.net/
-Wireless in airports | https://www.google.com/maps/d/viewer?mid=1Z1dI8hoBZSJNWFx2xr_MMxSxSxY
-
-
-## VOIP :phone:
-Name | URL
-------------------------------------------- | ---------------------------------------------
-Penetration test | http://0daysecurity.com/penetration-testing/VoIP-security.html
-Penetration test | http://www.backtrack-linux.org/wiki/index.php/Pentesting_VOIP
-
-
-## Free shell :shell:
-Name | URL 
------------------------------------- | ---------------------------------------------
-FreeShells list | http://www.freeshells.info/
-Devio.us OpenBSD | http://devio.us/
-Red-pill | http://shells.red-pill.eu/
-
-
-## Mail utilities :mailbox_with_mail:
-Name | URL 
------------------------------------- | ---------------------------------------------
-Yop mail | http://www.yopmail.com/
-Mailinator | https://www.mailinator.com/ # https://gist.github.com/nocturnalgeek/1b8fa44283314544c487
-Mailnesia | http://mailnesia.com/
-Mailcatch | http://mailcatch.com/
-Get air mail | http://en.getairmail.com/
-10 Minute Mail | http://10minutemail.com
-Spam DB | http://www.dnsbl.info/dnsbl-database-check.php
-Mxtoolbox | http://www.mxtoolbox.com/
-Open relay | http://www.mailradar.com
-Openresolver JP	| http://www.openresolver.jp/en/
-DKIM validator | http://dkimvalidator.com/
-Email recon | https://github.com/laramies/theHarvester
-Gophish | https://github.com/gophish/gophish
-SimplyEmail | https://github.com/killswitch-GUI/SimplyEmail
-SpeedPhish Framework | https://github.com/tatanus/SPF
-Phishing Framework | https://github.com/pentestgeek/phishing-frenzy
-Spam encode secret | http://spammimic.com/encode.cgi
-DNSBL | https://en.wikipedia.org/wiki/DNSBL
 
 
 ## Passwords :key:
@@ -650,66 +570,120 @@ Hash crack | http://www.onlinehashcrack.com/
 MD5 and SHA1 db | http://hashtoolkit.com/
 
 
-## Generic utilities :file_folder:
-Will be reorganized</sub>
-
-Name	|URL 
+## Penetration testing :wrench:
+Name | URL
 ------------------------------------ | ---------------------------------------------
-Electronic Frontier Foundation | https://www.eff.org/
-CERT teams | https://www.first.org/about/organization/teams
-Skimmers | https://krebsonsecurity.com/all-about-skimmers/
-Understand your commands | http://explainshell.com
-Hashes example | https://hashcat.net/wiki/doku.php?id=example_hashes
-w4rri0r toolbox | http://www.w4rri0r.com/
-Code analysises | https://en.wikipedia.org/wiki/List_of_tools_for_static_code_analysis
-Python tools | http://s3ize.blogspot.fr/2012/08/python-tools-for-penetration-testers.html
-Tools | http://seclist.us/
-Sans | http://isc.sans.edu/diary/
-Security wiki | http://oss-security.openwall.org/wiki/
-Citizen lab | https://citizenlab.org/
-Hackforum | http://hackforums.net/
-Cracking forum | http://crackingforum.com/
-Cracking seal | https://crackingseal.io/
-0day.su | https://0day.su/
-Deepweb | https://www.reddit.com/r/deepweb/
-Codepad	| http://codepad.org/
-GZinflate | http://www.tareeinternet.com/scripts/decrypt.php
-Hurl | http://www.hurl.it/
-Magic-net | http://www.magic-net.info
-MAC_Find | http://www.coffer.com/mac_find/
-MAC_Search | http://hwaddress.com
-Mibbit | http://www.mibbit.com/
-Microsoft threat | http://www.microsoft.com/security
-Random data generator | http://www.mockaroo.com/
-Ping.eu | http://ping.eu/
-Project Honeypot | https://www.projecthoneypot.org/
-Sandsprite | http://sandsprite.com/shellcode_2_exe.php
-Uptimerobot | http://uptimerobot.com/
-Fake ID | http://www.fakenamegenerator.com/
+Owasp Check list | https://www.owasp.org/index.php/Testing_Checklist
+Owasp testing guide | https://www.owasp.org/images/5/52/OWASP_Testing_Guide_v4.pdf :+1:
+Public pentest reports | https://github.com/juliocesarfort/public-pentesting-reports :+1:
+Reverse engineering | http://wiki.yobi.be/wiki/Reverse-Engineering
+Vulnerabilities | http://oss-security.openwall.org/wiki/tools
+Services enumeration | http://www.0daysecurity.com/penetration-testing/enumeration.html - Thx [rawger](https://twitter.com/_rawger)
+Informaion gathering | http://www.w4rri0r.com/softwares-freeware-shareware-open-source/information-gathering.html
+Footprinting | http://www.0daysecurity.com/penetration-testing/network-footprinting.html
+Web | http://www.w4rri0r.com/softwares-freeware-shareware-open-source/web-application-analysis.html
+Web vulnerabilities | http://www.w4rri0r.com/softwares-freeware-shareware-open-source/vulnerability-assessment.html
+SANS Penetration Testing | http://pen-testing.sans.org
+Pentest procedure | https://github.com/nixawk/pentest-wiki
+Owasp tools | https://www.owasp.org/index.php/Category:OWASP_Tool
+Python tools | https://github.com/dloss/python-pentest-tools
+Great tools list | http://wiki.yobi.be/wiki/Table_of_contents#Security
+Kali list | http://tools.kali.org/tools-listing
+BlackArch list | https://blackarch.org/tools.html
+More tools | http://www.cotse.com/tools/
+More tools | https://github.com/enaqx/awesome-pentest
 
 
-## Leak / Defaced :ambulance:
+## Port scanners :dart:
+Name | URL
+------------------------------------ | ---------------------------------------------
+Masscan | https://github.com/robertdavidgraham/masscan
+Nmap | https://nmap.org/7/
+Zmap | https://zmap.io/
+Zgrab | https://github.com/zmap/zgrab (Banner Grabber)
+Nscan | https://github.com/OffensivePython/Nscan
+Scanrand | https://www.sans.org/security-resources/idfaq/scanrand.php
+PFRing | https://github.com/ntop/PF_RING - High-speed packet processing framework
+
+
+## Search engines :satellite:
+Name | URL
+------------------------------------ | ---------------------------------------------
+ZoomEye | https://zoomeye.org/ :+1:
+Shodan | https://www.shodan.io/
+Censys | https://censys.io/
+Gegereka | http://gegereka.com/ (not always up)
+Google | https://www.google.com/advanced_search
+Google dorks | https://gist.github.com/zbetcheckin/04e6a5d7f2d5ef8cfa3c298701f47f9c
+List of search engines | https://en.wikipedia.org/wiki/List_of_search_engines
+
+
+## Security challenges / WarGames :triangular_flag_on_post:
 Name | URL 
 ------------------------------------ | ---------------------------------------------
-Have I been pwned | https://haveibeenpwned.com/
-Siph0n | https://twitter.com/datasiph0n
-Leaked source | https://www.leakedsource.com/
-Leak forums | https://leakforums.net/
-Leakedin | http://www.leakedin.com/
-Zone-H | https://zone-h.org/
-Mr white | https://mrwhite.biz/
-URL Find | http://urlfind.org/
-Isithacked | http://www.isithacked.com
-Cam | http://www.insecam.org/
+Zenk-Security | https://www.zenk-security.com/
+Root-Me | http://www.root-me.org/
+Overthewire | http://overthewire.org/wargames/
+CrackMe.de | http://crackmes.de/
+Reversing | http://reversing.kr/
+Pwnable | http://pwnable.kr/
+Newbiecontest | https://www.newbiecontest.org/
+OWASP VWAD list | https://github.com/OWASP/OWASP-VWAD/blob/master/src/online.tsv
+WeChall | https://www.wechall.net/
+Vulnhub | https://www.vulnhub.com/
+Net Garage | http://io.netgarage.org/
+Flare-On | http://www.flare-on.com/
+SmashTheStack | http://smashthestack.org/
+Hackthissite | http://www.hackthissite.org/
+Hack.me | https://hack.me
+HackThis! | http://www.hackthis.co.uk/
+PenTestLabs | https://lab.thecybershark.com/pentestlabs/5
+Backdoor.Sdslabs | https://backdoor.sdslabs.co/
+Bright-shadows | http://www.bright-shadows.net/
+SmashTheStack | http://smashthestack.org/
+Ringzer0team | https://ringzer0team.com/challenges
+Forensic contest | http://forensicscontest.com/puzzles
+Dareyourmind | http://www.dareyourmind.net
+Lost chall | http://www.lost-chall.org/
+Rankk | http://www.rankk.org/
+Happy Security | http://www.happy-security.de/
+Net force | https://www.net-force.nl/challenges/
+CanYouHack.it | http://canyouhack.it/
+Hellboundhackers | https://www.hellboundhackers.org/
+Microcorruption | https://microcorruption.com/
+More challenges | http://captf.com/practice-ctf/
 
 
-## Lock picking :closed_lock_with_key:
-Name | URL 
+## Social engineering
+Name | URL
 ------------------------------------ | ---------------------------------------------
-Lock pick guide | http://lockpickguide.com :+1:
-Bosnianbill video | https://www.youtube.com/user/bosnianbill/videos :1:
-Lock lab | https://lock-lab.com/
-Lock wiki | http://www.lockwiki.com/
+Osint list | https://github.com/jivoi/awesome-osint :+1:
+List of social network | https://en.wikipedia.org/wiki/List_of_social_networking_websites
+Reddit | https://www.reddit.com/r/SocialEngineering/
+Maltego | https://www.paterva.com/
+Hunter | https://hunter.io/
+Pipl | https://pipl.com/
+Peek you | http://www.peekyou.com/
+Yatedo | http://www.yatedo.com/
+Lullar | http://com.lullar.com/
+Lakako | http://www.lakako.com/
+Yasni | http://www.yasni.com/
+User search | https://usersearch.org/
+Google | https://www.google.com/advanced_search
+Google dorks | `intext:lastName firstName`
+Google dorks | `insubject:lastName firstName`
+Google dorks | `intext:lastName firstName filetype:pdf || filetype:doc || filetype:xml || filetype:txt ||  filetype:xls || filetype:ppt || filetype:pps || filetype:docx || filetype:wps || filetype:rtf || filetype:csv || filetype:pptx || filetype:xlsx || filetype:xlr || filetype:sxw || filetype:ods || filetype:odt || filetype:psw`
+Bing | https://www.bing.com/
+Bing dorks | `lastName firstName (filetype:doc OR filetype:ppt OR filetype:pps OR filetype:xls OR filetype:docx OR filetype:pptx OR filetype:ppsx OR filetype:xlsx OR filetype:sxw OR filetype:sxc OR filetype:sxi OR filetype:odt OR filetype:ods OR filetype:odg OR filetype:odp OR filetype:pdf OR filetype:wpd OR filetype:svg OR filetype:svgz OR filetype:indd OR filetype:rdp OR filetype:ica)`
+Yahoo | https://search.yahoo.com/
+Duck duck go | https://duckduckgo.com/
+Yandex | https://www.yandex.com/
+Exa lead | http://www.exalead.com
+Osint stalker | https://github.com/milo2012/osintstalker
+Speed phish framework | https://github.com/tatanus/SPF
+Browser exploitation framework | https://github.com/beefproject/beef
+The harvester | https://github.com/laramies/theHarvester
+Meta goofil | https://github.com/laramies/metagoofil
 
 
 ## SSL 
@@ -756,6 +730,13 @@ Tails |	https://blog.torproject.org/blogs/tails
 Reddit | https://www.reddit.com/r/onions/
 
 
+## VOIP :phone:
+Name | URL
+------------------------------------------- | ---------------------------------------------
+Penetration test | http://0daysecurity.com/penetration-testing/VoIP-security.html
+Penetration test | http://www.backtrack-linux.org/wiki/index.php/Pentesting_VOIP
+
+
 ## VPN 
 Name | URL 
 ------------------------------------ | ---------------------------------------------
@@ -763,6 +744,23 @@ Open VPN | https://github.com/OpenVPN
 Comparison | https://thatoneprivacysite.net/vpn-comparison-chart/
 Location test | https://www.dnsleaktest.com/
 Location test | https://ipleak.net/
+
+
+## Vulnerable environments :unlock:
+Name | URL 
+------------------------------------ | ---------------------------------------------
+Owasp list | https://www.owasp.org/index.php/OWASP_Vulnerable_Web_Applications_Directory_Project/Pages/Offline
+Owasp BWA | https://www.owasp.org/index.php/OWASP_Broken_Web_Applications_Project
+DVWA | http://www.dvwa.co.uk/
+WebGoat	| http://code.google.com/p/webgoat
+Metasploitable 3 | https://github.com/rapid7/metasploitable3/wiki
+VulnHub	| http://vulnhub.com/
+LampSecurity | http://sourceforge.net/projects/lampsecurity/
+Dragon | https://www.dragonresearchgroup.org/challenges/
+Hackademic-RTB1 | http://www.aldeid.com/wiki/Hackademic-RTB1
+Moth | http://www.bonsai-sec.com
+Peruggia | http://sourceforge.net/projects/peruggia/
+XSS play ground	| http://xssplayground.net23.net/
 
 
 ## Web browser
@@ -782,25 +780,28 @@ Flash | http://isflashinstalled.com/
 Browserling | https://www.browserling.com/
 
 
-## Fun :trollface:
+## Windows
 Name | URL 
 ------------------------------------ | ---------------------------------------------
-Pwnie Awards | http://pwnies.com/nominations/
-Malware museum | https://archive.org/details/malwaremuseum
-Dead drops | https://deaddrops.com/db/
-Mozilla location service | https://location.services.mozilla.com/map - Thx [rawger](https://twitter.com/_rawger)
-The cyber shark map | https://lab.thecybershark.com/
-Norse map | http://map.norsecorp.com/
-Fire eye map | https://www.fireeye.com/cyber-map/threat-map.html
-Kaspersky AV map | https://cybermap.kaspersky.com/
-Kaspersky map | https://apt.securelist.com/
-Eset map | http://www.virusradar.com/
-Fortinet map | https://threatmap.fortiguard.com/
-Blueliv map | https://community.blueliv.com/map/
-DDoS attacks | http://www.digitalattackmap.com/
-Sub marine cable | http://www.submarinecablemap.com/
-Sub marine cable | http://submarine-cable-map-2016.telegeography.com/
-Sub marine cable | http://lifewinning.com/submarine-cable-taps/
-Flight radar | https://www.flightradar24.com
-Fligh aware | https://flightaware.com/
-World of VNC | https://worldofvnc.net/
+Windows exploitation | https://github.com/enddo/awesome-windows-exploitation
+Anti forensic Windows | https://www.reddit.com/r/security/comments/32fb1l/open_guide_to_scrubbing_windows_oss_from_forensic/
+Windows executable walkthrough | https://i.imgur.com/pHjcI.png
+
+
+## Wide Scans :earth_americas:
+Name | URL
+-------------------------------------------- | ---------------------------------------------
+Scans.io | https://scans.io/
+Rapid7 Sonar Labs | https://sonar.labs.rapid7.com/
+Similar projects | https://github.com/rapid7/sonar/wiki/Similar-Projects
+Defcon conference | [https://defcon.org/](https://defcon.org/images/defcon-22/dc-22-presentations/Graham-McMillan-Tentler/DEFCON-22-Graham-McMillan-Tentler-Masscaning-the-Internet.pdf)
+Blackhat conference | [https://www.blackhat.com/](https://www.blackhat.com/docs/asia-14/materials/Schloesser/Asia-14-Schloesser-Scan-All-The-Things.pdf)
+
+
+## Wireless :signal_strength:
+Name | URL
+------------------------------------------- | ---------------------------------------------
+Awesome wifi tools list | https://github.com/0x90/wifi-arsenal
+Penetration test | http://0daysecurity.com/penetration-testing/wireless-penetration.html
+Great wifi map | https://wigle.net/
+Wireless in airports | https://www.google.com/maps/d/viewer?mid=1Z1dI8hoBZSJNWFx2xr_MMxSxSxY
