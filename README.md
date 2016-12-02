@@ -56,6 +56,7 @@ Malware analysis | https://github.com/rshipp/awesome-malware-analysis/ :trophy:
 Incident response | https://github.com/meirwah/awesome-incident-response/ :trophy:
 Honeypots | https://github.com/paralax/awesome-honeypots :trophy:
 Threat intelligence | https://github.com/hslatman/awesome-threat-intelligence
+Indicators of compromise | https://github.com/sroberts/awesome-iocs
 PCAP | https://github.com/caesar0301/awesome-pcaptools
 Network | https://github.com/Security-Onion-Solutions/security-onion/wiki/Tools
 GNU/Linux workstation | https://github.com/lfit/itpol/blob/master/linux-workstation-security.md
@@ -219,6 +220,7 @@ XSS play ground	| http://xssplayground.net23.net/
 Name	|URL 
 ------------------------------------ | ---------------------------------------------
 Many books | https://yadi.sk/d/Fkww0QKbuTdVF :trophy:
+Free programming books | https://github.com/vhf/free-programming-books
 
 
 ## Bug bounty :chocolate_bar:
@@ -257,8 +259,10 @@ List of search engines | https://en.wikipedia.org/wiki/List_of_search_engines
 ## Social engineering
 Name | URL
 ------------------------------------ | ---------------------------------------------
-Reddit | https://www.reddit.com/r/SocialEngineering/
+Osint list | https://github.com/jivoi/awesome-osint :+1:
 List of social network | https://en.wikipedia.org/wiki/List_of_social_networking_websites
+Reddit | https://www.reddit.com/r/SocialEngineering/
+Maltego | https://www.paterva.com/
 Hunter | https://hunter.io/
 Pipl | https://pipl.com/
 Peek you | http://www.peekyou.com/
@@ -277,7 +281,6 @@ Yahoo | https://search.yahoo.com/
 Duck duck go | https://duckduckgo.com/
 Yandex | https://www.yandex.com/
 Exa lead | http://www.exalead.com
-Maltego | https://www.paterva.com/
 Osint stalker | https://github.com/milo2012/osintstalker
 Speed phish framework | https://github.com/tatanus/SPF
 Browser exploitation framework | https://github.com/beefproject/beef
@@ -485,13 +488,16 @@ Security and privacy guide | https://github.com/drduh/OS-X-Security-and-Privacy-
 Name | URL
 ------------------------------------------- | ---------------------------------------------
 Package forensic-all | https://packages.debian.org/jessie-backports/forensics-all :+1:
-CFReDS | http://www.cfreds.nist.gov/
+CFReDS | http://www.cfreds.nist.gov/ :+1:
+Awesome forensic | https://github.com/Cugu/awesome-forensics
+DFIR tools list | http://www.dfir.training/index.php/tools/ :+1:
 DEFT package | http://www.deftlinux.net/package-list/
 Tools list | http://toolcatalog.nist.gov/populated_taxonomy/index.php
-DFIR tools list | http://www.dfir.training/index.php/tools/
 Aldeid list | https://www.aldeid.com/wiki/Category:Digital-Forensics
 Forensic tools | http://forensicswiki.org/wiki/Tools
 Forensic Control | https://forensiccontrol.com/resources/free-software/
+DFRWS challenge | http://www.dfrws.org/dfrws-forensic-challenge-2016
+Forensic kb practical | http://www.forensickb.com/2008/01/forensic-practical.html
 Windows tools list | http://forensic-proof.com/tools
 Windows Artifact | [https://blogs.sans.org/computer-forensics/](https://blogs.sans.org/computer-forensics/files/2012/06/SANS-Digital-Forensics-and-Incident-Response-Poster-2012.pdf)
 More forensic links | http://www.amanhardikar.com/mindmaps/ForensicChallenges.html
