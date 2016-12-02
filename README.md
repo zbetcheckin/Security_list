@@ -123,10 +123,10 @@ Reddit | https://www.reddit.com/r/securityctf
 Tools list | https://github.com/Laxa/HackingTools
 Tools list | https://github.com/zardus/ctf-tools
 Tools list | https://github.com/apsdehal/awesome-ctf
+Mellivora platform | https://github.com/Nakiami/mellivora :+1:
 Tinyctf platform | https://github.com/balidani/tinyctf-platform
 Isislab platform | https://github.com/isislab/CTFd
 Facebook platform | https://github.com/facebook/fbctf
-Mellivora platform | https://github.com/Nakiami/mellivora
 
 
 ## Decoder/Packer/Unpacker :hurtrealbad:
@@ -158,6 +158,7 @@ Hackvertor (Tag based decoder/encoder) | https://hackvertor.co.uk/public
 ## Domain Research / Analysis / Reputation :chart_with_downwards_trend:
 Name | URL 
 ------------------------------------ | ---------------------------------------------
+BGP Toolkit | http://bgp.he.net/ :trophy:
 Checking multiple blocklists | http://rbls.org/ :+1:
 URL Void | http://www.urlvoid.com/ :+1:
 URL Query | http://urlquery.net/ :+1:
@@ -169,7 +170,6 @@ Into dns | http://www.intodns.com/
 Virus total | https://www.virustotal.com/#url
 Google | https://www.google.com/transparencyreport/safebrowsing/diagnostic/
 Sucuri | http://sitecheck.sucuri.net/scanner/
-RBL | http://rbls.org/
 Multi RBL | http://multirbl.valli.org/lookup/
 Global DNS checker | https://www.whatsmydns.net/
 Trusted source | http://www.trustedsource.org/
@@ -193,13 +193,13 @@ Domain hijacking intro | https://en.wikipedia.org/wiki/Domain_hijacking
 ## Exercises :mortar_board:
 Name | URL 
 ------------------------------------ | ---------------------------------------------
-Essential basics | https://github.com/alex/what-happens-when
+Essential basics | https://github.com/alex/what-happens-when :trophy: :trophy:
 Reverse - Malware | http://fumalwareanalysis.blogspot.se/p/malware-analysis-tutorials-reverse.html
-Network - Malware | http://www.malware-traffic-analysis.net/training-exercises.html
 Network - Forensic | https://www.honeynet.org/node/504
 Exploits | https://exploit-exercises.com/
 Exploits | https://thesprawl.org/research/
-Basics with F-Secure | http://mooc.fi/courses/2016/cybersecurity/
+Computer security classes | http://opensecuritytraining.info/
+F-Secure training | http://mooc.fi/courses/2016/cybersecurity/
 Cybrary training | https://www.cybrary.it/
 
 
@@ -211,10 +211,10 @@ CVE.mitre | https://cve.mitre.org/
 Full disclosure | http://seclists.org/fulldisclosure/
 See bug | https://www.seebug.org/ :+1:
 CXSecurity | https://cxsecurity.com/ :+1:
-Exploit-db | http://www.exploit-db.com
-Vulnerability-lab | http://www.vulnerability-lab.com/
 Inj3ct0r | http://0day.today/
 Packet Storm | https://packetstormsecurity.com/files/tags/exploit/
+Exploit-db | http://www.exploit-db.com
+Vulnerability-lab | http://www.vulnerability-lab.com/
 Vulndb | https://vuldb.com/?archive.2016
 Vulners | https://vulners.com/search?query=order:published
 Backdoor - TCP-32764 | https://github.com/elvanderb/TCP-32764
@@ -355,15 +355,15 @@ Live nothink | http://www.nothink.org/honeypots.php
 Name | URL 
 ------------------------------------ | ---------------------------------------------
 BGP Toolkit | http://bgp.he.net/ :trophy:
-Google dork | "xxx.xxx.xxx.xxx" (replace xxx.xxx.xxx.xxx with the ip you are looking for)
-Bing dork | ip:xxx.xxx.xxx.xxx
-Whois | https://whois.domaintools.com/
 IP void | http://www.ipvoid.com/ :+1:
 IPv4 info | http://ipv4info.com/ :+1:
 TCP utils | http://www.tcpiputils.com/
 Virus total | https://www.virustotal.com/en/ip-address/xxx.xxx.xxx.xxx/information/
 Multi RBL |  http://multirbl.valli.org/lookup/
 Black List Alert | http://www.blacklistalert.org/
+Google dork | "xxx.xxx.xxx.xxx" (replace xxx.xxx.xxx.xxx with the ip you are looking for)
+Bing dork | ip:xxx.xxx.xxx.xxx
+Whois | https://whois.domaintools.com/
 Whatch Guard | http://www.reputationauthority.org/
 Black List Check | http://whatismyipaddress.com/blacklist-check/
 Project Honeypot | https://www.projecthoneypot.org/search_ip.php
@@ -433,18 +433,21 @@ p0f | http://lcamtuf.coredump.cx/p0f3/
 ## Malware / Botnet sources :angel:
 Name | URL 
 ------------------------------------ | ---------------------------------------------
-Malc0de	| http://malc0de.com/database/
-Malekal	| http://malwaredb.malekal.com/
-Botnet.fr | https://www.botnets.fr/wiki/Main_Page
-Cybercrime tracker | http://cybercrime-tracker.net/
+Cybercrime tracker | http://cybercrime-tracker.net/ :+1:
+Malc0de	| http://malc0de.com/database/ :+1:
+Malekal	| http://malwaredb.malekal.com/ 
 Malshare | http://malshare.com
 Tracker | http://tracker.h3x.eu/
+Botnet.fr | https://www.botnets.fr/wiki/Main_Page
 Exposed Botnets	| http://www.exposedbotnets.com/
-VX Vault | http://vxvault.siri-urz.net
+VX Vault | http://vxvault.net/
 Malware exploit database | https://www.pwnmalw.re/
+Malware binaries | https://github.com/ytisf/theZoo/tree/master/malwares/Binaries
 Total hash | https://totalhash.cymru.com/
 Cyber tracker | http://cybertracker.malwarehunterteam.com/
+ZeuS Tracker | https://zeustracker.abuse.ch
 Custom Google search engine | https://cse.google.com/cse/home?cx=011750002002865445766%3Apc60zx1rliu (from Corey Harrell)
+Ransomware tracker | https://ransomwaretracker.abuse.ch/tracker/
 Ransomware overview | https://docs.google.com/spreadsheets/d/1TWS238xacAto-fLKh1n5uTsdijWdCEsGIM0Y0Hvmc5g/pubhtml#
 Ransomware simulator | https://shinolocker.com/
 Contagio | http://contagiodump.blogspot.se/
@@ -452,7 +455,7 @@ VirusShare | http://virusshare.com/
 Virusign | http://www.virusign.com/
 Malware domain list | http://www.malwaredomainlist.com
 Malware.lu | https://malware.lu/
-SafeGroup | http://www.malware.pl/
+SafeGroup | http://www.malware.pl/ - https://www.scumware.org/
 NovCon Minotaur | http://minotauranalysis.com
 Clean MX | http://support.clean-mx.de/clean-mx/viruses.php
 Edu malrec | http://panda.gtisc.gatech.edu/malrec/
@@ -461,10 +464,11 @@ Abuse CH | https://www.abuse.ch/
 Maltrieve | https://github.com/technoskald/maltrieve
 Malware domain blocklist | http://www.malwaredomains.com
 Tool Mwcrawler | https://github.com/0day1day/mwcrawler
-ZeuS Tracker | https://zeustracker.abuse.ch
 theZoo aka Malware DB | https://ytisf.github.io/theZoo/
-Malware Analysis course | https://github.com/RPISEC/Malware
 Structured Threat Information eXpression | https://stixproject.github.io/
+Malware Analysis course | https://github.com/RPISEC/Malware :trophy:
+Malware traffic training | http://www.malware-traffic-analysis.net/training-exercises.html :+1:
+Practical analysis | https://practicalmalwareanalysis.com/labs/
 
 
 ## Malware analysis - Sandbox :mask:
