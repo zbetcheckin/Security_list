@@ -16,7 +16,6 @@ I wanted to update it with my sources, I will probably continue to update and re
 * [Exercises](#exercises-mortar_board)
 * [Exploits and vulnerabilities](#exploits-and-vulnerabilities-door)
 * [Forensic - Network](#forensic---network-mag)
-* [Fingerprint](#fingerprint)
 * [Free shell](#free-shell-shell)
 * [Fun](#fun-trollface)
 * [Generic utilities](#generic-utilities-file_folder)
@@ -706,6 +705,7 @@ Cam | http://www.insecam.org/
 ## VPN 
 Name | URL 
 ------------------------------------ | ---------------------------------------------
+Open VPN | https://github.com/OpenVPN
 Comparison | https://thatoneprivacysite.net/vpn-comparison-chart/
 Location test | https://www.dnsleaktest.com/
 Location test | https://ipleak.net/
@@ -740,7 +740,7 @@ Reddit | https://www.reddit.com/r/onions/
 ## Web browser
 Name | URL 
 ------------------------------------ | ---------------------------------------------
-Browser recommendations | https://gist.github.com/atcuno/3425484ac5cce5298932
+Browser recommendations | https://gist.github.com/atcuno/3425484ac5cce5298932 :+1:
 Browser exploit | https://github.com/julienbedard/browsersploit
 Fingerprint | https://amiunique.org/
 Amiunique project | https://github.com/DIVERSIFY-project/amiunique
@@ -752,18 +752,6 @@ User agent | http://whatsmyuseragent.com/
 Referer | https://www.whatismyreferer.com/
 Flash | http://isflashinstalled.com/
 Browserling | https://www.browserling.com/
-
-
-## Fingerprint
-Name | URL
------------------------------------- | ---------------------------------------------
-Robtex | https://www.robtex.com/dns/
-Netcraft | http://www.netcraft.com/
-TCP utils | http://www.tcpiputils.com/
-DNS stuff | http://www.dnsstuff.com/
-Into dns | http://www.intodns.com/
-Web archive | https://web.archive.org/web/*/
-Web cookies | http://webcookies.org/cookies/
 
 
 ## SSL 
