@@ -72,7 +72,7 @@ Other lists of lists of lists | https://github.com/geekan/awesome-awesome-awesom
 ## Books :books:
 Name	|URL 
 ------------------------------------ | ---------------------------------------------
-Many books | https://yadi.sk/d/Fkww0QKbuTdVF :trophy:
+Many security books | https://yadi.sk/d/Fkww0QKbuTdVF :trophy:
 Free programming books | https://github.com/vhf/free-programming-books
 
 
@@ -268,24 +268,23 @@ Red-pill | http://shells.red-pill.eu/
 ## Fun :trollface:
 Name | URL 
 ------------------------------------ | ---------------------------------------------
-Pwnie Awards | http://pwnies.com/nominations/
-Malware museum | https://archive.org/details/malwaremuseum
+Pwnie Awards | http://pwnies.com/nominations/ :horse:
 Dead drops | https://deaddrops.com/db/
 Mozilla location service | https://location.services.mozilla.com/map - Thx [rawger](https://twitter.com/_rawger)
-The cyber shark map | https://lab.thecybershark.com/
-Norse map | http://map.norsecorp.com/
-Fire eye map | https://www.fireeye.com/cyber-map/threat-map.html
-Kaspersky AV map | https://cybermap.kaspersky.com/
-Kaspersky map | https://apt.securelist.com/
-Eset map | http://www.virusradar.com/
-Fortinet map | https://threatmap.fortiguard.com/
-Blueliv map | https://community.blueliv.com/map/
+The cyber shark map | https://lab.thecybershark.com/ :earth_americas:
+Norse map | http://map.norsecorp.com/ :earth_americas:
+Fire eye map | https://www.fireeye.com/cyber-map/threat-map.html :earth_americas:
+Kaspersky AV map | https://cybermap.kaspersky.com/ :earth_americas:
+Kaspersky map | https://apt.securelist.com/ :earth_americas:
+Eset map | http://www.virusradar.com/ :earth_americas:
+Fortinet map | https://threatmap.fortiguard.com/ :earth_americas:
+Blueliv map | https://community.blueliv.com/map/ :earth_americas:
 DDoS attacks | http://www.digitalattackmap.com/
 Sub marine cable | http://www.submarinecablemap.com/
 Sub marine cable | http://submarine-cable-map-2016.telegeography.com/
 Sub marine cable | http://lifewinning.com/submarine-cable-taps/
-Flight radar | https://www.flightradar24.com
-Fligh aware | https://flightaware.com/
+Flight radar | https://www.flightradar24.com :airplane:
+Fligh aware | https://flightaware.com/ :airplane:
 World of VNC | https://worldofvnc.net/
 
 
@@ -469,6 +468,7 @@ Structured Threat Information eXpression | https://stixproject.github.io/
 Malware Analysis course | https://github.com/RPISEC/Malware :trophy:
 Malware traffic training | http://www.malware-traffic-analysis.net/training-exercises.html :+1:
 Practical analysis | https://practicalmalwareanalysis.com/labs/
+Malware museum | https://archive.org/details/malwaremuseum :+1:
 
 
 ## Malware analysis - Sandbox :mask:
