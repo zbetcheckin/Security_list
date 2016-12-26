@@ -29,7 +29,7 @@ I wanted to update it with my sources, I will probably continue to update and re
 * [Malware / Botnet sources](#malware--botnet-sources-angel)
 * [Malware analysis - Sandbox](#malware-analysis---sandbox-mask)
 * [Malware analysis - Sandbox - Online](#malware-analysis---sandbox---online-mask)
-* [Network](#Network)
+* [Network](#network)
 * [OS X](#os-x)
 * [Passwords](#passwords-key)
 * [Penetration testing / Tools](#penetration-testing-wrench)
@@ -267,7 +267,7 @@ Name | URL
 ------------------------------------ | ---------------------------------------------
 Pwnie Awards | http://pwnies.com/nominations/ :horse:
 Dead drops | https://deaddrops.com/db/
-Mozilla location service | https://location.services.mozilla.com/map - Thx [rawger](https://twitter.com/_rawger)
+Mozilla location service map | https://location.services.mozilla.com/map - Thx [rawger](https://twitter.com/_rawger)
 The cyber shark map | https://lab.thecybershark.com/ :earth_americas:
 Norse map | http://map.norsecorp.com/ :earth_americas:
 Fire eye map | https://www.fireeye.com/cyber-map/threat-map.html :earth_americas:
@@ -276,6 +276,7 @@ Kaspersky map | https://apt.securelist.com/ :earth_americas:
 Eset map | http://www.virusradar.com/ :earth_americas:
 Fortinet map | https://threatmap.fortiguard.com/ :earth_americas:
 Blueliv map | https://community.blueliv.com/map/ :earth_americas:
+Tor flow map | https://torflow.uncharted.software
 DDoS attacks | http://www.digitalattackmap.com/
 Sub marine cable | http://www.submarinecablemap.com/
 Sub marine cable | http://submarine-cable-map-2016.telegeography.com/
@@ -722,27 +723,26 @@ Poodle | https://poodle.io/,https://www.poodlescan.com/
 ## Tor
 Name | URL 
 ------------------------------------ | ---------------------------------------------
-Tor Project | https://www.torproject.org/
-Tor know exit nodes | https://check.torproject.org/exit-addresses
-Tor IP history | https://exonerator.torproject.org/
-Tor bulk exit list | https://check.torproject.org/cgi-bin/TorBulkExitList.py
-Tor status | https://torstatus.blutmagie.de/
-Tor socks | https://gitweb.torproject.org/torsocks.git
-Grams - search engine | http://grams7enufi7jmdl.onion/
-Ahmia - search engine | https://ahmia.fi/
-TORCH - search engine | http://xmh57jrzrnw6insl.onion/
-DuckDuckGo | http://3g2upl4pq6kufc4m.onion/ 
-The hidden wiki | https://thehiddenwiki.org/
-Tor hidden services | https://www.torproject.org/docs/hidden-services.html.en
-Tor hidden services scanner | https://github.com/superp00t/sadonion
-Scan Onion Services | https://github.com/s-rah/onionscan
-URL onion inspector | https://github.com/k4m4/onioff
-Tor Browser Fingerprint | https://github.com/jonaslejon/tor-fingerprint
-Tor relays bandwidth | https://github.com/TheTorProject/bwscanner
-Tor flow map | https://torflow.uncharted.software
-Onion Mail | http://onionmail.info/
-Tails |	https://blog.torproject.org/blogs/tails
+Hidden services | https://www.torproject.org/docs/hidden-services.html.en
+Hidden services scanner | https://github.com/superp00t/sadonion
 Reddit | https://www.reddit.com/r/onions/
+Scan Onion Services | https://github.com/s-rah/onionscan
+Search engine - Grams | http://grams7enufi7jmdl.onion/
+Search engine - Ahmia | https://ahmia.fi/
+Search engine - TORCH | http://xmh57jrzrnw6insl.onion/
+Search engine - DuckDuckGo | http://3g2upl4pq6kufc4m.onion/ 
+Tails |	https://blog.torproject.org/blogs/tails
+The hidden wiki | https://thehiddenwiki.org/
+Tolerant ISP for exit node | https://trac.torproject.org/projects/tor/wiki/doc/GoodBadISPs
+Tor Browser Fingerprint | https://github.com/jonaslejon/tor-fingerprint
+Tor Bulk exit list | https://check.torproject.org/cgi-bin/TorBulkExitList.py
+Tor IP history | https://exonerator.torproject.org/
+Tor Know exit nodes | https://check.torproject.org/exit-addresses
+Tor Project | https://www.torproject.org/
+Tor Relays bandwidth | https://github.com/TheTorProject/bwscanner
+Tor Socks | https://gitweb.torproject.org/torsocks.git
+Tor Status | https://torstatus.blutmagie.de/
+URL onion inspector | https://github.com/k4m4/onioff
 
 
 ## VOIP :phone:
