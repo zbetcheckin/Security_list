@@ -36,6 +36,7 @@ I wanted to update it with my sources, I will probably continue to update and re
 * [Port scanners](#port-scanners-dart)
 * [Search engines](#search-engines-satellite)
 * [Security challenges / WarGames](#security-challenges--wargames-triangular_flag_on_post)
+* [Skimmer](#skimmer-black_joker)
 * [Social engineering](#social-engineering)
 * [SSL](#ssl)
 * [TOR](#tor)
@@ -660,6 +661,13 @@ CanYouHack.it | http://canyouhack.it/
 Hellboundhackers | https://www.hellboundhackers.org/
 Microcorruption | https://microcorruption.com/
 More challenges | http://captf.com/practice-ctf/
+
+
+## Skimmer :black_joker:
+Name	|URL 
+------------------------------------ | ---------------------------------------------
+Skimmer source from Krebs | https://krebsonsecurity.com/all-about-skimmers/
+Great reverse engineering on skimmer | https://trustfoundry.net/reverse-engineering-a-discovered-atm-skimmer/
 
 
 ## Social engineering
