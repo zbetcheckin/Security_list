@@ -29,6 +29,7 @@ I wanted to update it with my sources, I will probably continue to update and re
 * [Malware / Botnet sources](#malware--botnet-sources-angel)
 * [Malware analysis - Sandbox](#malware-analysis---sandbox-mask)
 * [Malware analysis - Sandbox - Online](#malware-analysis---sandbox---online-mask)
+* [Network](#Network)
 * [OS X](#os-x)
 * [Passwords](#passwords-key)
 * [Penetration testing / Tools](#penetration-testing-wrench)
@@ -39,7 +40,7 @@ I wanted to update it with my sources, I will probably continue to update and re
 * [SSL](#ssl)
 * [Tor resources](#tor-resources)
 * [VOIP](#voip-phone)
-* [VPN](vpn)
+* [VPN](#vpn)
 * [Vulnerable environments](#vulnerable-environments-unlock)
 * [Web browser](#web-browser)
 * [Wide Scans](#wide-scans-earth_americas)
@@ -57,8 +58,6 @@ Incident response | https://github.com/meirwah/awesome-incident-response/ :troph
 Honeypots | https://github.com/paralax/awesome-honeypots :trophy:
 Threat intelligence | https://github.com/hslatman/awesome-threat-intelligence
 Indicators of compromise | https://github.com/sroberts/awesome-iocs
-PCAP | https://github.com/caesar0301/awesome-pcaptools
-Network | https://github.com/Security-Onion-Solutions/security-onion/wiki/Tools
 GNU/Linux workstation | https://github.com/lfit/itpol/blob/master/linux-workstation-security.md
 GNU/Linux post exploitation | https://github.com/mubix/post-exploitation/wiki/Linux-Post-Exploitation-Command-List
 GNU/Linux containers | https://github.com/Friz-zy/awesome-linux-containers#security
@@ -206,7 +205,7 @@ Cybrary training | https://www.cybrary.it/
 ## Exploits and vulnerabilities :door:
 Name | URL 
 ------------------------------------ | ---------------------------------------------
-CVEdetails | http://www.cvedetails.com/
+CVEdetails | http://www.cvedetails.com/ :+1:
 CVE.mitre | https://cve.mitre.org/
 Full disclosure | http://seclists.org/fulldisclosure/
 See bug | https://www.seebug.org/ :+1:
@@ -249,8 +248,6 @@ Forensic kb practical | http://www.forensickb.com/2008/01/forensic-practical.htm
 Windows tools list | http://forensic-proof.com/tools
 Windows Artifact | [https://blogs.sans.org/computer-forensics/](https://blogs.sans.org/computer-forensics/files/2012/06/SANS-Digital-Forensics-and-Incident-Response-Poster-2012.pdf)
 More forensic links | http://www.amanhardikar.com/mindmaps/ForensicChallenges.html
-Wireshark extentions | https://www.honeynet.org/project/WiresharkExtensions
-GNU/Linux monitoring | https://blog.serverdensity.com/80-linux-monitoring-tools-know/
 Testing Images | http://dftt.sourceforge.net/
 FR - Zythom list | https://zythom.blogspot.se/2007/02/les-outils-dun-expert-judiciaire.html
 Write blocker | http://www.cftt.nist.gov/software_write_block.htm
@@ -314,12 +311,9 @@ Codepad	| http://codepad.org/
 GZinflate | http://www.tareeinternet.com/scripts/decrypt.php
 Hurl | http://www.hurl.it/
 Magic-net | http://www.magic-net.info
-MAC_Find | http://www.coffer.com/mac_find/
-MAC_Search | http://hwaddress.com
 Mibbit | http://www.mibbit.com/
 Microsoft threat | http://www.microsoft.com/security
 Random data generator | http://www.mockaroo.com/
-Ping.eu | http://ping.eu/
 Project Honeypot | https://www.projecthoneypot.org/
 Sandsprite | http://sandsprite.com/shellcode_2_exe.php
 Uptimerobot | http://uptimerobot.com/
@@ -533,6 +527,23 @@ Joebox Cloud | https://jbxcloud.joesecurity.org/login
 SandDroid | http://sanddroid.xjtu.edu.cn
 Tracedroid | http://tracedroid.few.vu.nl
 MobiSecLab | http://akana.mobiseclab.org/
+
+
+## Network
+Name | URL 
+------------------------------------ | ---------------------------------------------
+Awesome PCAP | https://github.com/caesar0301/awesome-pcaptools :+1:
+GNU/Linux monitoring | https://blog.serverdensity.com/80-linux-monitoring-tools-know/
+MAC address block | http://standards-oui.ieee.org/oui/oui.txt
+MAC find | http://www.coffer.com/mac_find/
+MAC find | http://hwaddress.com
+Ping.eu | http://ping.eu/
+Service Port Number Registry | [https://www.iana.org/assignments/service-names-port-numbers/](https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.xml) :+1:
+Service Port Number Registry | https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers
+Subnet calculator | http://www.subnet-calculator.com/cidr.php
+Subnet calculator | http://www.subnetonline.com/pages/subnet-calculators.php
+Security Onion tools | https://github.com/Security-Onion-Solutions/security-onion/wiki/Tools
+Wireshark extentions | https://www.honeynet.org/project/WiresharkExtensions
 
 
 ## OS X
