@@ -32,7 +32,7 @@ I wanted to update it with my sources, I will probably continue to update and re
 * [Network](#network)
 * [OS X](#os-x)
 * [Passwords](#passwords-key)
-* [Penetration testing / Tools](#penetration-testing-wrench)
+* [Penetration testing](#penetration-testing-wrench)
 * [Port scanners](#port-scanners-dart)
 * [Search engines](#search-engines-satellite)
 * [Security challenges / WarGames](#security-challenges--wargames-triangular_flag_on_post)
@@ -582,25 +582,26 @@ MD5 and SHA1 db | http://hashtoolkit.com/
 ## Penetration testing :wrench:
 Name | URL
 ------------------------------------ | ---------------------------------------------
-Owasp Check list | https://www.owasp.org/index.php/Testing_Checklist
-Owasp testing guide | https://www.owasp.org/images/5/52/OWASP_Testing_Guide_v4.pdf :+1:
+Awesome pentest | https://github.com/enaqx/awesome-pentest
+Footprinting - Procedure & tools | http://www.0daysecurity.com/penetration-testing/network-footprinting.html
+GNU/Linux privilege escalation | https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/ :+1:
+Informaion gathering - Tools | http://www.w4rri0r.com/softwares-freeware-shareware-open-source/information-gathering.html
+Organization of the Standard | http://www.pentest-standard.org/index.php/Main_Page :+1:
+Owasp - Check list | https://www.owasp.org/index.php/Testing_Checklist
+Owasp testing guide | https://www.owasp.org/images/5/52/OWASP_Testing_Guide_v4.pdf :trophy:
+Owasp - tools | https://www.owasp.org/index.php/Category:OWASP_Tool
 Public pentest reports | https://github.com/juliocesarfort/public-pentesting-reports :+1:
+Python tools for pentest | https://github.com/dloss/python-pentest-tools
+Report sample | https://www.offensive-security.com/reports/sample-penetration-testing-report.pdf
 Reverse engineering | http://wiki.yobi.be/wiki/Reverse-Engineering
-Vulnerabilities | http://oss-security.openwall.org/wiki/tools
-Services enumeration | http://www.0daysecurity.com/penetration-testing/enumeration.html - Thx [rawger](https://twitter.com/_rawger)
-Informaion gathering | http://www.w4rri0r.com/softwares-freeware-shareware-open-source/information-gathering.html
-Footprinting | http://www.0daysecurity.com/penetration-testing/network-footprinting.html
+SANS Penetration Testing | http://pen-testing.sans.org
+Services enumeration | http://www.0daysecurity.com/penetration-testing/enumeration.html :+1: Thx [rawger](https://twitter.com/_rawger)
+Tools - BlackArch list | https://blackarch.org/tools.html
+Tools - Cotse| http://www.cotse.com/tools/
+Tools - Great list | http://wiki.yobi.be/wiki/Table_of_contents#Security
+Tools - Kali list | http://tools.kali.org/tools-listing
 Web | http://www.w4rri0r.com/softwares-freeware-shareware-open-source/web-application-analysis.html
 Web vulnerabilities | http://www.w4rri0r.com/softwares-freeware-shareware-open-source/vulnerability-assessment.html
-SANS Penetration Testing | http://pen-testing.sans.org
-Pentest procedure | https://github.com/nixawk/pentest-wiki
-Owasp tools | https://www.owasp.org/index.php/Category:OWASP_Tool
-Python tools | https://github.com/dloss/python-pentest-tools
-Great tools list | http://wiki.yobi.be/wiki/Table_of_contents#Security
-Kali list | http://tools.kali.org/tools-listing
-BlackArch list | https://blackarch.org/tools.html
-More tools | http://www.cotse.com/tools/
-More tools | https://github.com/enaqx/awesome-pentest
 
 
 ## Port scanners :dart:
