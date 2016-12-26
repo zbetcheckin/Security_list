@@ -543,8 +543,10 @@ Wireshark extentions | https://www.honeynet.org/project/WiresharkExtensions
 ## OS X
 Name | URL 
 ------------------------------------ | ---------------------------------------------
-Security and privacy guide | https://github.com/drduh/OS-X-Security-and-Privacy-Guide
+Awesome OSX & IOS sec list | https://github.com/ashishb/osx-and-ios-security-awesome
 OSX auditor | https://github.com/jipegit/OSXAuditor
+OWASP iGoat Project | https://www.owasp.org/index.php/OWASP_iGoat_Project
+Security and privacy guide | https://github.com/drduh/OS-X-Security-and-Privacy-Guide
 
 
 ## Passwords :key:
