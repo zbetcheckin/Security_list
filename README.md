@@ -38,7 +38,7 @@ I wanted to update it with my sources, I will probably continue to update and re
 * [Security challenges / WarGames](#security-challenges--wargames-triangular_flag_on_post)
 * [Social engineering](#social-engineering)
 * [SSL](#ssl)
-* [Tor](#tor)
+* [TOR](#tor)
 * [VOIP](#voip-phone)
 * [VPN](#vpn)
 * [Vulnerable environments](#vulnerable-environments-unlock)
@@ -698,22 +698,19 @@ Meta goofil | https://github.com/laramies/metagoofil
 ## SSL 
 Name | URL 
 ------------------------------------ | ---------------------------------------------
-OWASP tests | [https://www.owasp.org/index.php/Testing_for_Weak_SSL/TLS_Ciphers](https://www.owasp.org/index.php/Testing_for_Weak_SSL/TLS_Ciphers,_Insufficient_Transport_Layer_Protection_%28OTG-CRYPST-001%29)
-Testssl.sh | https://github.com/drwetter/testssl.sh
-O-Saft | https://www.owasp.org/index.php/O-Saft
-SSLyze | https://github.com/iSECPartners/sslyze
-SSLscan | https://github.com/rbsec/sslscan
-Qualys SSL Labs	| https://www.ssllabs.com/ssltest/
-Htbridge | https://www.htbridge.com/ssl/
-Symantec report | https://cryptoreport.websecurity.symantec.com/checker/
-SSLAnalyzer Comodoca | https://sslanalyzer.comodoca.com/
-Freak | https://freakattack.com/
-Heartbleed | http://heartbleed.com/,https://filippo.io/Heartbleed/
-Logjam | https://weakdh.org/sysadmin.html
-Poodle | https://poodle.io/,https://www.poodlescan.com/
+Htbridge - Online analysis | https://www.htbridge.com/ssl/
+Mozilla SSL Configuration Generator | https://mozilla.github.io/server-side-tls/ssl-config-generator/
+Observatory by Mozilla - Online analysis | https://observatory.mozilla.org/ :trophy::trophy:
+O-Saft - Tools | https://www.owasp.org/index.php/O-Saft
+OWASP tests - Procedure | [https://www.owasp.org/index.php/Testing_for_Weak_SSL/TLS_Ciphers](https://www.owasp.org/index.php/Testing_for_Weak_SSL/TLS_Ciphers,_Insufficient_Transport_Layer_Protection_(OTG-CRYPST-002))
+Qualys SSL Labs	- Online analysis | https://www.ssllabs.com/ssltest/
+SSLscan - Tools | https://github.com/rbsec/sslscan
+SSLyze - Tools | https://github.com/iSECPartners/sslyze
+Symantec report - Online analysis | https://cryptoreport.websecurity.symantec.com/checker/
+Testssl.sh - Tools | https://github.com/drwetter/testssl.sh :+1:
 
 
-## Tor
+## TOR
 Name | URL 
 ------------------------------------ | ---------------------------------------------
 Hidden services | https://www.torproject.org/docs/hidden-services.html.en
