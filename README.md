@@ -58,9 +58,6 @@ Incident response | https://github.com/meirwah/awesome-incident-response/ :troph
 Honeypots | https://github.com/paralax/awesome-honeypots :trophy:
 Threat intelligence | https://github.com/hslatman/awesome-threat-intelligence
 Indicators of compromise | https://github.com/sroberts/awesome-iocs
-GNU/Linux workstation | https://github.com/lfit/itpol/blob/master/linux-workstation-security.md
-GNU/Linux post exploitation | https://github.com/mubix/post-exploitation/wiki/Linux-Post-Exploitation-Command-List
-GNU/Linux containers | https://github.com/Friz-zy/awesome-linux-containers#security
 Android | https://github.com/ashishb/android-security-awesome
 Web | https://github.com/infoslack/awesome-web-hacking
 Security list | https://github.com/sbilly/awesome-security
@@ -318,17 +315,17 @@ Fake ID | http://www.fakenamegenerator.com/
 ## GNU/Linux
 Name | URL 
 ------------------------------------ | ---------------------------------------------
-Lynis | https://packages.debian.org/en/jessie/lynis
 Chkrootkit | https://packages.debian.org/en/jessie/chkrootkit
-RKhunter | https://packages.debian.org/en/jessie/rkhunter
-Debsecan | https://packages.debian.org/en/jessie/debsecan
-Vulnerability scanner | https://github.com/future-architect/vuls
-GNU/Linux post exploitation | https://github.com/mubix/post-exploitation/wiki/Linux-Post-Exploitation-Command-List
-GNU/Linux workstation | https://github.com/lfit/itpol/blob/master/linux-workstation-security.md
-Securing debian | https://www.debian.org/doc/manuals/securing-debian-howto/ch10.en.html
-GNU/Linux containers | https://github.com/Friz-zy/awesome-linux-containers#security
 Command collection | https://github.com/tuwid/GNU-Linux-OpsWiki
+Debsecan | https://packages.debian.org/en/jessie/debsecan
+GNU/Linux containers | https://github.com/Friz-zy/awesome-linux-containers#security
 GNU/Linux executable walkthrough | https://i.imgur.com/q5nyHp7.png
+GNU/Linux post exploitation | https://github.com/mubix/post-exploitation/wiki/Linux-Post-Exploitation-Command-List :+1:
+GNU/Linux workstation | https://github.com/lfit/itpol/blob/master/linux-workstation-security.md :+1::+1:
+Lynis | https://packages.debian.org/en/jessie/lynis
+RKhunter | https://packages.debian.org/en/jessie/rkhunter :+1:
+Securing debian | https://www.debian.org/doc/manuals/securing-debian-howto/ch10.en.html :+1:
+Vulnerability scanner | https://github.com/future-architect/vuls
 
 
 ## Honeypots :honey_pot:
