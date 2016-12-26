@@ -15,7 +15,7 @@ I wanted to update it with my sources, I will probably continue to update and re
 * [Domain Research / Analysis / Reputation](#domain-research--analysis--reputation-chart_with_downwards_trend)
 * [Exercises](#exercises-mortar_board)
 * [Exploits and vulnerabilities](#exploits-and-vulnerabilities-door)
-* [Forensic - Network](#forensic---network-mag)
+* [Forensic](#forensic-mag)
 * [Free shell](#free-shell-shell)
 * [Fun](#fun-trollface)
 * [Generic utilities](#generic-utilities-file_folder)
@@ -38,7 +38,7 @@ I wanted to update it with my sources, I will probably continue to update and re
 * [Security challenges / WarGames](#security-challenges--wargames-triangular_flag_on_post)
 * [Social engineering](#social-engineering)
 * [SSL](#ssl)
-* [Tor resources](#tor-resources)
+* [Tor](#tor)
 * [VOIP](#voip-phone)
 * [VPN](#vpn)
 * [Vulnerable environments](#vulnerable-environments-unlock)
@@ -65,7 +65,6 @@ Android | https://github.com/ashishb/android-security-awesome
 Web | https://github.com/infoslack/awesome-web-hacking
 Security list | https://github.com/sbilly/awesome-security
 Lists of lists of lists | https://github.com/t3chnoboy/awesome-awesome-awesome
-Other lists of lists of lists | https://github.com/geekan/awesome-awesome-awesome
 
 
 ## Books :books:
@@ -231,7 +230,7 @@ Vulnerability scoring calculator | https://nvd.nist.gov/cvss/v3-calculator
 CVSS | https://www.first.org/cvss
 
 
-## Forensic - Network :mag: 
+## Forensic :mag: 
 Name | URL
 ------------------------------------------- | ---------------------------------------------
 Package forensic-all | https://packages.debian.org/jessie-backports/forensics-all :+1:
@@ -276,7 +275,7 @@ Kaspersky map | https://apt.securelist.com/ :earth_americas:
 Eset map | http://www.virusradar.com/ :earth_americas:
 Fortinet map | https://threatmap.fortiguard.com/ :earth_americas:
 Blueliv map | https://community.blueliv.com/map/ :earth_americas:
-Tor flow map | https://torflow.uncharted.software
+Tor flow map | https://torflow.uncharted.software :earth_americas:
 DDoS attacks | http://www.digitalattackmap.com/
 Sub marine cable | http://www.submarinecablemap.com/
 Sub marine cable | http://submarine-cable-map-2016.telegeography.com/
@@ -296,9 +295,9 @@ CERT teams | https://www.first.org/about/organization/teams
 Skimmers | https://krebsonsecurity.com/all-about-skimmers/
 Understand your commands | http://explainshell.com
 Hashes example | https://hashcat.net/wiki/doku.php?id=example_hashes
-w4rri0r toolbox | http://www.w4rri0r.com/
 Code analysises | https://en.wikipedia.org/wiki/List_of_tools_for_static_code_analysis
-Python tools | http://s3ize.blogspot.fr/2012/08/python-tools-for-penetration-testers.html
+Codepad	| http://codepad.org/
+Sandsprite | http://sandsprite.com/shellcode_2_exe.php
 Tools | http://seclist.us/
 Sans | http://isc.sans.edu/diary/
 Security wiki | http://oss-security.openwall.org/wiki/
@@ -306,18 +305,13 @@ Citizen lab | https://citizenlab.org/
 Hackforum | http://hackforums.net/
 Cracking forum | http://crackingforum.com/
 Cracking seal | https://crackingseal.io/
-0day.su | https://0day.su/
 Deepweb | https://www.reddit.com/r/deepweb/
-Codepad	| http://codepad.org/
 GZinflate | http://www.tareeinternet.com/scripts/decrypt.php
 Hurl | http://www.hurl.it/
-Magic-net | http://www.magic-net.info
 Mibbit | http://www.mibbit.com/
 Microsoft threat | http://www.microsoft.com/security
 Random data generator | http://www.mockaroo.com/
-Project Honeypot | https://www.projecthoneypot.org/
-Sandsprite | http://sandsprite.com/shellcode_2_exe.php
-Uptimerobot | http://uptimerobot.com/
+
 Fake ID | http://www.fakenamegenerator.com/
 
 
@@ -435,7 +429,6 @@ Tracker | http://tracker.h3x.eu/
 Botnet.fr | https://www.botnets.fr/wiki/Main_Page
 Exposed Botnets	| http://www.exposedbotnets.com/
 VX Vault | http://vxvault.net/
-Malware exploit database | https://www.pwnmalw.re/
 Malware binaries | https://github.com/ytisf/theZoo/tree/master/malwares/Binaries
 Total hash | https://totalhash.cymru.com/
 Cyber tracker | http://cybertracker.malwarehunterteam.com/
@@ -453,7 +446,6 @@ SafeGroup | http://www.malware.pl/ - https://www.scumware.org/
 NovCon Minotaur | http://minotauranalysis.com
 Clean MX | http://support.clean-mx.de/clean-mx/viruses.php
 Edu malrec | http://panda.gtisc.gatech.edu/malrec/
-Secubox Labs | http://secuboxlabs.fr/
 Abuse CH | https://www.abuse.ch/
 Maltrieve | https://github.com/technoskald/maltrieve
 Malware domain blocklist | http://www.malwaredomains.com
@@ -539,6 +531,7 @@ MAC address block | http://standards-oui.ieee.org/oui/oui.txt
 MAC find | http://www.coffer.com/mac_find/
 MAC find | http://hwaddress.com
 Ping.eu | http://ping.eu/
+Project honeypot | https://www.projecthoneypot.org/
 Service Port Number Registry | [https://www.iana.org/assignments/service-names-port-numbers/](https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.xml) :+1:
 Service Port Number Registry | https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers
 Subnet calculator | http://www.subnet-calculator.com/cidr.php
