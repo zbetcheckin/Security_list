@@ -558,33 +558,35 @@ Security and privacy guide | https://github.com/drduh/OS-X-Security-and-Privacy-
 ## Passwords :key:
 Name | URL
 ------------------------------------ | ---------------------------------------------
-Password research | http://www.passwordresearch.com/
-Programming - Secure Password Storage | https://paragonie.com/blog/2016/02/how-safely-store-password-in-2016
-Hashcat WIKI | https://hashcat.net/wiki/
-Fun secure password checker  | https://password.kaspersky.com/
+Cotse | http://www.cotse.com/tools/wordlists.htm
+CrackStation | https://crackstation.net/buy-crackstation-wordlist-password-cracking-dictionary.htm
 Default password | https://default-password.info/
 Default password | https://cirt.net/passwords
 Default password | http://www.defaultpassword.com/
 Default password | http://www.defaultpassword.us/
+Default cameras password | https://github.com/jeanphorn/wordlist/blob/master/README.md
+Default password thc-hydra | https://github.com/vanhauser-thc/thc-hydra/blob/master/dpl4hydra_full.csv
 Default router Password | http://portforward.com/default_username_password/
 Default router password | http://router-defaults.com/
 Dafault router password | http://www.cleancss.com/router-default/
 Default router password | https://github.com/jeanphorn/wordlist/blob/master/router_default_password.md
-Default IP Cameras password | https://github.com/jeanphorn/wordlist/blob/master/README.md
+Default wireless Redhat password | http://people.redhat.com/rprice/notes/wireless_passlist.txt
 Default VoIP password | https://github.com/netbiosX/Default-Credentials/blob/master/VoIP-Default-Password-List.mdown
-Skull security | https://wiki.skullsecurity.org/Passwords
-SecLists | https://github.com/danielmiessler/SecLists/tree/master/Passwords
-OpenWall | http://www.openwall.com/passwords/wordlists/ or ftp://ftp.openwall.com/pub/wordlists/
-Packets storm | https://packetstormsecurity.com/Crackers/wordlists/
-Outpost9 | http://www.outpost9.com/files/WordLists.html
-Cotse | http://www.cotse.com/tools/wordlists.htm
-CrackStation | https://crackstation.net/buy-crackstation-wordlist-password-cracking-dictionary.htm
+Fun secure password checker  | https://password.kaspersky.com/
+Hashcat WIKI | https://hashcat.net/wiki/
 Multiple dictionary | https://github.com/danielmiessler/SecLists/tree/master/Passwords
 Multiple dictionary | https://github.com/duyetdev/bruteforce-database
-CrackStation | https://crackstation.net
-HaskKiller | https://hashkiller.co.uk
-Hash crack | http://www.onlinehashcrack.com/
-MD5 and SHA1 db | http://hashtoolkit.com/
+Online CrackStation | https://crackstation.net
+Online Hask Killer | https://hashkiller.co.uk
+Online Hash crack | http://www.onlinehashcrack.com/
+Online MD5 and SHA1 db | http://hashtoolkit.com/
+OpenWall | http://www.openwall.com/passwords/wordlists/ or ftp://ftp.openwall.com/pub/wordlists/
+Outpost9 | http://www.outpost9.com/files/WordLists.html
+Packets storm | https://packetstormsecurity.com/Crackers/wordlists/
+Password research | http://www.passwordresearch.com/
+Programming - Secure Password Storage | https://paragonie.com/blog/2016/02/how-safely-store-password-in-2016
+SecLists | https://github.com/danielmiessler/SecLists/tree/master/Passwords
+Skull security | https://wiki.skullsecurity.org/Passwords
 
 
 ## Penetration testing :wrench:
