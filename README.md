@@ -427,6 +427,7 @@ Malc0de	| http://malc0de.com/database/ :+1:
 Malekal	| http://malwaredb.malekal.com/ 
 Malshare | http://malshare.com
 Tracker | http://tracker.h3x.eu/
+Kernel mode | http://www.kernelmode.info
 Botnet.fr | https://www.botnets.fr/wiki/Main_Page
 Exposed Botnets	| http://www.exposedbotnets.com/
 VX Vault | http://vxvault.net/
@@ -448,8 +449,9 @@ NovCon Minotaur | http://minotauranalysis.com
 Clean MX | http://support.clean-mx.de/clean-mx/viruses.php
 Edu malrec | http://panda.gtisc.gatech.edu/malrec/
 Abuse CH | https://www.abuse.ch/
-Maltrieve | https://github.com/technoskald/maltrieve
+Offensive computing | http://www.offensivecomputing.net/
 Malware domain blocklist | http://www.malwaredomains.com
+Maltrieve | https://github.com/technoskald/maltrieve
 Tool Mwcrawler | https://github.com/0day1day/mwcrawler
 theZoo aka Malware DB | https://ytisf.github.io/theZoo/
 Structured Threat Information eXpression | https://stixproject.github.io/
