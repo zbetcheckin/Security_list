@@ -68,8 +68,9 @@ Lists of lists of lists | https://github.com/t3chnoboy/awesome-awesome-awesome
 ## Books :books:
 Name	|URL 
 ------------------------------------ | ---------------------------------------------
-Many security books | https://yadi.sk/d/Fkww0QKbuTdVF :trophy:
 Free programming books | https://github.com/vhf/free-programming-books
+Many security books | https://yadi.sk/d/Fkww0QKbuTdVF :trophy:
+Recommended Reading | http://dfir.org/?q=node/8
 
 
 ## Bug bounty :chocolate_bar:
@@ -164,6 +165,7 @@ TCP utils | http://www.tcpiputils.com/
 DNS stuff | http://www.dnsstuff.com/
 Into dns | http://www.intodns.com/
 Virus total | https://www.virustotal.com/#url
+Threat log | http://www.threatlog.com/
 Google | https://www.google.com/transparencyreport/safebrowsing/diagnostic/
 Sucuri | http://sitecheck.sucuri.net/scanner/
 Multi RBL | http://multirbl.valli.org/lookup/
@@ -224,8 +226,8 @@ Mailing list | https://nmap.org/mailman/listinfo/fulldisclosure
 Mail received | http://lists.openwall.net/full-disclosure/2016/
 Mailing list | http://seclists.org/
 Mailing list | https://lists.debian.org/debian-security-announce/
-Vulnerability scoring calculator | https://nvd.nist.gov/cvss/v3-calculator
-CVSS | https://www.first.org/cvss
+CVSS FIRST | https://www.first.org/cvss/calculator/3.0
+CVSS NIST | https://nvd.nist.gov/cvss/v3-calculator
 
 
 ## Forensic :mag: 
@@ -288,29 +290,30 @@ Will be reorganized</sub>
 
 Name	|URL 
 ------------------------------------ | ---------------------------------------------
-Electronic Frontier Foundation | https://www.eff.org/
-CERT teams | https://www.first.org/about/organization/teams
-Skimmers | https://krebsonsecurity.com/all-about-skimmers/
-Understand your commands | http://explainshell.com
-Hashes example | https://hashcat.net/wiki/doku.php?id=example_hashes
+Citizen lab | https://citizenlab.org/
 Code analysises | https://en.wikipedia.org/wiki/List_of_tools_for_static_code_analysis
 Codepad	| http://codepad.org/
-Sandsprite | http://sandsprite.com/shellcode_2_exe.php
-Tools | http://seclist.us/
-Sans | http://isc.sans.edu/diary/
-Security wiki | http://oss-security.openwall.org/wiki/
-Citizen lab | https://citizenlab.org/
-Hackforum | http://hackforums.net/
 Cracking forum | http://crackingforum.com/
 Cracking seal | https://crackingseal.io/
+CERT teams | https://www.first.org/about/organization/teams
 Deepweb | https://www.reddit.com/r/deepweb/
+Electronic Frontier Foundation | https://www.eff.org/
+Fake ID | http://www.fakenamegenerator.com/
 GZinflate | http://www.tareeinternet.com/scripts/decrypt.php
+Hackforum | http://hackforums.net/
+Hashes example | https://hashcat.net/wiki/doku.php?id=example_hashes
 Hurl | http://www.hurl.it/
 Mibbit | http://www.mibbit.com/
 Microsoft threat | http://www.microsoft.com/security
+No more ransom | https://www.nomoreransom.org/
 Random data generator | http://www.mockaroo.com/
-
-Fake ID | http://www.fakenamegenerator.com/
+Rootkit | https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/Draft/Rootkits.md
+Sandsprite | http://sandsprite.com/shellcode_2_exe.php
+Sans | http://isc.sans.edu/diary/
+Security wiki | http://oss-security.openwall.org/wiki/
+Skimmers | https://krebsonsecurity.com/all-about-skimmers/
+Tools | http://seclist.us/
+Understand your commands | http://explainshell.com
 
 
 ## GNU/Linux
