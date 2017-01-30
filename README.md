@@ -220,24 +220,27 @@ CVSS NIST | https://nvd.nist.gov/cvss/v3-calculator
 ## Forensic :mag: 
 Name | URL
 ------------------------------------------- | ---------------------------------------------
-Package forensic-all | https://packages.debian.org/jessie-backports/forensics-all :+1:
-CFReDS | http://www.cfreds.nist.gov/ :+1:
-Awesome forensic | https://github.com/Cugu/awesome-forensics
-DFIR tools list | http://www.dfir.training/index.php/tools/ :+1:
-DEFT package | http://www.deftlinux.net/package-list/
-Tools list | http://toolcatalog.nist.gov/populated_taxonomy/index.php
 Aldeid list | https://www.aldeid.com/wiki/Category:Digital-Forensics
-Forensic tools | http://forensicswiki.org/wiki/Tools
-Forensic Control | https://forensiccontrol.com/resources/free-software/
+Awesome forensic | https://github.com/Cugu/awesome-forensics
+CFReDS | http://www.cfreds.nist.gov/ :+1:
+DEFT package | http://www.deftlinux.net/package-list/
+DFIR tools list | http://www.dfir.training/index.php/tools/ :+1:
 DFRWS challenge | http://www.dfrws.org/dfrws-forensic-challenge-2016
+File signatures | https://en.wikipedia.org/wiki/List_of_file_signatures
+File signatures | http://www.filesignatures.net/index.php?page=all
+File signatures | http://www.garykessler.net/library/file_sigs.html
+Forensic control | https://forensiccontrol.com/resources/free-software/
 Forensic kb practical | http://www.forensickb.com/2008/01/forensic-practical.html
+Forensic tools | http://forensicswiki.org/wiki/Tools
+More forensic links | http://www.amanhardikar.com/mindmaps/ForensicChallenges.html
+Package forensic-all | https://packages.debian.org/jessie-backports/forensics-all :+1:
+Testing Images | http://dftt.sourceforge.net/
+Tools list | http://toolcatalog.nist.gov/populated_taxonomy/index.php
 Windows tools list | http://forensic-proof.com/tools
 Windows Artifact | [https://blogs.sans.org/computer-forensics/](https://blogs.sans.org/computer-forensics/files/2012/06/SANS-Digital-Forensics-and-Incident-Response-Poster-2012.pdf)
-More forensic links | http://www.amanhardikar.com/mindmaps/ForensicChallenges.html
-Testing Images | http://dftt.sourceforge.net/
-FR - Zythom list | https://zythom.blogspot.se/2007/02/les-outils-dun-expert-judiciaire.html
 Write blocker | http://www.cftt.nist.gov/software_write_block.htm
 Write blocker | https://github.com/msuhanov/Linux-write-blocker
+Zythom list - FR | https://zythom.blogspot.se/2007/02/les-outils-dun-expert-judiciaire.html
 
 
 ## Free shell :shell:
