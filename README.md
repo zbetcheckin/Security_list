@@ -13,7 +13,6 @@ I wanted to update it with my sources, I will probably continue to update and re
 * [CTF](#ctf-triangular_flag_on_post)
 * [Decoder/Packer/Unpacker](#decoderpackerunpacker-hurtrealbad)
 * [Domain Research / Analysis / Reputation](#domain-research--analysis--reputation-chart_with_downwards_trend)
-* [Exercises](#exercises-mortar_board)
 * [Exploits and vulnerabilities](#exploits-and-vulnerabilities-door)
 * [Forensic](#forensic-mag)
 * [Free shell](#free-shell-shell)
@@ -23,6 +22,7 @@ I wanted to update it with my sources, I will probably continue to update and re
 * [Honeypots](#honeypots-honey_pot)
 * [IP Research / Analysis / Investigation](#ip-research--analysis--investigation)
 * [Leak / Defaced](#leak--defaced-ambulance)
+* [Learning / Exercises](#learning--exercises-mortar_board)
 * [Lock picking](#lock-picking-closed_lock_with_key)
 * [Mail utilities](#mail-utilities-mailbox_with_mail)
 * [Malicious traffic detection](#malicious-traffic-detection-vertical_traffic_light)
@@ -186,19 +186,6 @@ Cache page | http://www.cachedpages.com/
 Archive a page | https://archive.fo/
 DGA intro | https://en.wikipedia.org/wiki/Domain_generation_algorithm
 Domain hijacking intro | https://en.wikipedia.org/wiki/Domain_hijacking
-
-
-## Exercises :mortar_board:
-Name | URL 
------------------------------------- | ---------------------------------------------
-Essential basics | https://github.com/alex/what-happens-when :trophy: :trophy:
-Reverse - Malware | http://fumalwareanalysis.blogspot.se/p/malware-analysis-tutorials-reverse.html
-Network - Forensic | https://www.honeynet.org/node/504
-Exploits | https://exploit-exercises.com/
-Exploits | https://thesprawl.org/research/
-Computer security classes | http://opensecuritytraining.info/
-F-Secure training | http://mooc.fi/courses/2016/cybersecurity/
-Cybrary training | https://www.cybrary.it/
 
 
 ## Exploits and vulnerabilities :door:
@@ -378,6 +365,22 @@ Isithacked | http://www.isithacked.com
 Cam | http://www.insecam.org/
 
 
+## Learning / Exercises :mortar_board:
+Name | URL 
+------------------------------------ | ---------------------------------------------
+Awesome training | http://opensecuritytraining.info/Training.html :trophy: :trophy:
+Cybrary training | https://www.cybrary.it/
+Essential basics | https://github.com/alex/what-happens-when :trophy: :trophy:
+Exploits | https://exploit-exercises.com/
+Exploits | https://thesprawl.org/research/
+F-Secure training | http://mooc.fi/courses/2016/cybersecurity/
+Malware Analysis course | https://github.com/RPISEC/Malware :trophy:
+Malware traffic training | http://www.malware-traffic-analysis.net/training-exercises.html :+1:
+Network - Forensic | https://www.honeynet.org/node/504
+Practical analysis | https://practicalmalwareanalysis.com/labs/
+Reverse - Malware | http://fumalwareanalysis.blogspot.se/p/malware-analysis-tutorials-reverse.html
+
+
 ## Lock picking :closed_lock_with_key:
 Name | URL 
 ------------------------------------ | ---------------------------------------------
@@ -455,9 +458,6 @@ Maltrieve | https://github.com/technoskald/maltrieve
 Tool Mwcrawler | https://github.com/0day1day/mwcrawler
 theZoo aka Malware DB | https://ytisf.github.io/theZoo/
 Structured Threat Information eXpression | https://stixproject.github.io/
-Malware Analysis course | https://github.com/RPISEC/Malware :trophy:
-Malware traffic training | http://www.malware-traffic-analysis.net/training-exercises.html :+1:
-Practical analysis | https://practicalmalwareanalysis.com/labs/
 Malware museum | https://archive.org/details/malwaremuseum :+1:
 
 
