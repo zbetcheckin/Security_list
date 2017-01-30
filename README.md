@@ -223,19 +223,19 @@ Name | URL
 Aldeid list | https://www.aldeid.com/wiki/Category:Digital-Forensics
 Awesome forensic | https://github.com/Cugu/awesome-forensics
 CFReDS | http://www.cfreds.nist.gov/ :+1:
-DEFT package | http://www.deftlinux.net/package-list/
-DFIR tools list | http://www.dfir.training/index.php/tools/ :+1:
 DFRWS challenge | http://www.dfrws.org/dfrws-forensic-challenge-2016
 File signatures | https://en.wikipedia.org/wiki/List_of_file_signatures
 File signatures | http://www.filesignatures.net/index.php?page=all
 File signatures | http://www.garykessler.net/library/file_sigs.html
 Forensic control | https://forensiccontrol.com/resources/free-software/
 Forensic kb practical | http://www.forensickb.com/2008/01/forensic-practical.html
-Forensic tools | http://forensicswiki.org/wiki/Tools
-More forensic links | http://www.amanhardikar.com/mindmaps/ForensicChallenges.html
-Package forensic-all | https://packages.debian.org/jessie-backports/forensics-all :+1:
+Forensic - Technical graph | http://www.amanhardikar.com/mindmaps/ForensicChallenges.html
+Package - DEFT | http://www.deftlinux.net/package-list/
+Package - forensic-all | https://packages.debian.org/jessie-backports/forensics-all :+1:
 Testing Images | http://dftt.sourceforge.net/
-Tools list | http://toolcatalog.nist.gov/populated_taxonomy/index.php
+Tools - DFIR | http://www.dfir.training/index.php/tools/ :+1:
+Tools - Forensics wiki | http://forensicswiki.org/wiki/Tools
+Tools - NIST | http://toolcatalog.nist.gov/populated_taxonomy/index.php
 Windows tools list | http://forensic-proof.com/tools
 Windows Artifact | [https://blogs.sans.org/computer-forensics/](https://blogs.sans.org/computer-forensics/files/2012/06/SANS-Digital-Forensics-and-Incident-Response-Poster-2012.pdf)
 Write blocker | http://www.cftt.nist.gov/software_write_block.htm
