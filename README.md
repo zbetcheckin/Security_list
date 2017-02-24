@@ -436,12 +436,14 @@ Tracker | http://tracker.h3x.eu/
 Kernel mode | http://www.kernelmode.info
 Botnet.fr | https://www.botnets.fr/wiki/Main_Page
 Exposed Botnets	| http://www.exposedbotnets.com/
+Dont need coffee | http://malware.dontneedcoffee.com/
 VX Vault | http://vxvault.net/
 Malware binaries | https://github.com/ytisf/theZoo/tree/master/malwares/Binaries
 Total hash | https://totalhash.cymru.com/
 Cyber tracker | http://cybertracker.malwarehunterteam.com/
 ZeuS Tracker | https://zeustracker.abuse.ch
 Custom Google search engine | https://cse.google.com/cse/home?cx=011750002002865445766%3Apc60zx1rliu (from Corey Harrell)
+Malware museum | https://archive.org/details/malwaremuseum :+1:
 Ransomware tracker | https://ransomwaretracker.abuse.ch/tracker/
 Ransomware overview | https://docs.google.com/spreadsheets/d/1TWS238xacAto-fLKh1n5uTsdijWdCEsGIM0Y0Hvmc5g/pubhtml#
 Ransomware simulator | https://shinolocker.com/
@@ -450,6 +452,7 @@ VirusShare | http://virusshare.com/
 Virusign | http://www.virusign.com/
 Malware domain list | http://www.malwaredomainlist.com
 Malware.lu | https://malware.lu/
+MISP | https://github.com/MISP/MISP
 SafeGroup | http://www.malware.pl/ - https://www.scumware.org/
 NovCon Minotaur | http://minotauranalysis.com
 Clean MX | http://support.clean-mx.de/clean-mx/viruses.php
@@ -458,10 +461,10 @@ Abuse CH | https://www.abuse.ch/
 Offensive computing | http://www.offensivecomputing.net/
 Malware domain blocklist | http://www.malwaredomains.com
 Maltrieve | https://github.com/technoskald/maltrieve
-Tool Mwcrawler | https://github.com/0day1day/mwcrawler
-theZoo aka Malware DB | https://ytisf.github.io/theZoo/
 Structured Threat Information eXpression | https://stixproject.github.io/
-Malware museum | https://archive.org/details/malwaremuseum :+1:
+The Zoo aka Malware DB | https://ytisf.github.io/theZoo/
+Threat crowd | https://www.threatcrowd.org/
+Tool Mwcrawler | https://github.com/0day1day/mwcrawler
 
 
 ## Malware analysis - Sandbox :mask:
