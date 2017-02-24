@@ -516,11 +516,6 @@ ThreadExpert | http://www.threatexpert.com/submit.aspx
 Randomly changes Win32/64 PE Files | https://github.com/secretsquirrel/recomposer
 Virus Total Notifier | https://github.com/mubix/vt-notify
 Other list | http://cleanbytes.net/malware-online-scanners
-APK Analzyer | http://www.apk-analyzer.net/
-Joebox Cloud | https://jbxcloud.joesecurity.org/login
-SandDroid | http://sanddroid.xjtu.edu.cn
-Tracedroid | http://tracedroid.few.vu.nl
-MobiSecLab | http://akana.mobiseclab.org/
 
 
 ## Mobile :iphone:
