@@ -357,13 +357,14 @@ Host tracker | https://www.host-tracker.com/
 ## Leak / Defaced :ambulance:
 Name | URL 
 ------------------------------------ | ---------------------------------------------
-Have I been pwned | https://haveibeenpwned.com/
-Siph0n | https://twitter.com/datasiph0n
-Leakedin | http://www.leakedin.com/
-Zone-H | https://zone-h.org/
-Mr white | https://mrwhite.biz/
-Isithacked | http://www.isithacked.com
+Breach alarm | https://breachalarm.com/
 Cam | http://www.insecam.org/
+Have I been pwned | https://haveibeenpwned.com/
+Isithacked | http://www.isithacked.com
+Leakedin | http://www.leakedin.com/
+Mr white | https://mrwhite.biz/
+Siph0n | https://twitter.com/datasiph0n
+Zone-H | https://zone-h.org/
 
 
 ## Learning / Exercises :mortar_board:
@@ -394,24 +395,25 @@ Lock wiki | http://www.lockwiki.com/
 ## Mail utilities :mailbox_with_mail:
 Name | URL 
 ------------------------------------ | ---------------------------------------------
-Yop mail | http://www.yopmail.com/
+10 Minute Mail | http://10minutemail.com
+DNSBL | https://en.wikipedia.org/wiki/DNSBL
+DKIM validator | http://dkimvalidator.com/
+Email recon | https://github.com/laramies/theHarvester
+Get air mail | http://en.getairmail.com/
+Gophish | https://github.com/gophish/gophish
 Mailinator | https://www.mailinator.com/ # https://gist.github.com/nocturnalgeek/1b8fa44283314544c487
 Mailnesia | http://mailnesia.com/
 Mailcatch | http://mailcatch.com/
-Get air mail | http://en.getairmail.com/
-10 Minute Mail | http://10minutemail.com
-Spam DB | http://www.dnsbl.info/dnsbl-database-check.php
 Mxtoolbox | http://www.mxtoolbox.com/
 Open relay | http://www.mailradar.com
 Openresolver JP	| http://www.openresolver.jp/en/
-DKIM validator | http://dkimvalidator.com/
-Email recon | https://github.com/laramies/theHarvester
-Gophish | https://github.com/gophish/gophish
-SimplyEmail | https://github.com/killswitch-GUI/SimplyEmail
-SpeedPhish Framework | https://github.com/tatanus/SPF
 Phishing Framework | https://github.com/pentestgeek/phishing-frenzy
+Phish tank | http://www.phishtank.com/ :+1:
+SimplyEmail | https://github.com/killswitch-GUI/SimplyEmail
+Spam DB | http://www.dnsbl.info/dnsbl-database-check.php
 Spam encode secret | http://spammimic.com/encode.cgi
-DNSBL | https://en.wikipedia.org/wiki/DNSBL
+SpeedPhish Framework | https://github.com/tatanus/SPF
+Yop mail | http://www.yopmail.com/
 
 
 ## Malicious traffic detection :vertical_traffic_light:
@@ -538,9 +540,10 @@ GNU/Linux monitoring | https://blog.serverdensity.com/80-linux-monitoring-tools-
 MAC address block | http://standards-oui.ieee.org/oui/oui.txt
 MAC find | http://www.coffer.com/mac_find/
 MAC find | http://hwaddress.com
+Packet total | http://www.packettotal.com/
 Ping.eu | http://ping.eu/
 Project honeypot | https://www.projecthoneypot.org/
-Service Port Number Registry | [https://www.iana.org/assignments/service-names-port-numbers/](https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.xml) :+1:
+Service Port Number Registry | [https://www.iana.org/assignments/service-names-port-numbers/](https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.xml) :+1::+1:
 Service Port Number Registry | https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers
 Subnet calculator | http://www.subnet-calculator.com/cidr.php
 Subnet calculator | http://www.subnetonline.com/pages/subnet-calculators.php
@@ -552,7 +555,7 @@ Wireshark extentions | https://www.honeynet.org/project/WiresharkExtensions
 Name | URL
 ------------------------------------ | ---------------------------------------------
 Osint list | https://github.com/jivoi/awesome-osint :+1:
-List of social network | https://en.wikipedia.org/wiki/List_of_social_networking_websites
+List of social network | https://en.wikipedia.org/wiki/List_of_social_networking_websites :+1:
 Reddit | https://www.reddit.com/r/SocialEngineering/
 Maltego | https://www.paterva.com/
 Hunter | https://hunter.io/
@@ -567,6 +570,7 @@ Google | https://www.google.com/advanced_search
 Google dorks | `intext:lastName firstName`
 Google dorks | `insubject:lastName firstName`
 Google dorks | `intext:lastName firstName filetype:pdf || filetype:doc || filetype:xml || filetype:txt ||  filetype:xls || filetype:ppt || filetype:pps || filetype:docx || filetype:wps || filetype:rtf || filetype:csv || filetype:pptx || filetype:xlsx || filetype:xlr || filetype:sxw || filetype:ods || filetype:odt || filetype:psw`
+Google Scraper | https://github.com/NikolaiT/GoogleScraper
 Bing | https://www.bing.com/
 Bing dorks | `lastName firstName (filetype:doc OR filetype:ppt OR filetype:pps OR filetype:xls OR filetype:docx OR filetype:pptx OR filetype:ppsx OR filetype:xlsx OR filetype:sxw OR filetype:sxc OR filetype:sxi OR filetype:odt OR filetype:ods OR filetype:odg OR filetype:odp OR filetype:pdf OR filetype:wpd OR filetype:svg OR filetype:svgz OR filetype:indd OR filetype:rdp OR filetype:ica)`
 Yahoo | https://search.yahoo.com/
