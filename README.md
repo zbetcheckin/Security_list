@@ -158,7 +158,7 @@ Name | URL
 ------------------------------------ | ---------------------------------------------
 Archive a page | https://archive.fo/
 BGP Toolkit | http://bgp.he.net/ :+1::+1:
-Build with | https://builtwith.com/
+Biggest DNS history | http://server9.rscott.org/tools/lookup.htm?ip=xxx.xxx.xxx.xxx :trophy:
 Cache page | http://www.cachedpages.com/
 Cache view | http://cachedview.com/
 Checking multiple blocklists | http://rbls.org/ :+1:
@@ -171,7 +171,7 @@ Domain hijacking intro | https://en.wikipedia.org/wiki/Domain_hijacking
 Expired domain | https://www.expireddomains.net/backorder-expired-domains/
 Google | https://www.google.com/transparencyreport/safebrowsing/diagnostic/
 Into dns | http://www.intodns.com/
-Multi RBL | http://multirbl.valli.org/lookup/ :+1:
+Multi RBL | http://multirbl.valli.org/lookup/ :trophy:
 MXToolBox | https://mxtoolbox.com/SuperTool.aspx#
 Netcraft | http://www.netcraft.com/
 Reverse Whois | https://reversewhois.domaintools.com/
@@ -181,8 +181,9 @@ TCP utils | http://www.tcpiputils.com/
 Threat log | http://www.threatlog.com/
 Threat miner | https://www.threatminer.org/
 Trusted source | http://www.trustedsource.org/
+URL Query | http://urlquery.net/ :trophy:
+URL scan | https://urlscan.io/
 URL Void | http://www.urlvoid.com/ :+1:
-URL Query | http://urlquery.net/ :+1::+1:
 Virus total | https://www.virustotal.com/#url
 Web archive | https://web.archive.org/ :+1:
 Whois - ARIN | https://whois.arin.net/
