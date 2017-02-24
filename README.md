@@ -31,6 +31,7 @@ I wanted to update it with my sources, I will probably continue to update and re
 * [Malware analysis - Sandbox - Online](#malware-analysis---sandbox---online-mask)
 * [Mobile](#mobile-iphone)
 * [Network](#network)
+* [OSINT](#osint)
 * [OS X](#os-x)
 * [Passwords](#passwords-key)
 * [Penetration testing](#penetration-testing-wrench)
@@ -38,7 +39,6 @@ I wanted to update it with my sources, I will probably continue to update and re
 * [Search engines](#search-engines-satellite)
 * [Security challenges / WarGames](#security-challenges--wargames-triangular_flag_on_post)
 * [Skimmer](#skimmer-black_joker)
-* [Social engineering](#social-engineering)
 * [SSL](#ssl)
 * [TOR](#tor)
 * [VOIP](#voip-phone)
@@ -548,6 +548,38 @@ Security Onion tools | https://github.com/Security-Onion-Solutions/security-onio
 Wireshark extentions | https://www.honeynet.org/project/WiresharkExtensions
 
 
+## OSINT
+Name | URL
+------------------------------------ | ---------------------------------------------
+Osint list | https://github.com/jivoi/awesome-osint :+1:
+List of social network | https://en.wikipedia.org/wiki/List_of_social_networking_websites
+Reddit | https://www.reddit.com/r/SocialEngineering/
+Maltego | https://www.paterva.com/
+Hunter | https://hunter.io/
+Pipl | https://pipl.com/
+Peek you | http://www.peekyou.com/
+Yatedo | http://www.yatedo.com/
+Lullar | http://com.lullar.com/
+Lakako | http://www.lakako.com/
+Yasni | http://www.yasni.com/
+User search | https://usersearch.org/
+Google | https://www.google.com/advanced_search
+Google dorks | `intext:lastName firstName`
+Google dorks | `insubject:lastName firstName`
+Google dorks | `intext:lastName firstName filetype:pdf || filetype:doc || filetype:xml || filetype:txt ||  filetype:xls || filetype:ppt || filetype:pps || filetype:docx || filetype:wps || filetype:rtf || filetype:csv || filetype:pptx || filetype:xlsx || filetype:xlr || filetype:sxw || filetype:ods || filetype:odt || filetype:psw`
+Bing | https://www.bing.com/
+Bing dorks | `lastName firstName (filetype:doc OR filetype:ppt OR filetype:pps OR filetype:xls OR filetype:docx OR filetype:pptx OR filetype:ppsx OR filetype:xlsx OR filetype:sxw OR filetype:sxc OR filetype:sxi OR filetype:odt OR filetype:ods OR filetype:odg OR filetype:odp OR filetype:pdf OR filetype:wpd OR filetype:svg OR filetype:svgz OR filetype:indd OR filetype:rdp OR filetype:ica)`
+Yahoo | https://search.yahoo.com/
+Duck duck go | https://duckduckgo.com/
+Yandex | https://www.yandex.com/
+Exa lead | http://www.exalead.com
+Osint stalker | https://github.com/milo2012/osintstalker
+Speed phish framework | https://github.com/tatanus/SPF
+Browser exploitation framework | https://github.com/beefproject/beef
+The harvester | https://github.com/laramies/theHarvester
+Meta goofil | https://github.com/laramies/metagoofil
+
+
 ## OS X
 Name | URL 
 ------------------------------------ | ---------------------------------------------
@@ -680,38 +712,6 @@ Name	|URL
 ------------------------------------ | ---------------------------------------------
 Skimmer source from Krebs | https://krebsonsecurity.com/all-about-skimmers/
 Great reverse engineering on skimmer | https://trustfoundry.net/reverse-engineering-a-discovered-atm-skimmer/
-
-
-## Social engineering
-Name | URL
------------------------------------- | ---------------------------------------------
-Osint list | https://github.com/jivoi/awesome-osint :+1:
-List of social network | https://en.wikipedia.org/wiki/List_of_social_networking_websites
-Reddit | https://www.reddit.com/r/SocialEngineering/
-Maltego | https://www.paterva.com/
-Hunter | https://hunter.io/
-Pipl | https://pipl.com/
-Peek you | http://www.peekyou.com/
-Yatedo | http://www.yatedo.com/
-Lullar | http://com.lullar.com/
-Lakako | http://www.lakako.com/
-Yasni | http://www.yasni.com/
-User search | https://usersearch.org/
-Google | https://www.google.com/advanced_search
-Google dorks | `intext:lastName firstName`
-Google dorks | `insubject:lastName firstName`
-Google dorks | `intext:lastName firstName filetype:pdf || filetype:doc || filetype:xml || filetype:txt ||  filetype:xls || filetype:ppt || filetype:pps || filetype:docx || filetype:wps || filetype:rtf || filetype:csv || filetype:pptx || filetype:xlsx || filetype:xlr || filetype:sxw || filetype:ods || filetype:odt || filetype:psw`
-Bing | https://www.bing.com/
-Bing dorks | `lastName firstName (filetype:doc OR filetype:ppt OR filetype:pps OR filetype:xls OR filetype:docx OR filetype:pptx OR filetype:ppsx OR filetype:xlsx OR filetype:sxw OR filetype:sxc OR filetype:sxi OR filetype:odt OR filetype:ods OR filetype:odg OR filetype:odp OR filetype:pdf OR filetype:wpd OR filetype:svg OR filetype:svgz OR filetype:indd OR filetype:rdp OR filetype:ica)`
-Yahoo | https://search.yahoo.com/
-Duck duck go | https://duckduckgo.com/
-Yandex | https://www.yandex.com/
-Exa lead | http://www.exalead.com
-Osint stalker | https://github.com/milo2012/osintstalker
-Speed phish framework | https://github.com/tatanus/SPF
-Browser exploitation framework | https://github.com/beefproject/beef
-The harvester | https://github.com/laramies/theHarvester
-Meta goofil | https://github.com/laramies/metagoofil
 
 
 ## SSL 
