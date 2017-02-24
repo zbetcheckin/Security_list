@@ -359,12 +359,9 @@ Name | URL
 ------------------------------------ | ---------------------------------------------
 Have I been pwned | https://haveibeenpwned.com/
 Siph0n | https://twitter.com/datasiph0n
-Leaked source | https://www.leakedsource.com/
-Leak forums | https://leakforums.net/
 Leakedin | http://www.leakedin.com/
 Zone-H | https://zone-h.org/
 Mr white | https://mrwhite.biz/
-URL Find | http://urlfind.org/
 Isithacked | http://www.isithacked.com
 Cam | http://www.insecam.org/
 
@@ -481,7 +478,6 @@ Quarkslab IRMA | http://irma.quarkslab.com/
 Dorothy2 | https://github.com/m4rco-/dorothy2
 F-Secure see | https://github.com/F-Secure/see
 Noriben | https://github.com/Rurik/Noriben
-Norman | http://enterprise.norman.com/analysis
 Malheur | https://github.com/rieck/malheur
 Drakvuf | https://github.com/tklengyel/drakvuf
 Zero Wine Tryouts | http://zerowine-tryout.sourceforge.net/
@@ -494,7 +490,7 @@ Androidsandbox | http://androidsandbox.net/ (temporarily out of service)
 ## Malware analysis - Sandbox - Online :mask:
 Name	|URL 
 ------------------------------------ | ---------------------------------------------
-Malwr | https://malwr.com/submission/ :+1:
+Malwr | https://malwr.com/submission/ :+1: # Under maintenance
 Hybrid analysis | https://www.hybrid-analysis.com/ :+1:
 Virscan	| http://www.virscan.org/
 Virusade | http://virusade.com/
@@ -503,22 +499,20 @@ Malwareconfig | http://malwareconfig.com/
 Deepviz | https://sandbox.deepviz.com/
 AVcaesar | https://avcaesar.malware.lu/
 Detux GNU/Linux sandbox | http://detux.org/
-Vscan | http://vscan.novirusthanks.org/
 Mastiff online | https://mastiff-online.korelogic.com/
 AndroTotal | https://andrototal.org/
-Comodo | http://camas.comodo.com/cgi-bin/submit
+Comodo | https://consumer.valkyrie.comodo.com/
 VirScan | http://r.virscan.org/
 Manalyzer | https://manalyzer.org/
 ID Ransomware | https://id-ransomware.malwarehunterteam.com/
 Document Analyzer | http://www.document-analyzer.net/
 Malware tracker | http://www.cryptam.com/
-Metascan | https://www.metascan-online.com/
+Metascan | https://www.metadefender.com/#!/scan-file
 Jotti | http://virusscan.jotti.org/it
 ViCheck | https://www.vicheck.ca/
 PDF examiner | http://www.pdfexaminer.com/
 Malware tracker | https://www.malwaretracker.com
 ThreadExpert | http://www.threatexpert.com/submit.aspx
-Xecure-lab | http://scan.xecure-lab.com/
 Randomly changes Win32/64 PE Files | https://github.com/secretsquirrel/recomposer
 Virus Total Notifier | https://github.com/mubix/vt-notify
 Other list | http://cleanbytes.net/malware-online-scanners
@@ -580,7 +574,6 @@ Default password | http://www.defaultpassword.us/
 Default cameras password | https://github.com/jeanphorn/wordlist/blob/master/README.md
 Default password thc-hydra | https://github.com/vanhauser-thc/thc-hydra/blob/master/dpl4hydra_full.csv
 Default router Password | http://portforward.com/default_username_password/
-Default router password | http://router-defaults.com/
 Dafault router password | http://www.cleancss.com/router-default/
 Default router password | https://github.com/jeanphorn/wordlist/blob/master/router_default_password.md
 Default wireless Redhat password | http://people.redhat.com/rprice/notes/wireless_passlist.txt
