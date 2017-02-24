@@ -12,7 +12,7 @@ I wanted to update it with my sources, I will probably continue to update and re
 * [Cheat sheets](#cheat-sheets-1)
 * [CTF](#ctf-triangular_flag_on_post)
 * [Decoder/Packer/Unpacker](#decoderpackerunpacker-hurtrealbad)
-* [Domain Research / Analysis / Reputation](#domain-research--analysis--reputation-chart_with_downwards_trend)
+* [Domain name Research / Analysis / Reputation](#domain-name-research--analysis--reputation-chart_with_downwards_trend)
 * [Exploits and vulnerabilities](#exploits-and-vulnerabilities-door)
 * [Forensic](#forensic-mag)
 * [Free shell](#free-shell-shell)
@@ -153,40 +153,44 @@ HEXdecoder | http://ddecode.com/hexdecoder/
 Hackvertor (Tag based decoder/encoder) | https://hackvertor.co.uk/public
 
 
-## Domain Research / Analysis / Reputation :chart_with_downwards_trend:
+## Domain name Research / Analysis / Reputation :chart_with_downwards_trend:
 Name | URL 
 ------------------------------------ | ---------------------------------------------
-BGP Toolkit | http://bgp.he.net/ :trophy:
-Checking multiple blocklists | http://rbls.org/ :+1:
-URL Void | http://www.urlvoid.com/ :+1:
-URL Query | http://urlquery.net/ :+1:
-Robtex | https://www.robtex.com/dns/
-Netcraft | http://www.netcraft.com/
-TCP utils | http://www.tcpiputils.com/
-DNS stuff | http://www.dnsstuff.com/
-Into dns | http://www.intodns.com/
-Virus total | https://www.virustotal.com/#url
-Threat log | http://www.threatlog.com/
-Google | https://www.google.com/transparencyreport/safebrowsing/diagnostic/
-Sucuri | http://sitecheck.sucuri.net/scanner/
-Multi RBL | http://multirbl.valli.org/lookup/
-Global DNS checker | https://www.whatsmydns.net/
-Trusted source | http://www.trustedsource.org/
-Isithacked | http://www.isithacked.com
-DNS dumpster | https://dnsdumpster.com/
-Threat miner | https://www.threatminer.org/
-MXToolBox | https://mxtoolbox.com/SuperTool.aspx#
-Wois | https://whois.domaintools.com/
-Build with | https://builtwith.com/
-Expired domain | https://www.expireddomains.net/backorder-expired-domains/
-Zeltser's list | https://zeltser.com/lookup-malicious-websites/
-Domain analysis list | https://github.com/rshipp/awesome-malware-analysis/#domain-analysis
-Web archive | https://web.archive.org/
-Cache view | http://cachedview.com/
-Cache page | http://www.cachedpages.com/
 Archive a page | https://archive.fo/
+BGP Toolkit | http://bgp.he.net/ :+1::+1:
+Build with | https://builtwith.com/
+Cache page | http://www.cachedpages.com/
+Cache view | http://cachedview.com/
+Checking multiple blocklists | http://rbls.org/ :+1:
 DGA intro | https://en.wikipedia.org/wiki/Domain_generation_algorithm
+DNS dumpster | https://dnsdumpster.com/
+DNS Propagation Checker | https://www.whatsmydns.net/
+DNS stuff | http://www.dnsstuff.com/
+Domain analysis list | https://github.com/rshipp/awesome-malware-analysis/#domain-analysis
 Domain hijacking intro | https://en.wikipedia.org/wiki/Domain_hijacking
+Expired domain | https://www.expireddomains.net/backorder-expired-domains/
+Google | https://www.google.com/transparencyreport/safebrowsing/diagnostic/
+Into dns | http://www.intodns.com/
+Multi RBL | http://multirbl.valli.org/lookup/ :+1:
+MXToolBox | https://mxtoolbox.com/SuperTool.aspx#
+Netcraft | http://www.netcraft.com/
+Reverse Whois | https://reversewhois.domaintools.com/
+Robtex | https://www.robtex.com/dns/
+Sucuri | http://sitecheck.sucuri.net/scanner/
+TCP utils | http://www.tcpiputils.com/
+Threat log | http://www.threatlog.com/
+Threat miner | https://www.threatminer.org/
+Trusted source | http://www.trustedsource.org/
+URL Void | http://www.urlvoid.com/ :+1:
+URL Query | http://urlquery.net/ :+1::+1:
+Virus total | https://www.virustotal.com/#url
+Web archive | https://web.archive.org/ :+1:
+Whois - ARIN | https://whois.arin.net/
+Whois - LACNIC | http://lacnic.net/cgi-bin/lacnic/whois
+Whois - RIPE NCC | https://apps.db.ripe.net/search/query.html
+Whois - AFRINIC | http://www.afrinic.net/fr/services/whois-query
+Whois - APNIC | http://wq.apnic.net/apnic-bin/whois.pl
+Zeltser's list | https://zeltser.com/lookup-malicious-websites/
 
 
 ## Exploits and vulnerabilities :door:
