@@ -70,7 +70,6 @@ Lists of lists of lists | https://github.com/t3chnoboy/awesome-awesome-awesome
 Name	|URL 
 ------------------------------------ | ---------------------------------------------
 Free programming books | https://github.com/vhf/free-programming-books
-Many security books | https://yadi.sk/d/Fkww0QKbuTdVF :trophy:
 Recommended Reading | http://dfir.org/?q=node/8
 
 
