@@ -1,4 +1,4 @@
-#Security list for fun and profit
+# Security list for fun and profit
 
 My initial idea came from this list : http://www.nothink.org/utilities.php
 
@@ -179,6 +179,7 @@ Sucuri | http://sitecheck.sucuri.net/scanner/
 TCP utils | http://www.tcpiputils.com/
 Threat log | http://www.threatlog.com/
 Threat miner | https://www.threatminer.org/
+Top-Level Domains list | https://data.iana.org/TLD/tlds-alpha-by-domain.txt :+1:
 Trusted source | http://www.trustedsource.org/
 URL Query | http://urlquery.net/ :trophy:
 URL scan | https://urlscan.io/
@@ -550,6 +551,7 @@ MAC find | http://hwaddress.com
 Packet total | http://www.packettotal.com/
 Ping.eu | http://ping.eu/
 Project honeypot | https://www.projecthoneypot.org/
+Protocol Numbers | http://www.iana.org/assignments/protocol-numbers/protocol-numbers.xhtml
 Service Port Number Registry | [https://www.iana.org/assignments/service-names-port-numbers/](https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.xml) :+1::+1:
 Service Port Number Registry | https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers
 Subnet calculator | http://www.subnet-calculator.com/cidr.php
