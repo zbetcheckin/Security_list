@@ -544,6 +544,7 @@ Wiki secmobi | https://github.com/secmobi/wiki.secmobi.com :trophy:
 Name | URL 
 ------------------------------------ | ---------------------------------------------
 Awesome PCAP | https://github.com/caesar0301/awesome-pcaptools :+1:
+BGPlay | https://stat.ripe.net/widget/bgplay :+1:
 GNU/Linux monitoring | https://blog.serverdensity.com/80-linux-monitoring-tools-know/
 MAC address block | http://standards-oui.ieee.org/oui/oui.txt
 MAC find | http://www.coffer.com/mac_find/
@@ -552,6 +553,7 @@ Packet total | http://www.packettotal.com/
 Ping.eu | http://ping.eu/
 Project honeypot | https://www.projecthoneypot.org/
 Protocol Numbers | http://www.iana.org/assignments/protocol-numbers/protocol-numbers.xhtml
+Publicly PCAP files | http://www.netresec.com/?page=PcapFiles
 Service Port Number Registry | [https://www.iana.org/assignments/service-names-port-numbers/](https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.xml) :+1::+1:
 Service Port Number Registry | https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers
 Subnet calculator | http://www.subnet-calculator.com/cidr.php
@@ -731,6 +733,7 @@ Great reverse engineering on skimmer | https://trustfoundry.net/reverse-engineer
 ## SSL 
 Name | URL 
 ------------------------------------ | ---------------------------------------------
+Bad SSL | https://github.com/chromium/badssl.com
 Htbridge - Online analysis | https://www.htbridge.com/ssl/
 Mozilla SSL Configuration Generator | https://mozilla.github.io/server-side-tls/ssl-config-generator/
 Observatory by Mozilla - Online analysis | https://observatory.mozilla.org/ :trophy::trophy:
