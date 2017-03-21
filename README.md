@@ -367,6 +367,7 @@ Name | URL
 ------------------------------------ | ---------------------------------------------
 Breach alarm | https://breachalarm.com/
 Cam | http://www.insecam.org/
+Hacked emails | https://hacked-emails.com/
 Have I been pwned | https://haveibeenpwned.com/
 Isithacked | http://www.isithacked.com
 Leakedin | http://www.leakedin.com/
@@ -389,6 +390,7 @@ Malware traffic training | http://www.malware-traffic-analysis.net/training-exer
 Network - Forensic | https://www.honeynet.org/node/504
 Practical analysis | https://practicalmalwareanalysis.com/labs/
 Reverse - Malware | http://fumalwareanalysis.blogspot.se/p/malware-analysis-tutorials-reverse.html
+Security talks | https://github.com/PaulSec/awesome-sec-talks :+1:
 
 
 ## Lock picking :closed_lock_with_key:
