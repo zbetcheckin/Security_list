@@ -244,6 +244,7 @@ Testing Images | http://dftt.sourceforge.net/
 Tools - DFIR | http://www.dfir.training/index.php/tools/ :+1:
 Tools - Forensics wiki | http://forensicswiki.org/wiki/Tools
 Tools - NIST | http://toolcatalog.nist.gov/populated_taxonomy/index.php
+Windows tools | https://ericzimmerman.github.io/
 Windows tools list | http://forensic-proof.com/tools
 Windows Artifact | [https://blogs.sans.org/computer-forensics/](https://blogs.sans.org/computer-forensics/files/2012/06/SANS-Digital-Forensics-and-Incident-Response-Poster-2012.pdf)
 Write blocker | http://www.cftt.nist.gov/software_write_block.htm
@@ -632,6 +633,7 @@ Password research | http://www.passwordresearch.com/
 Programming - Secure Password Storage | https://paragonie.com/blog/2016/02/how-safely-store-password-in-2016
 SecLists | https://github.com/danielmiessler/SecLists/tree/master/Passwords
 Skull security | https://wiki.skullsecurity.org/Passwords
+SSH dictionary | https://github.com/droope/pwlist
 
 
 ## Penetration testing :wrench:
@@ -819,9 +821,11 @@ Browserling | https://www.browserling.com/
 ## Windows
 Name | URL 
 ------------------------------------ | ---------------------------------------------
-Windows exploitation | https://github.com/enddo/awesome-windows-exploitation
 Anti forensic Windows | https://www.reddit.com/r/security/comments/32fb1l/open_guide_to_scrubbing_windows_oss_from_forensic/
 Windows executable walkthrough | https://i.imgur.com/pHjcI.png
+Windows exploitation | https://github.com/enddo/awesome-windows-exploitation
+Windows hardening | https://github.com/PaulSec/awesome-windows-domain-hardening
+
 
 
 ## Wide Scans :earth_americas:
