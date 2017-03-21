@@ -155,6 +155,9 @@ Hackvertor (Tag based decoder/encoder) | https://hackvertor.co.uk/public
 ## Domain name Research / Analysis / Reputation :chart_with_downwards_trend:
 Name | URL 
 ------------------------------------ | ---------------------------------------------
+387 DNS Blacklists | https://gist.github.com/zbetcheckin/0c630e4a5021132dc8c747dc4d9d493d
+Archive | http://archive.is/
+Archive | https://web.archive.org/ :+1:
 Archive a page | https://archive.fo/
 BGP Toolkit | http://bgp.he.net/ :+1::+1:
 Biggest DNS history | http://server9.rscott.org/tools/lookup.htm?ip=xxx.xxx.xxx.xxx :trophy:
@@ -183,9 +186,9 @@ Top-Level Domains list | https://data.iana.org/TLD/tlds-alpha-by-domain.txt :+1:
 Trusted source | http://www.trustedsource.org/
 URL Query | http://urlquery.net/ :trophy:
 URL scan | https://urlscan.io/
+URL shorter list | https://mirror1.malwaredomains.com/files/url_shorteners.txt
 URL Void | http://www.urlvoid.com/ :+1:
 Virus total | https://www.virustotal.com/#url
-Web archive | https://web.archive.org/ :+1:
 Whois - ARIN | https://whois.arin.net/
 Whois - LACNIC | http://lacnic.net/cgi-bin/lacnic/whois
 Whois - RIPE NCC | https://apps.db.ripe.net/search/query.html
@@ -338,15 +341,15 @@ Live nothink | http://www.nothink.org/honeypots.php
 Name | URL 
 ------------------------------------ | ---------------------------------------------
 BGP Toolkit | http://bgp.he.net/ :trophy:
+IP in detail | http://ipindetail.com/ip-blacklist-checker/IP.html
 IP void | http://www.ipvoid.com/ :+1:
 IPv4 info | http://ipv4info.com/ :+1:
 TCP utils | http://www.tcpiputils.com/
 Virus total | https://www.virustotal.com/en/ip-address/xxx.xxx.xxx.xxx/information/
-Multi RBL |  http://multirbl.valli.org/lookup/
+Multi RBL |  http://multirbl.valli.org/lookup/ :+1::+1:
 Black List Alert | http://www.blacklistalert.org/
 Google dork | "xxx.xxx.xxx.xxx" (replace xxx.xxx.xxx.xxx with the ip you are looking for)
 Bing dork | ip:xxx.xxx.xxx.xxx
-Whois | https://whois.domaintools.com/
 Whatch Guard | http://www.reputationauthority.org/
 Black List Check | http://whatismyipaddress.com/blacklist-check/
 Project Honeypot | https://www.projecthoneypot.org/search_ip.php
@@ -408,6 +411,7 @@ Mailinator | https://www.mailinator.com/ # https://gist.github.com/nocturnalgeek
 Mailnesia | http://mailnesia.com/
 Mailcatch | http://mailcatch.com/
 Mxtoolbox | http://www.mxtoolbox.com/
+Open phish | https://openphish.com/
 Open relay | http://www.mailradar.com
 Openresolver JP	| http://www.openresolver.jp/en/
 Phishing Framework | https://github.com/pentestgeek/phishing-frenzy
