@@ -47,7 +47,7 @@ I wanted to update it with my sources, I will probably continue to update and re
 * [Web browser](#web-browser)
 * [Wide Scans](#wide-scans-earth_americas)
 * [Windows](#windows)
-* [Wireless](#wireless-signal_strength)
+* [Wireless / Radio](#wireless--radio-signal_strength)
 
 ----
 
@@ -473,7 +473,6 @@ Malware domain blocklist | http://www.malwaredomains.com
 Maltrieve | https://github.com/technoskald/maltrieve
 Structured Threat Information eXpression | https://stixproject.github.io/
 The Zoo aka Malware DB | https://ytisf.github.io/theZoo/
-Threat crowd | https://www.threatcrowd.org/
 Tool Mwcrawler | https://github.com/0day1day/mwcrawler
 
 
@@ -536,9 +535,11 @@ Other list | http://cleanbytes.net/malware-online-scanners
 Name	|URL 
 ------------------------------------ | ---------------------------------------------
 APK Analzyer | http://www.apk-analyzer.net/
+Droid Sec wiki | http://www.droidsec.org/wiki/
 Joebox Cloud | https://jbxcloud.joesecurity.org/login
 Mobi sec lab | http://akana.mobiseclab.org/
 Mobile security wiki | https://mobilesecuritywiki.com/ :+1:
+OWASP Goat Droid | https://www.owasp.org/index.php/Projects/OWASP_GoatDroid_Project
 Tracedroid | http://tracedroid.few.vu.nl
 Wiki secmobi | https://github.com/secmobi/wiki.secmobi.com :trophy:
 
@@ -688,6 +689,7 @@ Gegereka | http://gegereka.com/ (not always up)
 Google | https://www.google.com/advanced_search
 Google dorks | https://gist.github.com/zbetcheckin/04e6a5d7f2d5ef8cfa3c298701f47f9c
 List of search engines | https://en.wikipedia.org/wiki/List_of_search_engines
+Threat crowd | https://www.threatcrowd.org/
 
 
 ## Security challenges / WarGames :triangular_flag_on_post:
@@ -845,10 +847,12 @@ Defcon conference | [https://defcon.org/](https://defcon.org/images/defcon-22/dc
 Blackhat conference | [https://www.blackhat.com/](https://www.blackhat.com/docs/asia-14/materials/Schloesser/Asia-14-Schloesser-Scan-All-The-Things.pdf)
 
 
-## Wireless :signal_strength:
+## Wireless / Radio :signal_strength:
 Name | URL
 ------------------------------------------- | ---------------------------------------------
 Awesome wifi tools list | https://github.com/0x90/wifi-arsenal
 Penetration test | http://0daysecurity.com/penetration-testing/wireless-penetration.html
 Great wifi map | https://wigle.net/
+RFSec-ToolKit | https://github.com/cn0xroot/RFSec-ToolKit
+RTL-SDR | http://www.rtl-sdr.com/
 Wireless in airports | https://www.google.com/maps/d/viewer?mid=1Z1dI8hoBZSJNWFx2xr_MMxSxSxY
