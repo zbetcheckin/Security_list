@@ -211,7 +211,6 @@ Vulners | https://vulners.com/search?query=order:published
 Backdoor - TCP-32764 | https://github.com/elvanderb/TCP-32764
 Rapid7 DB | https://www.rapid7.com/db/modules/
 Intelligent Exploit | http://www.intelligentexploit.com
-Exploits download | http://www.exploitsdownload.com
 NIST | http://web.nvd.nist.gov/
 Security focus | http://www.securityfocus.com/vulnerabilities
 Country compatibility | https://cve.mitre.org/compatible/country.html
@@ -303,7 +302,6 @@ Mibbit | http://www.mibbit.com/
 Microsoft threat | http://www.microsoft.com/security
 No more ransom | https://www.nomoreransom.org/
 Random data generator | http://www.mockaroo.com/
-Rootkit | https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/Draft/Rootkits.md
 Sandsprite | http://sandsprite.com/shellcode_2_exe.php
 Sans | http://isc.sans.edu/diary/
 Security wiki | http://oss-security.openwall.org/wiki/
@@ -445,7 +443,6 @@ Dont need coffee | http://malware.dontneedcoffee.com/
 VX Vault | http://vxvault.net/
 Malware binaries | https://github.com/ytisf/theZoo/tree/master/malwares/Binaries
 Total hash | https://totalhash.cymru.com/
-Cyber tracker | http://cybertracker.malwarehunterteam.com/
 ZeuS Tracker | https://zeustracker.abuse.ch
 Custom Google search engine | https://cse.google.com/cse/home?cx=011750002002865445766%3Apc60zx1rliu (from Corey Harrell)
 Malware museum | https://archive.org/details/malwaremuseum :+1:
@@ -494,7 +491,6 @@ Zero Wine Tryouts | http://zerowine-tryout.sourceforge.net/
 CWSandbox | http://www.cwsandbox.org
 RFI sandbox | https://monkey.org/~jose/software/rfi-sandbox/
 Malwasm | https://github.com/malwarelu/malwasm
-Androidsandbox | http://androidsandbox.net/ (temporarily out of service)
 
 
 ## Malware analysis - Sandbox - Online :mask:
@@ -535,7 +531,6 @@ APK Analzyer | http://www.apk-analyzer.net/
 Joebox Cloud | https://jbxcloud.joesecurity.org/login
 Mobi sec lab | http://akana.mobiseclab.org/
 Mobile security wiki | https://mobilesecuritywiki.com/ :+1:
-SandDroid | http://sanddroid.xjtu.edu.cn
 Tracedroid | http://tracedroid.few.vu.nl
 Wiki secmobi | https://github.com/secmobi/wiki.secmobi.com :trophy:
 
@@ -641,7 +636,7 @@ Name | URL
 Awesome pentest | https://github.com/enaqx/awesome-pentest
 Footprinting - Procedure & tools | http://www.0daysecurity.com/penetration-testing/network-footprinting.html
 GNU/Linux privilege escalation | https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/ :+1:
-Informaion gathering - Tools | http://www.w4rri0r.com/softwares-freeware-shareware-open-source/information-gathering.html
+Informaion gathering - Tools | http://www.w4rri0r.com/hacking-tools-windows-os-x-linux-android-solaris-unixware/information-gathering.html
 Organization of the Standard | http://www.pentest-standard.org/index.php/Main_Page :+1:
 Owasp - Check list | https://www.owasp.org/index.php/Testing_Checklist
 Owasp testing guide | https://www.owasp.org/images/5/52/OWASP_Testing_Guide_v4.pdf :trophy:
@@ -656,8 +651,8 @@ Tools - BlackArch list | https://blackarch.org/tools.html
 Tools - Cotse| http://www.cotse.com/tools/
 Tools - Great list | http://wiki.yobi.be/wiki/Table_of_contents#Security
 Tools - Kali list | http://tools.kali.org/tools-listing
-Web | http://www.w4rri0r.com/softwares-freeware-shareware-open-source/web-application-analysis.html
-Web vulnerabilities | http://www.w4rri0r.com/softwares-freeware-shareware-open-source/vulnerability-assessment.html
+Web | http://www.w4rri0r.com/hacking-tools-windows-os-x-linux-android-solaris-unixware/web-application-analysis.html
+Web vulnerabilities | http://www.w4rri0r.com/hacking-tools-windows-os-x-linux-android-solaris-unixware/vulnerability-assessment.html
 
 
 ## Port scanners :dart:
