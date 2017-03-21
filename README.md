@@ -304,6 +304,7 @@ Hashes example | https://hashcat.net/wiki/doku.php?id=example_hashes
 Hurl | http://www.hurl.it/
 Mibbit | http://www.mibbit.com/
 Microsoft threat | http://www.microsoft.com/security
+Mindmaps | http://www.amanhardikar.com/mindmaps.html :trophy:
 No more ransom | https://www.nomoreransom.org/
 Random data generator | http://www.mockaroo.com/
 Sandsprite | http://sandsprite.com/shellcode_2_exe.php
@@ -795,6 +796,7 @@ Owasp BWA | https://www.owasp.org/index.php/OWASP_Broken_Web_Applications_Projec
 DVWA | http://www.dvwa.co.uk/
 WebGoat	| http://code.google.com/p/webgoat
 Metasploitable 3 | https://github.com/rapid7/metasploitable3/wiki
+Vulnerable systems list | https://www.amanhardikar.com/mindmaps/Practice.html :+1:
 VulnHub	| http://vulnhub.com/
 LampSecurity | http://sourceforge.net/projects/lampsecurity/
 Dragon | https://www.dragonresearchgroup.org/challenges/
