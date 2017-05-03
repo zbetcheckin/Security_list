@@ -143,7 +143,8 @@ JSBeautifier | http://jsbeautifier.org/
 JavaScript Compressor | http://dean.edwards.name/packer/
 Jjencode | http://utf-8.jp/public/jjencode.html
 JSFuck | http://www.jsfuck.com/
-Jsobfuscate | http://www.jsobfuscate.com/
+Js obfuscate | http://www.jsobfuscate.com/
+JS deobfuscate | https://github.com/sevzero/honeybadger
 Netteleuthe | http://www.netteleuthe.de/gc/
 Colour higlighter | http://quickhighlighter.com/
 URL | http://meyerweb.com/eric/tools/dencoder/
@@ -193,6 +194,7 @@ Whois - LACNIC | http://lacnic.net/cgi-bin/lacnic/whois
 Whois - RIPE NCC | https://apps.db.ripe.net/search/query.html
 Whois - AFRINIC | http://www.afrinic.net/fr/services/whois-query
 Whois - APNIC | http://wq.apnic.net/apnic-bin/whois.pl
+Whois by registrant name | http://viewdns.info/reversewhois/
 Zeltser's list | https://zeltser.com/lookup-malicious-websites/
 
 
@@ -279,6 +281,7 @@ Sub marine cable | http://submarine-cable-map-2016.telegeography.com/
 Sub marine cable | http://lifewinning.com/submarine-cable-taps/
 Flight radar | https://www.flightradar24.com :airplane:
 Fligh aware | https://flightaware.com/ :airplane:
+Live map | https://www.livemap24.com/ :train:
 
 
 ## Generic utilities :file_folder:
@@ -342,23 +345,24 @@ Live nothink | http://www.nothink.org/honeypots.php
 Name | URL 
 ------------------------------------ | ---------------------------------------------
 BGP Toolkit | http://bgp.he.net/ :trophy:
+Bing dork | ip:xxx.xxx.xxx.xxx
+Black List Alert | http://www.blacklistalert.org/
+Black List Check | http://whatismyipaddress.com/blacklist-check/
+Check host | http://check-host.net/
+FireHOL IP  blacklist | https://github.com/firehol/blocklist-ipsets :trophy:
+Google dork | "xxx.xxx.xxx.xxx" (replace xxx.xxx.xxx.xxx with the ip you are looking for)
+Host file | https://hosts-file.net/
+Host tracker | https://www.host-tracker.com/
 IP in detail | http://ipindetail.com/ip-blacklist-checker
 IP void | http://www.ipvoid.com/ :+1:
 IPv4 info | http://ipv4info.com/ :+1:
-TCP utils | http://www.tcpiputils.com/
-Virus total | https://www.virustotal.com/en/ip-address/xxx.xxx.xxx.xxx/information/
 Multi RBL |  http://multirbl.valli.org/lookup/ :+1::+1:
-Black List Alert | http://www.blacklistalert.org/
-Google dork | "xxx.xxx.xxx.xxx" (replace xxx.xxx.xxx.xxx with the ip you are looking for)
-Bing dork | ip:xxx.xxx.xxx.xxx
-Whatch Guard | http://www.reputationauthority.org/
-Black List Check | http://whatismyipaddress.com/blacklist-check/
+Nirsoft country IP | http://www.nirsoft.net/countryip/
 Project Honeypot | https://www.projecthoneypot.org/search_ip.php
 Spamhaus | https://www.spamhaus.org/lookup/
-Nirsoft country IP | http://www.nirsoft.net/countryip/
-Host file | https://hosts-file.net/
-Check host | http://check-host.net/
-Host tracker | https://www.host-tracker.com/
+TCP utils | http://www.tcpiputils.com/
+Virus total | https://www.virustotal.com/en/ip-address/xxx.xxx.xxx.xxx/information/
+Whatch Guard | http://www.reputationauthority.org/
 
 
 ## Leak / Defaced :ambulance:
