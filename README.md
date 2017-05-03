@@ -301,6 +301,8 @@ Hashes example | https://hashcat.net/wiki/doku.php?id=example_hashes
 Hurl | http://www.hurl.it/
 Mibbit | http://www.mibbit.com/
 Microsoft threat | http://www.microsoft.com/security
+MIME types | https://www.iana.org/assignments/media-types/media-types.xhtml
+MIME types | https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_types/Complete_list_of_MIME_types
 Mindmaps | http://www.amanhardikar.com/mindmaps.html :trophy:
 No more ransom | https://www.nomoreransom.org/
 Random data generator | http://www.mockaroo.com/
@@ -386,6 +388,7 @@ Malware traffic training | http://www.malware-traffic-analysis.net/training-exer
 Network - Forensic | https://www.honeynet.org/node/504
 Practical analysis | https://practicalmalwareanalysis.com/labs/
 Reverse - Malware | http://fumalwareanalysis.blogspot.se/p/malware-analysis-tutorials-reverse.html
+Security courses | https://bitvijays.github.io/ :+1:
 Security talks | https://github.com/PaulSec/awesome-sec-talks :+1:
 
 
@@ -809,18 +812,20 @@ XSS play ground	| http://xssplayground.net23.net/
 ## Web browser
 Name | URL 
 ------------------------------------ | ---------------------------------------------
-Browser recommendations | https://gist.github.com/atcuno/3425484ac5cce5298932 :+1:
-Browser exploit | https://github.com/julienbedard/browsersploit
-Fingerprint | https://amiunique.org/
 Amiunique project | https://github.com/DIVERSIFY-project/amiunique
-Fingerprint | https://panopticlick.eff.org/
+Browser exploit | https://github.com/julienbedard/browsersploit
 Browser info | http://www.browser-info.net/
 Browser leaks | https://www.browserleaks.com/
-SSL | https://www.ssllabs.com/ssltest/viewMyClient.html
-User agent | http://whatsmyuseragent.com/
-Referer | https://www.whatismyreferer.com/
-Flash | http://isflashinstalled.com/
+Browser recommendations | https://gist.github.com/atcuno/3425484ac5cce5298932 :+1:
 Browserling | https://www.browserling.com/
+Fingerprint | https://amiunique.org/
+Fingerprint | https://panopticlick.eff.org/
+Flash | http://isflashinstalled.com/
+Referer | https://www.whatismyreferer.com/
+SSL | https://www.ssllabs.com/ssltest/viewMyClient.html
+URL Shorter List | https://bit.do/list-of-url-shorteners.php
+User agent | http://whatsmyuseragent.com/
+User agent list | http://useragentstring.com/pages/useragentstring.php
 
 
 ## Windows
