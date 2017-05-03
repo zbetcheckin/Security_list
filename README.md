@@ -130,7 +130,6 @@ Facebook platform | https://github.com/facebook/fbctf
 Name | URL 
 ------------------------------------ | ---------------------------------------------
 Code beautifier | http://codebeautify.org/
-VB code beautifier | http://warp.senecac.on.ca/timothy.mckenna/CodeFormatter.asp
 VB code beautifier | http://www.vbindent.com/
 PHP formatter | http://beta.phpformatter.com/
 PHPdecoder | http://ddecode.com/phpdecoder/
@@ -235,7 +234,6 @@ DFRWS challenge | http://www.dfrws.org/dfrws-forensic-challenge-2016
 File signatures | https://en.wikipedia.org/wiki/List_of_file_signatures
 File signatures | http://www.filesignatures.net/index.php?page=all
 File signatures | http://www.garykessler.net/library/file_sigs.html
-Forensic control | https://forensiccontrol.com/resources/free-software/
 Forensic kb practical | http://www.forensickb.com/2008/01/forensic-practical.html
 Forensic - Technical graph | http://www.amanhardikar.com/mindmaps/ForensicChallenges.html
 Package - DEFT | http://www.deftlinux.net/package-list/
@@ -281,7 +279,6 @@ Sub marine cable | http://submarine-cable-map-2016.telegeography.com/
 Sub marine cable | http://lifewinning.com/submarine-cable-taps/
 Flight radar | https://www.flightradar24.com :airplane:
 Fligh aware | https://flightaware.com/ :airplane:
-World of VNC | https://worldofvnc.net/
 
 
 ## Generic utilities :file_folder:
@@ -371,7 +368,6 @@ Hacked emails | https://hacked-emails.com/
 Have I been pwned | https://haveibeenpwned.com/
 Isithacked | http://www.isithacked.com
 Leakedin | http://www.leakedin.com/
-Mr white | https://mrwhite.biz/
 Siph0n | https://twitter.com/datasiph0n
 Zone-H | https://zone-h.org/
 
