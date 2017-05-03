@@ -307,7 +307,6 @@ Microsoft threat | http://www.microsoft.com/security
 MIME types | https://www.iana.org/assignments/media-types/media-types.xhtml
 MIME types | https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_types/Complete_list_of_MIME_types
 Mindmaps | http://www.amanhardikar.com/mindmaps.html :trophy:
-No more ransom | https://www.nomoreransom.org/
 Random data generator | http://www.mockaroo.com/
 Sandsprite | http://sandsprite.com/shellcode_2_exe.php
 Sans | http://isc.sans.edu/diary/
@@ -442,12 +441,13 @@ p0f | http://lcamtuf.coredump.cx/p0f3/
 ## Malware / Botnet sources :angel:
 Name | URL 
 ------------------------------------ | ---------------------------------------------
-Cybercrime tracker | http://cybercrime-tracker.net/ :+1:
-Malc0de	| http://malc0de.com/database/ :+1:
+Cybercrime tracker | http://cybercrime-tracker.net/
+Malc0de	| http://malc0de.com/database/
 Malekal	| http://malwaredb.malekal.com/ 
-Malshare | http://malshare.com
+Abuse CH | https://www.abuse.ch/
 Tracker | http://tracker.h3x.eu/
 Kernel mode | http://www.kernelmode.info
+Malware domain list | http://www.malwaredomainlist.com
 Botnet.fr | https://www.botnets.fr/wiki/Main_Page
 Exposed Botnets	| http://www.exposedbotnets.com/
 Dont need coffee | http://malware.dontneedcoffee.com/
@@ -455,28 +455,26 @@ VX Vault | http://vxvault.net/
 Malware binaries | https://github.com/ytisf/theZoo/tree/master/malwares/Binaries
 Total hash | https://totalhash.cymru.com/
 ZeuS Tracker | https://zeustracker.abuse.ch
+Contagio | http://contagiodump.blogspot.se/
+MW share | https://mwshare.boredhackerblog.info/samples/ infected:infected
+Yararules | https://github.com/Yara-Rules/rules
 Custom Google search engine | https://cse.google.com/cse/home?cx=011750002002865445766%3Apc60zx1rliu (from Corey Harrell)
-Malware museum | https://archive.org/details/malwaremuseum :+1:
 Ransomware tracker | https://ransomwaretracker.abuse.ch/tracker/
 Ransomware overview | https://docs.google.com/spreadsheets/d/1TWS238xacAto-fLKh1n5uTsdijWdCEsGIM0Y0Hvmc5g/pubhtml#
 Ransomware simulator | https://shinolocker.com/
-Contagio | http://contagiodump.blogspot.se/
+No more ransom | https://www.nomoreransom.org/
 VirusShare | http://virusshare.com/
-Virusign | http://www.virusign.com/
-Malware domain list | http://www.malwaredomainlist.com
 Malware.lu | https://malware.lu/
-MISP | https://github.com/MISP/MISP
 SafeGroup | http://www.malware.pl/ - https://www.scumware.org/
 NovCon Minotaur | http://minotauranalysis.com
 Clean MX | http://support.clean-mx.de/clean-mx/viruses.php
-Edu malrec | http://panda.gtisc.gatech.edu/malrec/
-Abuse CH | https://www.abuse.ch/
 Offensive computing | http://www.offensivecomputing.net/
 Malware domain blocklist | http://www.malwaredomains.com
-Maltrieve | https://github.com/technoskald/maltrieve
 Structured Threat Information eXpression | https://stixproject.github.io/
 The Zoo aka Malware DB | https://ytisf.github.io/theZoo/
-Tool Mwcrawler | https://github.com/0day1day/mwcrawler
+MISP | https://github.com/MISP/MISP
+Maltrieve crawler | https://github.com/technoskald/maltrieve
+Malware museum | https://archive.org/details/malwaremuseum :+1:
 
 
 ## Malware analysis - Sandbox :mask:
@@ -506,8 +504,11 @@ Malwasm | https://github.com/malwarelu/malwasm
 ## Malware analysis - Sandbox - Online :mask:
 Name	|URL 
 ------------------------------------ | ---------------------------------------------
-Malwr | https://malwr.com/submission/ :+1: # Under maintenance
+Malwr - Cuckoo | https://malwr.com/submission/ :+1: # Under maintenance
 Hybrid analysis | https://www.hybrid-analysis.com/ :+1:
+PE dump | https://github.com/zed-0xff/pedump - http://pedump.me/
+Yararules | https://analysis.yararules.com/
+GUN/Linux - Cuckoo | https://linux.huntingmalware.com/
 Virscan	| http://www.virscan.org/
 Virusade | http://virusade.com/
 VirusTotal | http://www.virustotal.com/
