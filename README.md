@@ -343,7 +343,7 @@ Live nothink | http://www.nothink.org/honeypots.php
 Name | URL 
 ------------------------------------ | ---------------------------------------------
 BGP Toolkit | http://bgp.he.net/ :trophy:
-IP in detail | http://ipindetail.com/ip-blacklist-checker/IP.html
+IP in detail | http://ipindetail.com/ip-blacklist-checker
 IP void | http://www.ipvoid.com/ :+1:
 IPv4 info | http://ipv4info.com/ :+1:
 TCP utils | http://www.tcpiputils.com/
