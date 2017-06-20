@@ -39,6 +39,7 @@ I wanted to update it with my sources, I will probably continue to update and re
 * [Search engines](#search-engines-satellite)
 * [Security challenges / WarGames](#security-challenges--wargames-triangular_flag_on_post)
 * [Skimmer](#skimmer-black_joker)
+* [SSH](#ssh)
 * [SSL](#ssl)
 * [TOR](#tor)
 * [VOIP](#voip-phone)
@@ -301,6 +302,7 @@ Codepad	| http://codepad.org/
 Cracking forum | http://crackingforum.com/
 Cracking seal | https://crackingseal.io/
 Crypto currency | https://coinmarketcap.com
+Darknet stats | https://dnstats.net/
 Deepweb | https://www.reddit.com/r/deepweb/
 Electronic Frontier Foundation | https://www.eff.org/
 Fake ID | http://www.fakenamegenerator.com/
@@ -745,9 +747,20 @@ Skimmer source from Krebs | https://krebsonsecurity.com/all-about-skimmers/
 Great reverse engineering on skimmer | https://trustfoundry.net/reverse-engineering-a-discovered-atm-skimmer/
 
 
+## SSH 
+Name | URL 
+------------------------------------ | ---------------------------------------------
+Bruteforce know hosts | https://github.com/Churro/bruteforce-known-hosts
+OpenSSH guidelines | https://wiki.mozilla.org/Security/Guidelines/OpenSSH
+SSH audit | https://github.com/arthepsy/ssh-audit.git
+SSH audit online | https://sshcheck.com
+Who's there | https://github.com/FiloSottile/whosthere
+
+
 ## SSL 
 Name | URL 
 ------------------------------------ | ---------------------------------------------
+Certificate search | https://crt.sh
 Bad SSL | https://github.com/chromium/badssl.com
 Htbridge - Online analysis | https://www.htbridge.com/ssl/
 Mozilla SSL Configuration Generator | https://mozilla.github.io/server-side-tls/ssl-config-generator/
@@ -835,8 +848,10 @@ Flash | http://isflashinstalled.com/
 Referer | https://www.whatismyreferer.com/
 SSL | https://www.ssllabs.com/ssltest/viewMyClient.html
 URL Shorter List | https://bit.do/list-of-url-shorteners.php
+User agent | http://useragentstring.com/pages/useragentstring.php
 User agent | http://whatsmyuseragent.com/
-User agent list | http://useragentstring.com/pages/useragentstring.php
+User agent | https://www.projecthoneypot.org/robot_useragents.php
+User agent | https://www.whatismybrowser.com/developers/tools/user-agent-parser/browse
 
 
 ## Windows
@@ -846,7 +861,6 @@ Anti forensic Windows | https://www.reddit.com/r/security/comments/32fb1l/open_g
 Windows executable walkthrough | https://i.imgur.com/pHjcI.png
 Windows exploitation | https://github.com/enddo/awesome-windows-exploitation
 Windows hardening | https://github.com/PaulSec/awesome-windows-domain-hardening
-
 
 
 ## Wide Scans :earth_americas:
