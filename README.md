@@ -155,7 +155,6 @@ Hackvertor (Tag based decoder/encoder) | https://hackvertor.co.uk/public
 ## Domain name Research / Analysis / Reputation :chart_with_downwards_trend:
 Name | URL 
 ------------------------------------ | ---------------------------------------------
-387 DNS Blacklists | https://gist.github.com/zbetcheckin/0c630e4a5021132dc8c747dc4d9d493d
 Archive | http://archive.is/
 Archive | https://web.archive.org/ :+1:
 Archive a page | https://archive.fo/
@@ -165,6 +164,7 @@ Cache page | http://www.cachedpages.com/
 Cache view | http://cachedview.com/
 Checking multiple blocklists | http://rbls.org/ :+1:
 DGA intro | https://en.wikipedia.org/wiki/Domain_generation_algorithm
+DNS Blacklists | https://raw.githubusercontent.com/zbetcheckin/DNSBLs/master/active_dnsbls.txt
 DNS dumpster | https://dnsdumpster.com/
 DNS Propagation Checker | https://www.whatsmydns.net/
 DNS stuff | http://www.dnsstuff.com/
@@ -236,7 +236,9 @@ DFRWS challenge | http://www.dfrws.org/dfrws-forensic-challenge-2016
 File signatures | https://en.wikipedia.org/wiki/List_of_file_signatures
 File signatures | http://www.filesignatures.net/index.php?page=all
 File signatures | http://www.garykessler.net/library/file_sigs.html
+Forensic control | https://forensiccontrol.com/resources/free-software/
 Forensic kb practical | http://www.forensickb.com/2008/01/forensic-practical.html
+Forensic tools | https://forensics.cert.org/
 Forensic - Technical graph | http://www.amanhardikar.com/mindmaps/ForensicChallenges.html
 Package - DEFT | http://www.deftlinux.net/package-list/
 Package - forensic-all | https://packages.debian.org/jessie-backports/forensics-all :+1:
@@ -292,12 +294,13 @@ Will be reorganized</sub>
 
 Name	|URL 
 ------------------------------------ | ---------------------------------------------
+CERT teams | https://www.first.org/about/organization/teams
 Citizen lab | https://citizenlab.org/
 Code analysises | https://en.wikipedia.org/wiki/List_of_tools_for_static_code_analysis
 Codepad	| http://codepad.org/
 Cracking forum | http://crackingforum.com/
 Cracking seal | https://crackingseal.io/
-CERT teams | https://www.first.org/about/organization/teams
+Crypto currency | https://coinmarketcap.com
 Deepweb | https://www.reddit.com/r/deepweb/
 Electronic Frontier Foundation | https://www.eff.org/
 Fake ID | http://www.fakenamegenerator.com/
@@ -329,6 +332,7 @@ GNU/Linux containers | https://github.com/Friz-zy/awesome-linux-containers#secur
 GNU/Linux executable walkthrough | https://i.imgur.com/q5nyHp7.png
 GNU/Linux post exploitation | https://github.com/mubix/post-exploitation/wiki/Linux-Post-Exploitation-Command-List :+1:
 GNU/Linux workstation | https://github.com/lfit/itpol/blob/master/linux-workstation-security.md :+1::+1:
+Kernel exploitation | https://github.com/xairy/linux-kernel-exploitation
 Lynis | https://packages.debian.org/en/jessie/lynis
 RKhunter | https://packages.debian.org/en/jessie/rkhunter :+1:
 Securing debian | https://www.debian.org/doc/manuals/securing-debian-howto/ch10.en.html :+1:
@@ -507,7 +511,7 @@ Malwasm | https://github.com/malwarelu/malwasm
 ## Malware analysis - Sandbox - Online :mask:
 Name	|URL 
 ------------------------------------ | ---------------------------------------------
-Malwr - Cuckoo | https://malwr.com/submission/ :+1: # Under maintenance
+Malwr - Cuckoo | https://malwr.com/ :+1:
 Hybrid analysis | https://www.hybrid-analysis.com/ :+1:
 PE dump | https://github.com/zed-0xff/pedump - http://pedump.me/
 Yararules | https://analysis.yararules.com/
@@ -520,7 +524,7 @@ AVcaesar | https://avcaesar.malware.lu/
 Detux GNU/Linux sandbox | http://detux.org/
 Mastiff online | https://mastiff-online.korelogic.com/
 AndroTotal | https://andrototal.org/
-Comodo | https://consumer.valkyrie.comodo.com/
+Comodo | https://cit.valkyrie.comodo.com/
 VirScan | http://r.virscan.org/
 Manalyzer | https://manalyzer.org/
 ID Ransomware | https://id-ransomware.malwarehunterteam.com/
@@ -535,6 +539,7 @@ ThreadExpert | http://www.threatexpert.com/submit.aspx
 Randomly changes Win32/64 PE Files | https://github.com/secretsquirrel/recomposer
 Virus Total Notifier | https://github.com/mubix/vt-notify
 Other list | http://cleanbytes.net/malware-online-scanners
+Sand droid | http://sanddroid.xjtu.edu.cn
 
 
 ## Mobile :iphone:
