@@ -54,16 +54,17 @@ I wanted to update it with my sources, I will probably continue to update and re
 ## Awesome lists :+1:
 Name | URL 
 ------------------------------------ | ---------------------------------------------
-Collection of awesome lists | https://github.com/Hack-with-Github/Awesome-Hacking :trophy:
-Malware analysis | https://github.com/rshipp/awesome-malware-analysis/ :trophy:
-Incident response | https://github.com/meirwah/awesome-incident-response/ :trophy:
-Honeypots | https://github.com/paralax/awesome-honeypots :trophy:
-Threat intelligence | https://github.com/hslatman/awesome-threat-intelligence
-Indicators of compromise | https://github.com/sroberts/awesome-iocs
 Android | https://github.com/ashishb/android-security-awesome
-Web | https://github.com/infoslack/awesome-web-hacking
-Security list | https://github.com/sbilly/awesome-security
+Collection of awesome lists | https://github.com/Hack-with-Github/Awesome-Hacking :trophy:
+Honeypots | https://github.com/paralax/awesome-honeypots :trophy:
+Incident response | https://github.com/meirwah/awesome-incident-response/ :trophy:
+Indicators of compromise | https://github.com/sroberts/awesome-iocs
 Lists of lists of lists | https://github.com/t3chnoboy/awesome-awesome-awesome
+Malware analysis | https://github.com/rshipp/awesome-malware-analysis/ :trophy:
+Reversing | https://github.com/fdivrp/awesome-reversing
+Security list | https://github.com/sbilly/awesome-security
+Threat intelligence | https://github.com/hslatman/awesome-threat-intelligence
+Web | https://github.com/infoslack/awesome-web-hacking
 
 
 ## Books :books:
@@ -78,7 +79,7 @@ Name	|URL
 ------------------------------------ | ---------------------------------------------
 Programs and write-ups | https://github.com/djadmin/awesome-bug-bounty
 Write-ups | https://github.com/ngalongc/bug-bounty-reference
-HackerOne | https://hackerone.com
+HackerOne | https://hackerone.com :+1:
 BugCrowd.com | https://bugcrowd.com/programs
 Zerodium | https://www.zerodium.com/
 Vul box | https://www.vulbox.com/
@@ -97,18 +98,19 @@ More bug bounty | https://bugcrowd.com/list-of-bug-bounty-programs#
 ## Cheat sheets :+1:
 Name | URL
 ------------------------------------ | ---------------------------------------------
-Owasp cheat sheet series | https://www.owasp.org/index.php/OWASP_Cheat_Sheet_Series
-Web application cheat sheet | https://www.owasp.org/index.php/Web_Application_Security_Testing_Cheat_Sheet
-Pentest monkey | http://pentestmonkey.net
-Packet life | http://packetlife.net/library/cheat-sheets/
-Reverse | http://r00ted.com/cheat%20sheet%20reverse%20v5.png
-SANS Forensic | https://digital-forensics.sans.org/community/cheat-sheets
-Penetration test | https://github.com/jshaw87/Cheatsheets
-Penetration Test | https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/
-SQL injection | http://websec.ca/kb/sql_injection
-LFI | https://highon.coffee/blog/lfi-cheat-sheet/
-Zeltser's cheat sheets list | https://zeltser.com/cheat-sheets/
 General cheat sheets | http://www.cheat-sheets.org/
+LFI | https://highon.coffee/blog/lfi-cheat-sheet/
+Owasp series | https://www.owasp.org/index.php/OWASP_Cheat_Sheet_Series :+1:
+Packet life | http://packetlife.net/library/cheat-sheets/
+Penetration test | https://github.com/jshaw87/Cheatsheets
+Penetration test | https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/
+Pentest monkey | http://pentestmonkey.net
+SANS Forensic | https://digital-forensics.sans.org/community/cheat-sheets
+Security Onion | https://github.com/Security-Onion-Solutions/security-onion/wiki/Cheat-Sheet
+SQL injection | http://websec.ca/kb/sql_injection
+Reverse | http://r00ted.com/cheat%20sheet%20reverse%20v5.png
+Web application | https://www.owasp.org/index.php/Web_Application_Security_Testing_Cheat_Sheet
+Zeltser's cheat sheets list | https://zeltser.com/cheat-sheets/
 
 
 ## CTF :triangular_flag_on_post:
@@ -273,6 +275,8 @@ Eset map | http://www.virusradar.com/ :earth_americas:
 Fortinet map | https://threatmap.fortiguard.com/ :earth_americas:
 Blueliv map | https://community.blueliv.com/map/ :earth_americas:
 Tor flow map | https://torflow.uncharted.software :earth_americas:
+Cymon map | https://cymon.io/map :earth_americas:
+HE maps | https://he.net/3d-map/ :earth_americas:
 DDoS attacks | http://www.digitalattackmap.com/
 Sub marine cable | http://www.submarinecablemap.com/
 Sub marine cable | http://submarine-cable-map-2016.telegeography.com/
@@ -280,6 +284,7 @@ Sub marine cable | http://lifewinning.com/submarine-cable-taps/
 Flight radar | https://www.flightradar24.com :airplane:
 Fligh aware | https://flightaware.com/ :airplane:
 Live map | https://www.livemap24.com/ :train:
+World of VNC | https://worldofvnc.net/
 
 
 ## Generic utilities :file_folder:
