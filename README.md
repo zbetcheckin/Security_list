@@ -134,7 +134,6 @@ VB code beautifier | http://www.vbindent.com/
 PHP formatter | http://beta.phpformatter.com/
 PHPdecoder | http://ddecode.com/phpdecoder/
 PHP encoding | http://yehg.net/encoding/
-SQL formatter | http://dpriver.com/pp/sqlformat.htm
 XML formatter | http://chris.photobooks.com/xml/default.htm
 JSDetox | http://www.relentless-coding.com/projects/jsdetox/
 JSNice | http://www.jsnice.org/
@@ -145,7 +144,6 @@ Jjencode | http://utf-8.jp/public/jjencode.html
 JSFuck | http://www.jsfuck.com/
 Js obfuscate | http://www.jsobfuscate.com/
 JS deobfuscate | https://github.com/sevzero/honeybadger
-Netteleuthe | http://www.netteleuthe.de/gc/
 Colour higlighter | http://quickhighlighter.com/
 URL | http://meyerweb.com/eric/tools/dencoder/
 HEXdecoder | http://ddecode.com/hexdecoder/
@@ -513,7 +511,6 @@ Virscan	| http://www.virscan.org/
 Virusade | http://virusade.com/
 VirusTotal | http://www.virustotal.com/
 Malwareconfig | http://malwareconfig.com/
-Deepviz | https://sandbox.deepviz.com/
 AVcaesar | https://avcaesar.malware.lu/
 Detux GNU/Linux sandbox | http://detux.org/
 Mastiff online | https://mastiff-online.korelogic.com/
@@ -710,7 +707,6 @@ OWASP VWAD list | https://github.com/OWASP/OWASP-VWAD/blob/master/src/online.tsv
 WeChall | https://www.wechall.net/
 Vulnhub | https://www.vulnhub.com/
 Net Garage | http://io.netgarage.org/
-Flare-On | http://www.flare-on.com/
 SmashTheStack | http://smashthestack.org/
 Hackthissite | http://www.hackthissite.org/
 Hack.me | https://hack.me
