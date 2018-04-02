@@ -619,7 +619,7 @@ Awesome OSX & IOS sec list | https://github.com/ashishb/osx-and-ios-security-awe
 OSX auditor | https://github.com/jipegit/OSXAuditor
 OWASP iGoat Project | https://www.owasp.org/index.php/OWASP_iGoat_Project
 Security and privacy guide | https://github.com/drduh/OS-X-Security-and-Privacy-Guide
-fortify - Easily configure MacOS security settings from the terminal. | https://github.com/alichtman/fortify
+stronghold - Easily configure MacOS security settings from the terminal. | https://github.com/alichtman/stronghold
 
 
 ## Passwords :key:
