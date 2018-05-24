@@ -53,7 +53,7 @@ I wanted to update it with my sources, I will probably continue to update and re
 ----
 
 ## Awesome lists :+1:
-Name | URL 
+Name | URL
 ------------------------------------ | ---------------------------------------------
 Android | https://github.com/ashishb/android-security-awesome
 Collection of awesome lists | https://github.com/Hack-with-Github/Awesome-Hacking :trophy:
@@ -69,14 +69,14 @@ Web | https://github.com/infoslack/awesome-web-hacking
 
 
 ## Books :books:
-Name	|URL 
+Name	|URL
 ------------------------------------ | ---------------------------------------------
 Free programming books | https://github.com/vhf/free-programming-books
 Recommended Reading | http://dfir.org/?q=node/8
 
 
 ## Bug bounty :chocolate_bar:
-Name	|URL 
+Name	|URL
 ------------------------------------ | ---------------------------------------------
 Programs and write-ups | https://github.com/djadmin/awesome-bug-bounty
 Write-ups | https://github.com/ngalongc/bug-bounty-reference
@@ -115,7 +115,7 @@ Zeltser's cheat sheets list | https://zeltser.com/cheat-sheets/
 
 
 ## CTF :triangular_flag_on_post:
-Name | URL 
+Name | URL
 ------------------------------------ | ---------------------------------------------
 CTFTIME | https://ctftime.org/
 Write-ups | https://github.com/ctfs
@@ -130,7 +130,7 @@ Facebook platform | https://github.com/facebook/fbctf
 
 
 ## Decoder/Packer/Unpacker :hurtrealbad:
-Name | URL 
+Name | URL
 ------------------------------------ | ---------------------------------------------
 Code beautifier | http://codebeautify.org/
 VB code beautifier | http://www.vbindent.com/
@@ -154,7 +154,7 @@ Hackvertor (Tag based decoder/encoder) | https://hackvertor.co.uk/public
 
 
 ## Domain name Research / Analysis / Reputation :chart_with_downwards_trend:
-Name | URL 
+Name | URL
 ------------------------------------ | ---------------------------------------------
 Archive | http://archive.is/
 Archive | https://web.archive.org/ :+1:
@@ -200,7 +200,7 @@ Zeltser's list | https://zeltser.com/lookup-malicious-websites/
 
 
 ## Exploits and vulnerabilities :door:
-Name | URL 
+Name | URL
 ------------------------------------ | ---------------------------------------------
 CVEdetails | http://www.cvedetails.com/ :+1:
 CVE.mitre | https://cve.mitre.org/
@@ -227,7 +227,7 @@ CVSS FIRST | https://www.first.org/cvss/calculator/3.0
 CVSS NIST | https://nvd.nist.gov/cvss/v3-calculator
 
 
-## Forensic :mag: 
+## Forensic :mag:
 Name | URL
 ------------------------------------------- | ---------------------------------------------
 Aldeid list | https://www.aldeid.com/wiki/Category:Digital-Forensics
@@ -256,7 +256,7 @@ Zythom list - FR | https://zythom.blogspot.se/2007/02/les-outils-dun-expert-judi
 
 
 ## Free shell :shell:
-Name | URL 
+Name | URL
 ------------------------------------ | ---------------------------------------------
 FreeShells list | http://www.freeshells.info/
 Devio.us OpenBSD | http://devio.us/
@@ -264,7 +264,7 @@ Red-pill | http://shells.red-pill.eu/
 
 
 ## Fun :trollface:
-Name | URL 
+Name | URL
 ------------------------------------ | ---------------------------------------------
 Pwnie Awards | http://pwnies.com/nominations/ :horse:
 Dead drops | https://deaddrops.com/db/
@@ -293,7 +293,7 @@ World of VNC | https://worldofvnc.net/
 ## Generic utilities :file_folder:
 Will be reorganized</sub>
 
-Name	|URL 
+Name	|URL
 ------------------------------------ | ---------------------------------------------
 CERT teams | https://www.first.org/about/organization/teams
 Citizen lab | https://citizenlab.org/
@@ -325,7 +325,7 @@ Understand your commands | http://explainshell.com
 
 
 ## GNU/Linux
-Name | URL 
+Name | URL
 ------------------------------------ | ---------------------------------------------
 Chkrootkit | https://packages.debian.org/en/jessie/chkrootkit
 Command collection | https://github.com/tuwid/GNU-Linux-OpsWiki
@@ -350,7 +350,7 @@ Live nothink | http://www.nothink.org/honeypots.php
 
 
 ## IP Research / Analysis / Investigation
-Name | URL 
+Name | URL
 ------------------------------------ | ---------------------------------------------
 BGP Toolkit | http://bgp.he.net/ :trophy:
 Bing dork | ip:xxx.xxx.xxx.xxx
@@ -374,7 +374,7 @@ Whatch Guard | http://www.reputationauthority.org/
 
 
 ## Leak / Defaced :ambulance:
-Name | URL 
+Name | URL
 ------------------------------------ | ---------------------------------------------
 Breach alarm | https://breachalarm.com/
 Cam | http://www.insecam.org/
@@ -387,7 +387,7 @@ Zone-H | https://zone-h.org/
 
 
 ## Learning / Exercises :mortar_board:
-Name | URL 
+Name | URL
 ------------------------------------ | ---------------------------------------------
 Awesome training | http://opensecuritytraining.info/Training.html :trophy: :trophy:
 Cybrary training | https://www.cybrary.it/
@@ -405,7 +405,7 @@ Security talks | https://github.com/PaulSec/awesome-sec-talks :+1:
 
 
 ## Lock picking :closed_lock_with_key:
-Name | URL 
+Name | URL
 ------------------------------------ | ---------------------------------------------
 Lock pick guide | http://lockpickguide.com :+1:
 Bosnianbill video | https://www.youtube.com/user/bosnianbill/videos :1:
@@ -414,7 +414,7 @@ Lock wiki | http://www.lockwiki.com/
 
 
 ## Mail utilities :mailbox_with_mail:
-Name | URL 
+Name | URL
 ------------------------------------ | ---------------------------------------------
 10 Minute Mail | http://10minutemail.com
 DNSBL | https://en.wikipedia.org/wiki/DNSBL
@@ -448,11 +448,11 @@ p0f | http://lcamtuf.coredump.cx/p0f3/
 
 
 ## Malware / Botnet sources :angel:
-Name | URL 
+Name | URL
 ------------------------------------ | ---------------------------------------------
 Cybercrime tracker | http://cybercrime-tracker.net/
 Malc0de	| http://malc0de.com/database/
-Malekal	| http://malwaredb.malekal.com/ 
+Malekal	| http://malwaredb.malekal.com/
 Abuse CH | https://www.abuse.ch/
 Tracker | http://tracker.h3x.eu/
 Kernel mode | http://www.kernelmode.info
@@ -487,7 +487,7 @@ Malware museum | https://archive.org/details/malwaremuseum :+1:
 
 
 ## Malware analysis - Sandbox :mask:
-Name | URL 
+Name | URL
 ------------------------------------ | ---------------------------------------------
 Zeltser's list | https://zeltser.com/automated-malware-analysis/
 Cuckoo Sandbox | https://www.cuckoosandbox.org/ :+1:
@@ -511,7 +511,7 @@ Malwasm | https://github.com/malwarelu/malwasm
 
 
 ## Malware analysis - Sandbox - Online :mask:
-Name	|URL 
+Name	|URL
 ------------------------------------ | ---------------------------------------------
 Malwr - Cuckoo | https://malwr.com/ :+1:
 Hybrid analysis | https://www.hybrid-analysis.com/ :+1:
@@ -545,7 +545,7 @@ Sand droid | http://sanddroid.xjtu.edu.cn
 
 
 ## Mobile :iphone:
-Name	|URL 
+Name	|URL
 ------------------------------------ | ---------------------------------------------
 APK Analzyer | http://www.apk-analyzer.net/
 Droid Sec wiki | http://www.droidsec.org/wiki/
@@ -558,7 +558,7 @@ Wiki secmobi | https://github.com/secmobi/wiki.secmobi.com :trophy:
 
 
 ## Network
-Name | URL 
+Name | URL
 ------------------------------------ | ---------------------------------------------
 Awesome PCAP | https://github.com/caesar0301/awesome-pcaptools :+1:
 BGPlay | https://stat.ripe.net/widget/bgplay :+1:
@@ -613,12 +613,13 @@ Meta goofil | https://github.com/laramies/metagoofil
 
 
 ## OS X
-Name | URL 
+Name | URL
 ------------------------------------ | ---------------------------------------------
 Awesome OSX & IOS sec list | https://github.com/ashishb/osx-and-ios-security-awesome
 OSX auditor | https://github.com/jipegit/OSXAuditor
 OWASP iGoat Project | https://www.owasp.org/index.php/OWASP_iGoat_Project
 Security and privacy guide | https://github.com/drduh/OS-X-Security-and-Privacy-Guide
+stronghold - Easily configure MacOS security settings from the terminal. | https://github.com/alichtman/stronghold
 
 
 ## Passwords :key:
@@ -706,7 +707,7 @@ Threat crowd | https://www.threatcrowd.org/
 
 
 ## Security challenges / WarGames :triangular_flag_on_post:
-Name | URL 
+Name | URL
 ------------------------------------ | ---------------------------------------------
 Zenk-Security | https://www.zenk-security.com/
 Root-Me | http://www.root-me.org/
@@ -741,14 +742,14 @@ More challenges | http://captf.com/practice-ctf/
 
 
 ## Skimmer :black_joker:
-Name	|URL 
+Name	|URL
 ------------------------------------ | ---------------------------------------------
 Skimmer source from Krebs | https://krebsonsecurity.com/all-about-skimmers/
 Great reverse engineering on skimmer | https://trustfoundry.net/reverse-engineering-a-discovered-atm-skimmer/
 
 
-## SSH 
-Name | URL 
+## SSH
+Name | URL
 ------------------------------------ | ---------------------------------------------
 Bruteforce know hosts | https://github.com/Churro/bruteforce-known-hosts
 OpenSSH guidelines | https://wiki.mozilla.org/Security/Guidelines/OpenSSH
@@ -757,8 +758,8 @@ SSH audit online | https://sshcheck.com
 Who's there | https://github.com/FiloSottile/whosthere
 
 
-## SSL 
-Name | URL 
+## SSL
+Name | URL
 ------------------------------------ | ---------------------------------------------
 Certificate search | https://crt.sh
 Bad SSL | https://github.com/chromium/badssl.com
@@ -775,7 +776,7 @@ Testssl.sh - Tools | https://github.com/drwetter/testssl.sh :+1:
 
 
 ## TOR
-Name | URL 
+Name | URL
 ------------------------------------ | ---------------------------------------------
 Hidden services | https://www.torproject.org/docs/hidden-services.html.en
 Hidden services scanner | https://github.com/superp00t/sadonion
@@ -784,7 +785,7 @@ Scan Onion Services | https://github.com/s-rah/onionscan
 Search engine - Grams | http://grams7enufi7jmdl.onion/
 Search engine - Ahmia | https://ahmia.fi/
 Search engine - TORCH | http://xmh57jrzrnw6insl.onion/
-Search engine - DuckDuckGo | http://3g2upl4pq6kufc4m.onion/ 
+Search engine - DuckDuckGo | http://3g2upl4pq6kufc4m.onion/
 Tails |	https://blog.torproject.org/blogs/tails
 The hidden wiki | https://thehiddenwiki.org/
 Tolerant ISP for exit node | https://trac.torproject.org/projects/tor/wiki/doc/GoodBadISPs
@@ -806,8 +807,8 @@ Penetration test | http://0daysecurity.com/penetration-testing/VoIP-security.htm
 Penetration test | http://www.backtrack-linux.org/wiki/index.php/Pentesting_VOIP
 
 
-## VPN 
-Name | URL 
+## VPN
+Name | URL
 ------------------------------------ | ---------------------------------------------
 Open VPN | https://github.com/OpenVPN
 Comparison | https://thatoneprivacysite.net/vpn-comparison-chart/
@@ -816,7 +817,7 @@ Location test | https://ipleak.net/
 
 
 ## Vulnerable environments :unlock:
-Name | URL 
+Name | URL
 ------------------------------------ | ---------------------------------------------
 Owasp list | https://www.owasp.org/index.php/OWASP_Vulnerable_Web_Applications_Directory_Project/Pages/Offline
 Owasp BWA | https://www.owasp.org/index.php/OWASP_Broken_Web_Applications_Project
@@ -834,7 +835,7 @@ XSS play ground	| http://xssplayground.net23.net/
 
 
 ## Web browser
-Name | URL 
+Name | URL
 ------------------------------------ | ---------------------------------------------
 Amiunique project | https://github.com/DIVERSIFY-project/amiunique
 Browser exploit | https://github.com/julienbedard/browsersploit
@@ -855,7 +856,7 @@ User agent | https://www.whatismybrowser.com/developers/tools/user-agent-parser/
 
 
 ## Windows
-Name | URL 
+Name | URL
 ------------------------------------ | ---------------------------------------------
 Anti forensic Windows | https://www.reddit.com/r/security/comments/32fb1l/open_guide_to_scrubbing_windows_oss_from_forensic/
 Windows executable walkthrough | https://i.imgur.com/pHjcI.png
