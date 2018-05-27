@@ -89,7 +89,6 @@ BountyFactory | https://bountyfactory.io
 Firebounty | https://firebounty.com
 Bugsheet | http://www.bugsheet.com/
 BountySource | https://www.bountysource.com/
-NewsLetter about bug bounty | http://bugbountyweekly.com
 Hunter edu | http://www.bountyhunteredu.org/careers/
 Google | https://www.google.com/about/appsecurity/reward-program/
 Microsoft | https://technet.microsoft.com/en-us/security/dn425036
@@ -103,7 +102,6 @@ General cheat sheets | http://www.cheat-sheets.org/
 LFI | https://highon.coffee/blog/lfi-cheat-sheet/
 Owasp series | https://www.owasp.org/index.php/OWASP_Cheat_Sheet_Series :+1:
 Packet life | http://packetlife.net/library/cheat-sheets/
-Penetration test | https://github.com/jshaw87/Cheatsheets
 Penetration test | https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/
 Pentest monkey | http://pentestmonkey.net
 SANS Forensic | https://digital-forensics.sans.org/community/cheat-sheets
@@ -259,7 +257,6 @@ Zythom list - FR | https://zythom.blogspot.se/2007/02/les-outils-dun-expert-judi
 Name | URL
 ------------------------------------ | ---------------------------------------------
 FreeShells list | http://www.freeshells.info/
-Devio.us OpenBSD | http://devio.us/
 Red-pill | http://shells.red-pill.eu/
 
 
@@ -269,7 +266,6 @@ Name | URL
 Pwnie Awards | http://pwnies.com/nominations/ :horse:
 Dead drops | https://deaddrops.com/db/
 Mozilla location service map | https://location.services.mozilla.com/map - Thx [rawger](https://twitter.com/_rawger)
-The cyber shark map | https://lab.thecybershark.com/ :earth_americas:
 Norse map | http://map.norsecorp.com/ :earth_americas:
 Fire eye map | https://www.fireeye.com/cyber-map/threat-map.html :earth_americas:
 Kaspersky AV map | https://cybermap.kaspersky.com/ :earth_americas:
@@ -299,8 +295,6 @@ CERT teams | https://www.first.org/about/organization/teams
 Citizen lab | https://citizenlab.org/
 Code analysises | https://en.wikipedia.org/wiki/List_of_tools_for_static_code_analysis
 Codepad	| http://codepad.org/
-Cracking forum | http://crackingforum.com/
-Cracking seal | https://crackingseal.io/
 Crypto currency | https://coinmarketcap.com
 Darknet stats | https://dnstats.net/
 Deepweb | https://www.reddit.com/r/deepweb/
@@ -427,7 +421,6 @@ Mailnesia | http://mailnesia.com/
 Mailcatch | http://mailcatch.com/
 Mxtoolbox | http://www.mxtoolbox.com/
 Open phish | https://openphish.com/
-Open relay | http://www.mailradar.com
 Openresolver JP	| http://www.openresolver.jp/en/
 Phishing Framework | https://github.com/pentestgeek/phishing-frenzy
 Phish tank | http://www.phishtank.com/ :+1:
@@ -465,7 +458,6 @@ Malware binaries | https://github.com/ytisf/theZoo/tree/master/malwares/Binaries
 Total hash | https://totalhash.cymru.com/
 ZeuS Tracker | https://zeustracker.abuse.ch
 Contagio | http://contagiodump.blogspot.se/
-MW share | https://mwshare.boredhackerblog.info/samples/ infected:infected
 Yararules | https://github.com/Yara-Rules/rules
 Custom Google search engine | https://cse.google.com/cse/home?cx=011750002002865445766%3Apc60zx1rliu (from Corey Harrell)
 Ransomware tracker | https://ransomwaretracker.abuse.ch/tracker/
@@ -475,9 +467,7 @@ No more ransom | https://www.nomoreransom.org/
 VirusShare | http://virusshare.com/
 Malware.lu | https://malware.lu/
 SafeGroup | http://www.malware.pl/ - https://www.scumware.org/
-NovCon Minotaur | http://minotauranalysis.com
 Clean MX | http://support.clean-mx.de/clean-mx/viruses.php
-Offensive computing | http://www.offensivecomputing.net/
 Malware domain blocklist | http://www.malwaredomains.com
 Structured Threat Information eXpression | https://stixproject.github.io/
 The Zoo aka Malware DB | https://ytisf.github.io/theZoo/
@@ -515,9 +505,8 @@ Name	|URL
 ------------------------------------ | ---------------------------------------------
 Malwr - Cuckoo | https://malwr.com/ :+1:
 Hybrid analysis | https://www.hybrid-analysis.com/ :+1:
-PE dump | https://github.com/zed-0xff/pedump - http://pedump.me/
+PE dump | https://github.com/zed-0xff/pedump
 Yararules | https://analysis.yararules.com/
-GUN/Linux - Cuckoo | https://linux.huntingmalware.com/
 Virscan	| http://www.virscan.org/
 Virusade | http://virusade.com/
 VirusTotal | http://www.virustotal.com/
@@ -528,7 +517,6 @@ Mastiff online | https://mastiff-online.korelogic.com/
 AndroTotal | https://andrototal.org/
 Comodo | https://cit.valkyrie.comodo.com/
 VirScan | http://r.virscan.org/
-Manalyzer | https://manalyzer.org/
 ID Ransomware | https://id-ransomware.malwarehunterteam.com/
 Document Analyzer | http://www.document-analyzer.net/
 Malware tracker | http://www.cryptam.com/
@@ -550,7 +538,6 @@ Name	|URL
 APK Analzyer | http://www.apk-analyzer.net/
 Droid Sec wiki | http://www.droidsec.org/wiki/
 Joebox Cloud | https://jbxcloud.joesecurity.org/login
-Mobi sec lab | http://akana.mobiseclab.org/
 Mobile security wiki | https://mobilesecuritywiki.com/ :+1:
 OWASP Goat Droid | https://www.owasp.org/index.php/Projects/OWASP_GoatDroid_Project
 Tracedroid | http://tracedroid.few.vu.nl
@@ -633,10 +620,8 @@ Default password | http://www.defaultpassword.com/
 Default password | http://www.defaultpassword.us/
 Default cameras password | https://github.com/jeanphorn/wordlist/blob/master/README.md
 Default password thc-hydra | https://github.com/vanhauser-thc/thc-hydra/blob/master/dpl4hydra_full.csv
-Default router Password | http://portforward.com/default_username_password/
 Dafault router password | http://www.cleancss.com/router-default/
 Default router password | https://github.com/jeanphorn/wordlist/blob/master/router_default_password.md
-Default wireless Redhat password | http://people.redhat.com/rprice/notes/wireless_passlist.txt
 Default VoIP password | https://github.com/netbiosX/Default-Credentials/blob/master/VoIP-Default-Password-List.mdown
 Fun secure password checker  | https://password.kaspersky.com/
 Hashcat WIKI | https://hashcat.net/wiki/
@@ -689,7 +674,6 @@ Nmap | https://nmap.org/7/
 Zmap | https://zmap.io/
 Zgrab | https://github.com/zmap/zgrab (Banner Grabber)
 Nscan | https://github.com/OffensivePython/Nscan
-Scanrand | https://www.sans.org/security-resources/idfaq/scanrand.php
 PFRing | https://github.com/ntop/PF_RING - High-speed packet processing framework
 
 
@@ -724,7 +708,6 @@ SmashTheStack | http://smashthestack.org/
 Hackthissite | http://www.hackthissite.org/
 Hack.me | https://hack.me
 HackThis! | http://www.hackthis.co.uk/
-PenTestLabs | https://lab.thecybershark.com/pentestlabs/5
 Backdoor.Sdslabs | https://backdoor.sdslabs.co/
 Bright-shadows | http://www.bright-shadows.net/
 SmashTheStack | http://smashthestack.org/
@@ -804,7 +787,6 @@ URL onion inspector | https://github.com/k4m4/onioff
 Name | URL
 ------------------------------------------- | ---------------------------------------------
 Penetration test | http://0daysecurity.com/penetration-testing/VoIP-security.html
-Penetration test | http://www.backtrack-linux.org/wiki/index.php/Pentesting_VOIP
 
 
 ## VPN
@@ -827,7 +809,6 @@ Metasploitable 3 | https://github.com/rapid7/metasploitable3/wiki
 Vulnerable systems list | https://www.amanhardikar.com/mindmaps/Practice.html :+1:
 VulnHub	| http://vulnhub.com/
 LampSecurity | http://sourceforge.net/projects/lampsecurity/
-Dragon | https://www.dragonresearchgroup.org/challenges/
 Hackademic-RTB1 | http://www.aldeid.com/wiki/Hackademic-RTB1
 Moth | http://www.bonsai-sec.com
 Peruggia | http://sourceforge.net/projects/peruggia/
