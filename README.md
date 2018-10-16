@@ -87,7 +87,6 @@ Vul box | https://www.vulbox.com/
 Open bug bounty | https://www.openbugbounty.org/
 BountyFactory | https://bountyfactory.io
 Firebounty | https://firebounty.com
-Bugsheet | http://www.bugsheet.com/
 BountySource | https://www.bountysource.com/
 Hunter edu | http://www.bountyhunteredu.org/careers/
 Google | https://www.google.com/about/appsecurity/reward-program/
