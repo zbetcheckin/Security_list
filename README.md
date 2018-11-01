@@ -153,9 +153,8 @@ Hackvertor (Tag based decoder/encoder) | https://hackvertor.co.uk/public
 ## Domain name Research / Analysis / Reputation :chart_with_downwards_trend:
 Name | URL
 ------------------------------------ | ---------------------------------------------
-Archive | http://archive.is/
+Archive | https://archive.is/
 Archive | https://web.archive.org/ :+1:
-Archive a page | https://archive.fo/
 BGP Toolkit | http://bgp.he.net/ :+1::+1:
 Biggest DNS history | http://server9.rscott.org/tools/lookup.htm?ip=xxx.xxx.xxx.xxx :trophy:
 Cache page | http://www.cachedpages.com/
