@@ -152,7 +152,7 @@ Name | URL
 Archive | https://archive.is/
 Archive | https://web.archive.org/ :+1:
 BGP Toolkit | http://bgp.he.net/ :+1::+1:
-Biggest DNS history | http://server9.rscott.org/tools/lookup.htm?ip=xxx.xxx.xxx.xxx :trophy:
+Biggest DNS history | http://server9.rscott.org/tools/lookup.htm?ip=$IP :trophy:
 Cache page | http://www.cachedpages.com/
 Cache view | http://cachedview.com/
 Checking multiple blocklists | http://rbls.org/ :+1:
@@ -341,12 +341,12 @@ Live nothink | http://www.nothink.org/honeypots.php
 Name | URL
 ------------------------------------ | ---------------------------------------------
 BGP Toolkit | http://bgp.he.net/ :trophy:
-Bing dork | ip:xxx.xxx.xxx.xxx
+Bing dork | ip:$IP
 Black List Alert | http://www.blacklistalert.org/
 Black List Check | http://whatismyipaddress.com/blacklist-check/
 Check host | http://check-host.net/
 FireHOL IP  blacklist | https://github.com/firehol/blocklist-ipsets :trophy:
-Google dork | "xxx.xxx.xxx.xxx" (replace xxx.xxx.xxx.xxx with the ip you are looking for)
+Google dork | "$IP"
 Host file | https://hosts-file.net/
 Host tracker | https://www.host-tracker.com/
 IP in detail | http://ipindetail.com/ip-blacklist-checker
@@ -357,7 +357,7 @@ Nirsoft country IP | http://www.nirsoft.net/countryip/
 Project Honeypot | https://www.projecthoneypot.org/search_ip.php
 Spamhaus | https://www.spamhaus.org/lookup/
 TCP utils | http://www.tcpiputils.com/
-Virus total | https://www.virustotal.com/en/ip-address/xxx.xxx.xxx.xxx/information/
+Virus total | https://www.virustotal.com/en/ip-address/$IP/information/
 Whatch Guard | http://www.reputationauthority.org/
 
 
