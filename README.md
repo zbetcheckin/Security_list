@@ -257,27 +257,30 @@ Red-pill | http://shells.red-pill.eu/
 ## Fun :trollface:
 Name | URL
 ------------------------------------ | ---------------------------------------------
-Pwnie Awards | http://pwnies.com/nominations/ :horse:
-Dead drops | https://deaddrops.com/db/
-Mozilla location service map | https://location.services.mozilla.com/map - Thx [rawger](https://twitter.com/_rawger)
-Norse map | http://map.norsecorp.com/ :earth_americas:
+Akamai map | https://www.akamai.com/fr/fr/solutions/intelligent-platform/visualizing-akamai/real-time-web-monitor.jsp :earth_americas:
+Bitdefender map | https://threatmap.bitdefender.com/ :earth_americas:
+Blueliv map | https://community.blueliv.com/map/ :earth_americas:
+Checkpoint map | https://threatmap.checkpoint.com/ :earth_americas:
+Cymon map | https://cymon.io/map :earth_americas:
+DDoS attacks | http://www.digitalattackmap.com/ :trollface:
+Dead drops | https://deaddrops.com/db/ :floppy_disk::skull:
+Eset map | http://www.virusradar.com/ :earth_americas:
 Fire eye map | https://www.fireeye.com/cyber-map/threat-map.html :earth_americas:
+Flight radar | https://www.flightradar24.com :airplane:
+Fortinet map | https://threatmap.fortiguard.com/ :earth_americas:
+HE maps | https://he.net/3d-map/ :earth_americas:
 Kaspersky AV map | https://cybermap.kaspersky.com/ :earth_americas:
 Kaspersky map | https://apt.securelist.com/ :earth_americas:
-Eset map | http://www.virusradar.com/ :earth_americas:
-Fortinet map | https://threatmap.fortiguard.com/ :earth_americas:
-Blueliv map | https://community.blueliv.com/map/ :earth_americas:
+Norse map | http://map.norsecorp.com/ :earth_americas:
+Mozilla location service map | https://location.services.mozilla.com/map :earth_americas: - Thx [rawger](https://twitter.com/_rawger)
+Open IP video cameras | http://www.insecam.org/ :video_camera::see_no_evil:
+Pwnie Awards | http://pwnies.com/nominations/ :horse:
+Sub marine cable | http://www.submarinecablemap.com/ :anchor:
+Sub marine cable | http://submarine-cable-map-2016.telegeography.com/ :anchor:
+Sub marine cable | http://lifewinning.com/submarine-cable-taps/ :anchor:
 Tor flow map | https://torflow.uncharted.software :earth_americas:
-Cymon map | https://cymon.io/map :earth_americas:
-HE maps | https://he.net/3d-map/ :earth_americas:
-DDoS attacks | http://www.digitalattackmap.com/
-Sub marine cable | http://www.submarinecablemap.com/
-Sub marine cable | http://submarine-cable-map-2016.telegeography.com/
-Sub marine cable | http://lifewinning.com/submarine-cable-taps/
-Flight radar | https://www.flightradar24.com :airplane:
-Fligh aware | https://flightaware.com/ :airplane:
-Live map | https://www.livemap24.com/ :train:
-World of VNC | https://worldofvnc.net/
+Trendmicro map | https://botnet-cd.trendmicro.com/ :earth_americas:
+World of VNC | https://worldofvnc.net/ :santa:
 
 
 ## Generic utilities :file_folder:
@@ -365,7 +368,6 @@ Whatch Guard | http://www.reputationauthority.org/
 Name | URL
 ------------------------------------ | ---------------------------------------------
 Breach alarm | https://breachalarm.com/
-Cam | http://www.insecam.org/
 Hacked emails | https://hacked-emails.com/
 Have I been pwned | https://haveibeenpwned.com/
 Isithacked | http://www.isithacked.com
