@@ -56,14 +56,15 @@ I wanted to update it with my sources, I will probably continue to update and re
 Name | URL
 ------------------------------------ | ---------------------------------------------
 Android | https://github.com/ashishb/android-security-awesome
-Collection of awesome lists | https://github.com/Hack-with-Github/Awesome-Hacking :trophy:
+Curated list of awesome lists | https://github.com/sindresorhus/awesome :trophy:
+Fuzzing | https://github.com/secfigo/Awesome-Fuzzing
+Hacking list | https://github.com/Hack-with-Github/Awesome-Hacking :trophy:
 Honeypots | https://github.com/paralax/awesome-honeypots :trophy:
 Incident response | https://github.com/meirwah/awesome-incident-response/ :trophy:
 Indicators of compromise | https://github.com/sroberts/awesome-iocs
-Lists of lists of lists | https://github.com/t3chnoboy/awesome-awesome-awesome
 Malware analysis | https://github.com/rshipp/awesome-malware-analysis/ :trophy:
 Reversing | https://github.com/fdivrp/awesome-reversing
-Security list | https://github.com/sbilly/awesome-security
+Security | https://github.com/sbilly/awesome-security
 Threat intelligence | https://github.com/hslatman/awesome-threat-intelligence
 Web | https://github.com/infoslack/awesome-web-hacking
 
@@ -71,27 +72,24 @@ Web | https://github.com/infoslack/awesome-web-hacking
 ## Books :books:
 Name	|URL
 ------------------------------------ | ---------------------------------------------
-Free programming books | https://github.com/vhf/free-programming-books
+Free programming books | https://github.com/EbookFoundation/free-programming-books
 Recommended Reading | http://dfir.org/?q=node/8
 
 
 ## Bug bounty :chocolate_bar:
 Name	|URL
 ------------------------------------ | ---------------------------------------------
+Bounty factory | https://bountyfactory.io
+Bounty source | https://www.bountysource.com/
+Bugcrowd programs | https://bugcrowd.com/programs
+Google | https://www.google.com/about/appsecurity/reward-program/
+HackerOne | https://hackerone.com :+1:
+List of bug bounty | https://www.bugcrowd.com/bug-bounty-list/
+Microsoft | https://technet.microsoft.com/en-us/security/dn425036
+Open bug bounty | https://www.openbugbounty.org/
 Programs and write-ups | https://github.com/djadmin/awesome-bug-bounty
 Write-ups | https://github.com/ngalongc/bug-bounty-reference
-HackerOne | https://hackerone.com :+1:
-BugCrowd.com | https://bugcrowd.com/programs
-Zerodium | https://www.zerodium.com/
-Vul box | https://www.vulbox.com/
-Open bug bounty | https://www.openbugbounty.org/
-BountyFactory | https://bountyfactory.io
-Firebounty | https://firebounty.com
-BountySource | https://www.bountysource.com/
-Hunter edu | http://www.bountyhunteredu.org/careers/
-Google | https://www.google.com/about/appsecurity/reward-program/
-Microsoft | https://technet.microsoft.com/en-us/security/dn425036
-More bug bounty | https://bugcrowd.com/list-of-bug-bounty-programs#
+Zerodium | https://www.zerodium.com/ :+1:
 
 
 ## Cheat sheets :+1:
