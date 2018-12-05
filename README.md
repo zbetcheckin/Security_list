@@ -94,7 +94,8 @@ Zerodium | https://www.zerodium.com/ :star:
 ## Cheat sheets :+1:
 Name | URL
 ------------------------------------ | ---------------------------------------------
-General cheat sheets | http://www.cheat-sheets.org/
+General cheat sheets | http://www.cheat-sheets.org/ :star:
+Java Deserialization | https://github.com/GrrrDog/Java-Deserialization-Cheat-Sheet
 LFI | https://highon.coffee/blog/lfi-cheat-sheet/
 Owasp series | https://www.owasp.org/index.php/OWASP_Cheat_Sheet_Series :star:
 Packet life | http://packetlife.net/library/cheat-sheets/
@@ -103,7 +104,6 @@ Pentest monkey | http://pentestmonkey.net
 SANS Forensic | https://digital-forensics.sans.org/community/cheat-sheets
 Security Onion | https://github.com/Security-Onion-Solutions/security-onion/wiki/Cheat-Sheet
 SQL injection | http://websec.ca/kb/sql_injection
-Reverse | http://r00ted.com/cheat%20sheet%20reverse%20v5.png
 Web application | https://www.owasp.org/index.php/Web_Application_Security_Testing_Cheat_Sheet
 Zeltser's cheat sheets list | https://zeltser.com/cheat-sheets/
 
@@ -128,7 +128,7 @@ Name | URL
 ------------------------------------ | ---------------------------------------------
 Code beautifier | http://codebeautify.org/
 Converter | https://github.com/koczkatamas/koczkatamas.github.io
-Cyber Chef | https://gchq.github.io/CyberChef/ :fork_and_knife:star::star::star:
+Cyber Chef | https://gchq.github.io/CyberChef/ :fork_and_knife::star::star::star:
 JSUnpack | https://github.com/urule99/jsunpack-n
 JSBeautifier | http://jsbeautifier.org/ :star:
 Jjencode | http://utf-8.jp/public/jjencode.html
