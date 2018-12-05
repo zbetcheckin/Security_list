@@ -112,11 +112,13 @@ Zeltser's cheat sheets list | https://zeltser.com/cheat-sheets/
 Name | URL
 ------------------------------------ | ---------------------------------------------
 CTFTIME | https://ctftime.org/
+CTF PAD | https://github.com/StratumAuhuur/CTFPad
 Write-ups | https://github.com/ctfs
 Reddit | https://www.reddit.com/r/securityctf
 Tools list | https://github.com/Laxa/HackingTools
 Tools list | https://github.com/zardus/ctf-tools
 Tools list | https://github.com/apsdehal/awesome-ctf
+Platform list | https://github.com/We5ter/Awesome-Platforms/blob/master/CTF-Platforms.md
 Mellivora platform | https://github.com/Nakiami/mellivora :star:
 Tinyctf platform | https://github.com/balidani/tinyctf-platform
 Isislab platform | https://github.com/isislab/CTFd
@@ -253,6 +255,7 @@ Checkpoint map | https://threatmap.checkpoint.com/ :earth_americas:
 Cymon map | https://cymon.io/map :earth_americas:
 DDoS attacks | http://www.digitalattackmap.com/ :trollface:
 Dead drops | https://deaddrops.com/db/ :floppy_disk::skull:
+Dshield map | https://dshield.org/threatmap.html :earth_americas:
 Eset map | http://www.virusradar.com/ :earth_americas:
 Fire eye map | https://www.fireeye.com/cyber-map/threat-map.html :earth_americas:
 Flight radar | https://www.flightradar24.com :airplane:
@@ -277,6 +280,7 @@ Will be reorganized</sub>
 
 Name	|URL
 ------------------------------------ | ---------------------------------------------
+Abuse Contact DB | https://www.abusix.com/contactdb :closed_book:
 CERT teams | https://www.first.org/about/organization/teams
 Citizen lab | https://citizenlab.org/
 Code analysises | https://en.wikipedia.org/wiki/List_of_tools_for_static_code_analysis
@@ -286,20 +290,19 @@ Darknet stats | https://dnstats.net/
 Deepweb | https://www.reddit.com/r/deepweb/
 Electronic Frontier Foundation | https://www.eff.org/
 Fake ID | http://www.fakenamegenerator.com/
-GZinflate | http://www.tareeinternet.com/scripts/decrypt.php
 Hackforum | http://hackforums.net/ :trollface:
+Hardened BSD | https://hardenedbsd.org/content/easy-feature-comparison
 Hashes example | https://hashcat.net/wiki/doku.php?id=example_hashes
 Mibbit | http://www.mibbit.com/
 Microsoft threat | http://www.microsoft.com/security
-MIME types | https://www.iana.org/assignments/media-types/media-types.xhtml :star:
 MIME types | https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_types/Complete_list_of_MIME_types
+MIME types | https://slick.pl/kb/htaccess/complete-list-mime-types/
+MIME types | https://www.iana.org/assignments/media-types/media-types.xhtml :star:
 Mindmaps | http://www.amanhardikar.com/mindmaps.html :star::star::star:
 Random data generator | http://www.mockaroo.com/
-Sandsprite | http://sandsprite.com/shellcode_2_exe.php
 Sans | http://isc.sans.edu/diary/ :star::star:
 Security wiki | http://oss-security.openwall.org/wiki/
-Tools | http://seclist.us/
-Understand your commands | http://explainshell.com :star:
+Understand your commands | https://explainshell.com/ :star:
 
 
 ## GNU/Linux
@@ -677,9 +680,9 @@ CrackMe.de | http://crackmes.de/
 Reversing | http://reversing.kr/
 Pwnable | http://pwnable.kr/
 Newbiecontest | https://www.newbiecontest.org/
-OWASP VWAD list | https://github.com/OWASP/OWASP-VWAD/blob/master/src/online.tsv
+OWASP VWAD list | https://github.com/OWASP/OWASP-VWAD/
 WeChall | https://www.wechall.net/
-Vulnhub | https://www.vulnhub.com/
+Vulnhub | https://www.vulnhub.com/ :star:
 Net Garage | http://io.netgarage.org/
 SmashTheStack | http://smashthestack.org/
 Hackthissite | http://www.hackthissite.org/
