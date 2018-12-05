@@ -398,6 +398,7 @@ Security talks | https://github.com/PaulSec/awesome-sec-talks :star:
 ## Lock picking :closed_lock_with_key:
 Name | URL
 ------------------------------------ | ---------------------------------------------
+Awesome lockpicking | https://github.com/meitar/awesome-lockpicking
 Lock pick guide | http://lockpickguide.com :star:
 Bosnianbill video | https://www.youtube.com/user/bosnianbill/videos :star:
 Lock lab | https://lock-lab.com/
