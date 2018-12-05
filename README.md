@@ -197,7 +197,6 @@ Vulndb | https://vuldb.com/?archive.2016
 Vulners | https://vulners.com/search?query=order:published
 Backdoor - TCP-32764 | https://github.com/elvanderb/TCP-32764
 Rapid7 DB | https://www.rapid7.com/db/modules/
-Intelligent Exploit | http://www.intelligentexploit.com
 NIST | http://web.nvd.nist.gov/
 Security focus | http://www.securityfocus.com/vulnerabilities
 Country compatibility | https://cve.mitre.org/compatible/country.html
@@ -288,9 +287,8 @@ Deepweb | https://www.reddit.com/r/deepweb/
 Electronic Frontier Foundation | https://www.eff.org/
 Fake ID | http://www.fakenamegenerator.com/
 GZinflate | http://www.tareeinternet.com/scripts/decrypt.php
-Hackforum | http://hackforums.net/
+Hackforum | http://hackforums.net/ :trollface:
 Hashes example | https://hashcat.net/wiki/doku.php?id=example_hashes
-Hurl | http://www.hurl.it/
 Mibbit | http://www.mibbit.com/
 Microsoft threat | http://www.microsoft.com/security
 MIME types | https://www.iana.org/assignments/media-types/media-types.xhtml :star:
@@ -298,9 +296,8 @@ MIME types | https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MI
 Mindmaps | http://www.amanhardikar.com/mindmaps.html :star::star::star:
 Random data generator | http://www.mockaroo.com/
 Sandsprite | http://sandsprite.com/shellcode_2_exe.php
-Sans | http://isc.sans.edu/diary/
+Sans | http://isc.sans.edu/diary/ :star::star:
 Security wiki | http://oss-security.openwall.org/wiki/
-Skimmers | https://krebsonsecurity.com/all-about-skimmers/
 Tools | http://seclist.us/
 Understand your commands | http://explainshell.com :star:
 
@@ -372,7 +369,6 @@ Name | URL
 Awesome training | http://opensecuritytraining.info/Training.html :star::star:
 Cybrary training | https://www.cybrary.it/
 Essential basics | https://github.com/alex/what-happens-when :trophy:
-Exploits | https://exploit-exercises.com/
 Exploits | https://thesprawl.org/research/
 F-Secure training | http://mooc.fi/courses/2016/cybersecurity/
 Malware Analysis course | https://github.com/RPISEC/Malware :star::star:
@@ -493,17 +489,13 @@ Name	|URL
 Malwr - Cuckoo | https://malwr.com/
 Hybrid analysis | https://www.hybrid-analysis.com/
 PE dump | https://github.com/zed-0xff/pedump
-Yararules | https://analysis.yararules.com/
 Virscan	| http://www.virscan.org/
-Virusade | http://virusade.com/
 VirusTotal | http://www.virustotal.com/
 Malwareconfig | http://malwareconfig.com/
 AVcaesar | https://avcaesar.malware.lu/
 Detux GNU/Linux sandbox | http://detux.org/
-Mastiff online | https://mastiff-online.korelogic.com/
 AndroTotal | https://andrototal.org/
 Comodo | https://cit.valkyrie.comodo.com/
-VirScan | http://r.virscan.org/
 ID Ransomware | https://id-ransomware.malwarehunterteam.com/
 Document Analyzer | http://www.document-analyzer.net/
 Malware tracker | http://www.cryptam.com/
@@ -599,7 +591,6 @@ stronghold - Easily configure MacOS security settings from the terminal. | https
 ## Passwords :key:
 Name | URL
 ------------------------------------ | ---------------------------------------------
-Cotse | http://www.cotse.com/tools/wordlists.htm
 CrackStation | https://crackstation.net/buy-crackstation-wordlist-password-cracking-dictionary.htm
 Default password | https://default-password.info/
 Default password | https://cirt.net/passwords
@@ -646,7 +637,6 @@ Reverse engineering | http://wiki.yobi.be/wiki/Reverse-Engineering
 SANS Penetration Testing | http://pen-testing.sans.org
 Services enumeration | http://www.0daysecurity.com/penetration-testing/enumeration.html :star: Thx [rawger](https://twitter.com/_rawger)
 Tools - BlackArch list | https://blackarch.org/tools.html
-Tools - Cotse| http://www.cotse.com/tools/
 Tools - Great list | http://wiki.yobi.be/wiki/Table_of_contents#Security
 Tools - Kali list | http://tools.kali.org/tools-listing
 Web | http://www.w4rri0r.com/hacking-tools-windows-os-x-linux-android-solaris-unixware/web-application-analysis.html
@@ -700,7 +690,6 @@ Bright-shadows | http://www.bright-shadows.net/
 SmashTheStack | http://smashthestack.org/
 Ringzer0team | https://ringzer0team.com/challenges
 Forensic contest | http://forensicscontest.com/puzzles
-Dareyourmind | http://www.dareyourmind.net
 Lost chall | http://www.lost-chall.org/
 Rankk | http://www.rankk.org/
 Happy Security | http://www.happy-security.de/
@@ -741,7 +730,6 @@ OWASP tests - Procedure | [https://www.owasp.org/index.php/Testing_for_Weak_SSL/
 Qualys SSL Labs	- Online analysis | https://www.ssllabs.com/ssltest/
 SSLscan - Tools | https://github.com/rbsec/sslscan
 SSLyze - Tools | https://github.com/iSECPartners/sslyze
-Symantec report - Online analysis | https://cryptoreport.websecurity.symantec.com/checker/
 Testssl.sh - Tools | https://github.com/drwetter/testssl.sh :star:
 
 
@@ -756,7 +744,7 @@ Search engine - Grams | http://grams7enufi7jmdl.onion/
 Search engine - Ahmia | https://ahmia.fi/
 Search engine - TORCH | http://xmh57jrzrnw6insl.onion/
 Search engine - DuckDuckGo | http://3g2upl4pq6kufc4m.onion/
-Tails |	https://blog.torproject.org/blogs/tails
+Tails |	https://tails.boum.org/
 The hidden wiki | https://thehiddenwiki.org/
 Tolerant ISP for exit node | https://trac.torproject.org/projects/tor/wiki/doc/GoodBadISPs
 Tor Browser Fingerprint | https://github.com/jonaslejon/tor-fingerprint
@@ -799,7 +787,6 @@ LampSecurity | http://sourceforge.net/projects/lampsecurity/
 Hackademic-RTB1 | http://www.aldeid.com/wiki/Hackademic-RTB1
 Moth | http://www.bonsai-sec.com
 Peruggia | http://sourceforge.net/projects/peruggia/
-XSS play ground	| http://xssplayground.net23.net/
 
 
 ## Web browser
