@@ -9,7 +9,7 @@ Inspired by http://www.nothink.org/utilities.php
 * [Bug bounty](#bug-bounty-chocolate_bar)
 * [Cheat sheets](#cheat-sheets-1)
 * [CTF](#ctf-triangular_flag_on_post)
-* [Decoder/Packer/Unpacker](#decoderpackerunpacker-hurtrealbad)
+* [Decoder/Converter/Beautifier](#decoderconverterbeautifier-hurtrealbad)
 * [Domain name Research / Analysis / Reputation](#domain-name-research--analysis--reputation-chart_with_downwards_trend)
 * [Exploits and vulnerabilities](#exploits-and-vulnerabilities-door)
 * [Forensic](#forensic-mag)
@@ -123,28 +123,17 @@ Isislab platform | https://github.com/isislab/CTFd
 Facebook platform | https://github.com/facebook/fbctf
 
 
-## Decoder/Packer/Unpacker :hurtrealbad:
+## Decoder/Converter/Beautifier :hurtrealbad:
 Name | URL
 ------------------------------------ | ---------------------------------------------
 Code beautifier | http://codebeautify.org/
-VB code beautifier | http://www.vbindent.com/
-PHP formatter | http://beta.phpformatter.com/
-PHPdecoder | http://ddecode.com/phpdecoder/
-PHP encoding | http://yehg.net/encoding/
-XML formatter | http://chris.photobooks.com/xml/default.htm
-JSDetox | http://www.relentless-coding.com/projects/jsdetox/
-JSNice | http://www.jsnice.org/
+Converter | https://github.com/koczkatamas/koczkatamas.github.io
+Cyber Chef | https://gchq.github.io/CyberChef/ :fork_and_knife:star::star::star:
 JSUnpack | https://github.com/urule99/jsunpack-n
-JSBeautifier | http://jsbeautifier.org/
-JavaScript Compressor | http://dean.edwards.name/packer/
+JSBeautifier | http://jsbeautifier.org/ :star:
 Jjencode | http://utf-8.jp/public/jjencode.html
-JSFuck | http://www.jsfuck.com/
-Js obfuscate | http://www.jsobfuscate.com/
 JS deobfuscate | https://github.com/sevzero/honeybadger
-Colour higlighter | http://quickhighlighter.com/
-URL | http://meyerweb.com/eric/tools/dencoder/
-HEXdecoder | http://ddecode.com/hexdecoder/
-Hackvertor (Tag based decoder/encoder) | https://hackvertor.co.uk/public
+VB code beautifier | http://www.vbindent.com/
 
 
 ## Domain name Research / Analysis / Reputation :chart_with_downwards_trend:
