@@ -316,6 +316,7 @@ GNU/Linux post exploitation | https://github.com/mubix/post-exploitation/wiki/Li
 GNU/Linux workstation | https://github.com/lfit/itpol/blob/master/linux-workstation-security.md :star::star:
 Kernel exploitation | https://github.com/xairy/linux-kernel-exploitation
 Lynis | https://packages.debian.org/en/jessie/lynis
+RE 101 | https://github.com/michalmalik/linux-re-101
 RKhunter | https://packages.debian.org/en/jessie/rkhunter :star:
 Securing debian | https://www.debian.org/doc/manuals/securing-debian-howto/ch10.en.html :star:
 Vulnerability scanner | https://github.com/future-architect/vuls
@@ -428,37 +429,37 @@ p0f | http://lcamtuf.coredump.cx/p0f3/
 ## Malware / Botnet sources :angel:
 Name | URL
 ------------------------------------ | ---------------------------------------------
+Abuse CH | https://www.abuse.ch/
+Botnet.fr | https://www.botnets.fr/wiki/Main_Page
+Clean MX | http://support.clean-mx.de/clean-mx/viruses.php
+Contagio | http://contagiodump.blogspot.se/
+Custom Google search engine | https://cse.google.com/cse/home?cx=011750002002865445766%3Apc60zx1rliu (from Corey Harrell)
 Cybercrime tracker | http://cybercrime-tracker.net/
+Dont need coffee | http://malware.dontneedcoffee.com/
+Exposed Botnets	| http://www.exposedbotnets.com/
 Malc0de	| http://malc0de.com/database/
 Malekal	| http://malwaredb.malekal.com/
-Abuse CH | https://www.abuse.ch/
+No more ransom | https://www.nomoreransom.org/
 Tracker | http://tracker.h3x.eu/
 Kernel mode | http://www.kernelmode.info
 Malware domain list | http://www.malwaredomainlist.com
-Botnet.fr | https://www.botnets.fr/wiki/Main_Page
-Exposed Botnets	| http://www.exposedbotnets.com/
-Dont need coffee | http://malware.dontneedcoffee.com/
-VX Vault | http://vxvault.net/
-Malware binaries | https://github.com/ytisf/theZoo/tree/master/malwares/Binaries
-Total hash | https://totalhash.cymru.com/
-ZeuS Tracker | https://zeustracker.abuse.ch
-Contagio | http://contagiodump.blogspot.se/
-Yararules | https://github.com/Yara-Rules/rules
-Custom Google search engine | https://cse.google.com/cse/home?cx=011750002002865445766%3Apc60zx1rliu (from Corey Harrell)
-Ransomware tracker | https://ransomwaretracker.abuse.ch/tracker/
+Malware domain blocklist | http://www.malwaredomains.com
+Malware museum | https://archive.org/details/malwaremuseum
+Malware src | https://malwares.github.io/
+Malware.lu | https://malware.lu/
+MISP | https://github.com/MISP/MISP
 Ransomware overview | https://docs.google.com/spreadsheets/d/1TWS238xacAto-fLKh1n5uTsdijWdCEsGIM0Y0Hvmc5g/pubhtml#
 Ransomware simulator | https://shinolocker.com/
-No more ransom | https://www.nomoreransom.org/
-VirusShare | http://virusshare.com/
-Malware.lu | https://malware.lu/
+Ransomware tracker | https://ransomwaretracker.abuse.ch/tracker/
 SafeGroup | http://www.malware.pl/ - https://www.scumware.org/
-Clean MX | http://support.clean-mx.de/clean-mx/viruses.php
-Malware domain blocklist | http://www.malwaredomains.com
 Structured Threat Information eXpression | https://stixproject.github.io/
 The Zoo aka Malware DB | https://ytisf.github.io/theZoo/
-MISP | https://github.com/MISP/MISP
-Maltrieve crawler | https://github.com/technoskald/maltrieve
-Malware museum | https://archive.org/details/malwaremuseum
+Total hash | https://totalhash.cymru.com/
+VirusBay | https://beta.virusbay.io/
+VirusShare | http://virusshare.com/
+VX Vault | http://vxvault.net/
+Yararules | https://github.com/Yara-Rules/rules
+ZeuS Tracker | https://zeustracker.abuse.ch
 
 
 ## Malware analysis - Sandbox :mask:
@@ -480,7 +481,6 @@ Noriben | https://github.com/Rurik/Noriben
 Malheur | https://github.com/rieck/malheur
 Drakvuf | https://github.com/tklengyel/drakvuf
 Zero Wine Tryouts | http://zerowine-tryout.sourceforge.net/
-CWSandbox | http://www.cwsandbox.org
 RFI sandbox | https://monkey.org/~jose/software/rfi-sandbox/
 Malwasm | https://github.com/malwarelu/malwasm
 
@@ -488,39 +488,37 @@ Malwasm | https://github.com/malwarelu/malwasm
 ## Malware analysis - Sandbox - Online :mask:
 Name	|URL
 ------------------------------------ | ---------------------------------------------
-Malwr - Cuckoo | https://malwr.com/
+Any.run | https://any.run/
+AVcaesar | https://avcaesar.malware.lu/
+Cape | https://cape.contextis.com/
+Comodo | https://cit.valkyrie.comodo.com/
 Hybrid analysis | https://www.hybrid-analysis.com/
+ID Ransomware | https://id-ransomware.malwarehunterteam.com/
+Jotti | http://virusscan.jotti.org/it
+Joe sandbox | https://www.joesandbox.com/
+Malwareconfig | http://malwareconfig.com/
+Malware tracker | http://www.cryptam.com/
+Malwr - Cuckoo | https://malwr.com/
+Other list | http://cleanbytes.net/malware-online-scanners
+PDF examiner | http://www.pdfexaminer.com/
 PE dump | https://github.com/zed-0xff/pedump
+Randomly changes Win32/64 PE Files | https://github.com/secretsquirrel/recomposer
+ViCheck | https://www.vicheck.ca/
 Virscan	| http://www.virscan.org/
 VirusTotal | http://www.virustotal.com/
-Malwareconfig | http://malwareconfig.com/
-AVcaesar | https://avcaesar.malware.lu/
-Detux GNU/Linux sandbox | http://detux.org/
-AndroTotal | https://andrototal.org/
-Comodo | https://cit.valkyrie.comodo.com/
-ID Ransomware | https://id-ransomware.malwarehunterteam.com/
-Document Analyzer | http://www.document-analyzer.net/
-Malware tracker | http://www.cryptam.com/
-Metascan | https://www.metadefender.com/#!/scan-file
-Jotti | http://virusscan.jotti.org/it
-ViCheck | https://www.vicheck.ca/
-PDF examiner | http://www.pdfexaminer.com/
-Malware tracker | https://www.malwaretracker.com
-ThreadExpert | http://www.threatexpert.com/submit.aspx
-Randomly changes Win32/64 PE Files | https://github.com/secretsquirrel/recomposer
 Virus Total Notifier | https://github.com/mubix/vt-notify
-Other list | http://cleanbytes.net/malware-online-scanners
-Sand droid | http://sanddroid.xjtu.edu.cn
 
 
 ## Mobile :iphone:
 Name	|URL
 ------------------------------------ | ---------------------------------------------
+AndroTotal | https://andrototal.org/
 APK Analzyer | http://www.apk-analyzer.net/
 Droid Sec wiki | http://www.droidsec.org/wiki/
 Joebox Cloud | https://jbxcloud.joesecurity.org/login
 Mobile security wiki | https://mobilesecuritywiki.com/ :star:
 OWASP Goat Droid | https://www.owasp.org/index.php/Projects/OWASP_GoatDroid_Project
+Sand droid | http://sanddroid.xjtu.edu.cn
 Tracedroid | http://tracedroid.few.vu.nl
 Wiki secmobi | https://github.com/secmobi/wiki.secmobi.com :trophy:
 
