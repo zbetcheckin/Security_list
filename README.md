@@ -33,7 +33,7 @@ Inspired by http://www.nothink.org/utilities.php
 * [OS X](#os-x)
 * [Passwords](#passwords-key)
 * [Penetration testing](#penetration-testing-wrench)
-* [Port scanners](#port-scanners-dart)
+* [Port scanners](##port-scanners-dart--wide-scans-statue_of_liberty)
 * [Search engines](#search-engines-satellite)
 * [Security challenges / WarGames](#security-challenges--wargames-triangular_flag_on_post)
 * [Skimmer](#skimmer-black_joker)
@@ -643,6 +643,7 @@ Tools - Great list | http://wiki.yobi.be/wiki/Table_of_contents#Security
 Tools - Kali list | http://tools.kali.org/tools-listing
 Web | http://www.w4rri0r.com/hacking-tools-windows-os-x-linux-android-solaris-unixware/web-application-analysis.html
 Web vulnerabilities | http://www.w4rri0r.com/hacking-tools-windows-os-x-linux-android-solaris-unixware/vulnerability-assessment.html
+Webshell list | https://github.com/tennc/webshell
 
 
 ## Port scanners :dart: && Wide Scans :statue_of_liberty:
@@ -822,6 +823,7 @@ User agent | https://www.whatismybrowser.com/developers/tools/user-agent-parser/
 Name | URL
 ------------------------------------ | ---------------------------------------------
 Anti forensic Windows | https://www.reddit.com/r/security/comments/32fb1l/open_guide_to_scrubbing_windows_oss_from_forensic/
+Security development | https://github.com/ExpLife0011/awesome-windows-kernel-security-development
 Windows executable walkthrough | https://i.imgur.com/pHjcI.png
 Windows exploitation | https://github.com/enddo/awesome-windows-exploitation
 Windows hardening | https://github.com/PaulSec/awesome-windows-domain-hardening
