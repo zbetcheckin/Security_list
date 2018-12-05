@@ -44,7 +44,6 @@ Inspired by http://www.nothink.org/utilities.php
 * [VPN](#vpn)
 * [Vulnerable environments](#vulnerable-environments-unlock)
 * [Web browser](#web-browser)
-* [Wide Scans](#wide-scans-earth_americas)
 * [Windows](#windows)
 * [Wireless / Radio](#wireless--radio-signal_strength)
 
@@ -646,21 +645,27 @@ Web | http://www.w4rri0r.com/hacking-tools-windows-os-x-linux-android-solaris-un
 Web vulnerabilities | http://www.w4rri0r.com/hacking-tools-windows-os-x-linux-android-solaris-unixware/vulnerability-assessment.html
 
 
-## Port scanners :dart:
+## Port scanners :dart: && Wide Scans :statue_of_liberty:
 Name | URL
 ------------------------------------ | ---------------------------------------------
 Masscan | https://github.com/robertdavidgraham/masscan
+Masscan Defcon conference | [https://defcon.org/](https://defcon.org/images/defcon-22/dc-22-presentations/Graham-McMillan-Tentler/DEFCON-22-Graham-McMillan-Tentler-Masscaning-the-Internet.pdf)
 Nmap | https://nmap.org/7/
-Zmap | https://zmap.io/
-Zgrab | https://github.com/zmap/zgrab (Banner Grabber)
 Nscan | https://github.com/OffensivePython/Nscan
-PFRing | https://github.com/ntop/PF_RING - High-speed packet processing framework
+PFRing | https://github.com/ntop/PF_RING
+Rapid7 Sonar Labs | https://sonar.labs.rapid7.com/
+Rapid7 Sonar Blackhat conference | [https://www.blackhat.com/](https://www.blackhat.com/docs/asia-14/materials/Schloesser/Asia-14-Schloesser-Scan-All-The-Things.pdf)
+Scans.io | https://scans.io/
+Shadowserver | https://www.shadowserver.org/ :trophy::trophy:
+Sonar similar projects | https://github.com/rapid7/sonar/wiki/Similar-Projects
+Zmap | https://zmap.io/
+Zgrab | https://github.com/zmap/zgrab
 
 
 ## Search engines :satellite:
 Name | URL
 ------------------------------------ | ---------------------------------------------
-ZoomEye | https://zoomeye.org/ :star:
+ZoomEye | https://zoomeye.org/ :star::cn:
 Shodan | https://www.shodan.io/
 Censys | https://censys.io/
 Gegereka | http://gegereka.com/ (not always up)
@@ -820,16 +825,6 @@ Anti forensic Windows | https://www.reddit.com/r/security/comments/32fb1l/open_g
 Windows executable walkthrough | https://i.imgur.com/pHjcI.png
 Windows exploitation | https://github.com/enddo/awesome-windows-exploitation
 Windows hardening | https://github.com/PaulSec/awesome-windows-domain-hardening
-
-
-## Wide Scans :earth_americas:
-Name | URL
--------------------------------------------- | ---------------------------------------------
-Scans.io | https://scans.io/
-Rapid7 Sonar Labs | https://sonar.labs.rapid7.com/
-Similar projects | https://github.com/rapid7/sonar/wiki/Similar-Projects
-Defcon conference | [https://defcon.org/](https://defcon.org/images/defcon-22/dc-22-presentations/Graham-McMillan-Tentler/DEFCON-22-Graham-McMillan-Tentler-Masscaning-the-Internet.pdf)
-Blackhat conference | [https://www.blackhat.com/](https://www.blackhat.com/docs/asia-14/materials/Schloesser/Asia-14-Schloesser-Scan-All-The-Things.pdf)
 
 
 ## Wireless / Radio :signal_strength:
