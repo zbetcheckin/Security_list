@@ -357,7 +357,9 @@ Whatch Guard | http://www.reputationauthority.org/
 ## Leak / Defaced :ambulance:
 Name | URL
 ------------------------------------ | ---------------------------------------------
+Biggest db leaks | https://cdn.databases.today/
 Breach alarm | https://breachalarm.com/
+Darknet leaks | https://darknetleaks.ru/archive/leaked/dumps/
 Hacked emails | https://hacked-emails.com/
 Have I been pwned | https://haveibeenpwned.com/
 Isithacked | http://www.isithacked.com
