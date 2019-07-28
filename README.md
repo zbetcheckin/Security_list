@@ -416,10 +416,12 @@ Yop mail | http://www.yopmail.com/
 ## Malicious traffic detection :vertical_traffic_light:
 Name | URL
 ------------------------------------------- | ---------------------------------------------
+10 strategies cyber ops center | [pr-13-1028-mitre-10-strategies-cyber-ops-center.pdf](https://www.mitre.org/sites/default/files/publications/pr-13-1028-mitre-10-strategies-cyber-ops-center.pdf)
+Awesome threat detection | https://github.com/0x4D31/awesome-threat-detection
 Maltrail | https://github.com/stamparm/maltrail
-Tsusen | https://github.com/stamparm/tsusen
 Packetbeat | https://www.elastic.co/products/beats/packetbeat
 p0f | http://lcamtuf.coredump.cx/p0f3/
+Tsusen | https://github.com/stamparm/tsusen
 
 
 ## Malware / Botnet sources :angel:
