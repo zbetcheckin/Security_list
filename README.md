@@ -246,7 +246,7 @@ Red-pill | http://shells.red-pill.eu/
 ## Fun :trollface:
 Name | URL
 ------------------------------------ | ---------------------------------------------
-Akamai map | https://www.akamai.com/fr/fr/solutions/intelligent-platform/visualizing-akamai/real-time-web-monitor.jsp :earth_americas:
+Akamai map | https://www.akamai.com/us/en/resources/visualizing-akamai/real-time-web-monitor.jsp :earth_americas:
 Bitdefender map | https://threatmap.bitdefender.com/ :earth_americas:
 Blueliv map | https://community.blueliv.com/map/ :earth_americas:
 Checkpoint map | https://threatmap.checkpoint.com/ :earth_americas:
@@ -266,6 +266,7 @@ Pwnie Awards | http://pwnies.com/nominations/ :horse:
 Sub marine cable | http://www.submarinecablemap.com/ :anchor:
 Sub marine cable | http://submarine-cable-map-2016.telegeography.com/ :anchor:
 Sub marine cable | http://lifewinning.com/submarine-cable-taps/ :anchor:
+Threat butt | https://threatbutt.com/map/ :earth_americas::clown_face:
 Tor flow map | https://torflow.uncharted.software :earth_americas:
 Trendmicro map | https://botnet-cd.trendmicro.com/ :earth_americas:
 World of VNC | https://worldofvnc.net/ :santa:
