@@ -53,10 +53,10 @@ Inspired by http://www.nothink.org/utilities.php
 Name | URL
 ------------------------------------ | ---------------------------------------------
 Android | https://github.com/ashishb/android-security-awesome
-Curated list of awesome lists | https://github.com/sindresorhus/awesome :star::star::star:
+Curated list of awesome lists | https://github.com/sindresorhus/awesome :star:
 Fuzzing | https://github.com/secfigo/Awesome-Fuzzing
-Hacking list | https://github.com/Hack-with-Github/Awesome-Hacking :star::star::star::star:
-Honeypots | https://github.com/paralax/awesome-honeypots :star::star:
+Hacking list | https://github.com/Hack-with-Github/Awesome-Hacking :star::star::star:
+Honeypots | https://github.com/paralax/awesome-honeypots :star:
 Incident response | https://github.com/meirwah/awesome-incident-response/ :star::star:
 Indicators of compromise | https://github.com/sroberts/awesome-iocs
 Info sec | https://github.com/rmusser01/Infosec_Reference
@@ -79,8 +79,7 @@ Recommended Reading | http://dfir.org/?q=node/8
 Name	|URL
 ------------------------------------ | ---------------------------------------------
 Bounty factory | https://bountyfactory.io
-Bounty source | https://www.bountysource.com/
-Bugcrowd programs | https://bugcrowd.com/programs
+Bugcrowd | https://bugcrowd.com/programs
 Google | https://www.google.com/about/appsecurity/reward-program/
 HackerOne | https://hackerone.com :star:
 List of bug bounty | https://www.bugcrowd.com/bug-bounty-list/
@@ -88,7 +87,7 @@ Microsoft | https://technet.microsoft.com/en-us/security/dn425036
 Open bug bounty | https://www.openbugbounty.org/
 Programs and write-ups | https://github.com/djadmin/awesome-bug-bounty
 Write-ups | https://github.com/ngalongc/bug-bounty-reference
-Zerodium | https://www.zerodium.com/ :star:
+Zerodium | https://www.zerodium.com/ :moneybag::trollface:
 
 
 ## Cheat sheets :+1:
