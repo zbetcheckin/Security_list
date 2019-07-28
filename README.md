@@ -365,7 +365,7 @@ Name | URL
 ------------------------------------ | ---------------------------------------------
 Awesome training | http://opensecuritytraining.info/Training.html :star::star:
 Cybrary training | https://www.cybrary.it/
-Essential basics | https://github.com/alex/what-happens-when :trophy:
+Essential basics | https://github.com/alex/what-happens-when :star::star:
 Exploits | https://thesprawl.org/research/
 F-Secure training | https://moocfi.github.io/courses/2017/cybersecurity/
 Malware Analysis course | https://github.com/RPISEC/Malware :star::star:
@@ -374,6 +374,7 @@ Network - Forensic | https://www.honeynet.org/node/504
 Practical analysis | https://practicalmalwareanalysis.com/labs/
 Reverse - Malware | http://fumalwareanalysis.blogspot.se/p/malware-analysis-tutorials-reverse.html
 Security courses | https://bitvijays.github.io/ :star:
+Security training | https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/Courses_Training.md
 Security talks | https://github.com/PaulSec/awesome-sec-talks :star:
 
 
@@ -424,7 +425,9 @@ p0f | http://lcamtuf.coredump.cx/p0f3/
 ## Malware / Botnet sources :angel:
 Name | URL
 ------------------------------------ | ---------------------------------------------
+0btemoslab tracker | http://tracker.0btemoslab.com/
 Abuse CH | https://www.abuse.ch/
+Benkow.cc tracker | http://benkow.cc/
 Botnet.fr | https://www.botnets.fr/wiki/Main_Page
 Clean MX | http://support.clean-mx.de/clean-mx/viruses.php
 Contagio | http://contagiodump.blogspot.se/
@@ -432,15 +435,16 @@ Custom Google search engine | https://cse.google.com/cse/home?cx=011750002002865
 Cybercrime tracker | http://cybercrime-tracker.net/
 Dont need coffee | http://malware.dontneedcoffee.com/
 Exposed Botnets	| http://www.exposedbotnets.com/
+H3X tracker | http://tracker.h3x.eu/
 Malc0de	| http://malc0de.com/database/
 No more ransom | https://www.nomoreransom.org/
-Tracker | http://tracker.h3x.eu/
 Kernel mode | http://www.kernelmode.info
 Malware domain list | http://www.malwaredomainlist.com
 Malware domain blocklist | http://www.malwaredomains.com
 Malware museum | https://archive.org/details/malwaremuseum
 Malware src | https://malwares.github.io/
 Malware.lu | https://malware.lu/
+Mirai tracker | https://mirai.security.gives/
 MISP | https://github.com/MISP/MISP
 Ransomware overview | https://docs.google.com/spreadsheets/d/1TWS238xacAto-fLKh1n5uTsdijWdCEsGIM0Y0Hvmc5g/pubhtml#
 Ransomware simulator | https://shinolocker.com/
