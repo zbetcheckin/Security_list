@@ -33,7 +33,7 @@ Inspired by http://www.nothink.org/utilities.php
 * [OS X](#os-x)
 * [Passwords](#passwords-key)
 * [Penetration testing](#penetration-testing-wrench)
-* [Port scanners](##port-scanners-dart--wide-scans-statue_of_liberty)
+* [Port scanners / Wide scans](#port-scanners-dart--wide-scans-statue_of_liberty)
 * [Search engines](#search-engines-satellite)
 * [Security challenges / WarGames](#security-challenges--wargames-triangular_flag_on_post)
 * [Skimmer](#skimmer-black_joker)
@@ -59,12 +59,13 @@ Hacking list | https://github.com/Hack-with-Github/Awesome-Hacking :star::star::
 Honeypots | https://github.com/paralax/awesome-honeypots :star::star:
 Incident response | https://github.com/meirwah/awesome-incident-response/ :star::star:
 Indicators of compromise | https://github.com/sroberts/awesome-iocs
+Info sec | https://github.com/rmusser01/Infosec_Reference
 Malware analysis | https://github.com/rshipp/awesome-malware-analysis/ :star::star::star:
 Red team | https://github.com/yeyintminthuhtut/Awesome-Red-Teaming
 Reversing | https://github.com/fdivrp/awesome-reversing
 Security | https://github.com/sbilly/awesome-security
 Threat intelligence | https://github.com/hslatman/awesome-threat-intelligence
-Web | https://github.com/infoslack/awesome-web-hacking
+Web | https://github.com/qazbnm456/awesome-web-security/ https://github.com/infoslack/awesome-web-hacking
 
 
 ## Books :books:
@@ -629,7 +630,7 @@ Python tools for pentest | https://github.com/dloss/python-pentest-tools
 Report sample | https://www.offensive-security.com/reports/sample-penetration-testing-report.pdf
 Reverse engineering | http://wiki.yobi.be/wiki/Reverse-Engineering
 SANS Penetration Testing | http://pen-testing.sans.org
-Services enumeration | http://www.0daysecurity.com/penetration-testing/enumeration.html :star: Thx [rawger](https://twitter.com/_rawger)
+Services enumeration | http://www.0daysecurity.com/penetration-testing/enumeration.html :star:
 Tools - BlackArch list | https://blackarch.org/tools.html
 Tools - Great list | http://wiki.yobi.be/wiki/Table_of_contents#Security
 Tools - Kali list | http://tools.kali.org/tools-listing
@@ -643,14 +644,16 @@ Name | URL
 ------------------------------------ | ---------------------------------------------
 Masscan | https://github.com/robertdavidgraham/masscan
 Masscan Defcon conference | [https://defcon.org/](https://defcon.org/images/defcon-22/dc-22-presentations/Graham-McMillan-Tentler/DEFCON-22-Graham-McMillan-Tentler-Masscaning-the-Internet.pdf)
+Network Scan Mon | https://scan.netlab.360.com/#/dashboard
 Nmap | https://nmap.org/7/
 Nscan | https://github.com/OffensivePython/Nscan
 PFRing | https://github.com/ntop/PF_RING
 Rapid7 Sonar Labs | https://sonar.labs.rapid7.com/
 Rapid7 Sonar Blackhat conference | [https://www.blackhat.com/](https://www.blackhat.com/docs/asia-14/materials/Schloesser/Asia-14-Schloesser-Scan-All-The-Things.pdf)
 Scans.io | https://scans.io/
-Shadowserver | https://www.shadowserver.org/ :trophy::trophy:
+Shadowserver | https://www.shadowserver.org/ :star::star::star::star:
 Sonar similar projects | https://github.com/rapid7/sonar/wiki/Similar-Projects
+Trending Ports | https://isc.sans.edu/trends.html
 Zmap | https://zmap.io/
 Zgrab | https://github.com/zmap/zgrab
 
