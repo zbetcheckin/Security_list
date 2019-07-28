@@ -94,34 +94,28 @@ Zerodium | https://www.zerodium.com/ :moneybag::trollface:
 Name | URL
 ------------------------------------ | ---------------------------------------------
 General cheat sheets | http://www.cheat-sheets.org/ :star:
-Java Deserialization | https://github.com/GrrrDog/Java-Deserialization-Cheat-Sheet
-LFI | https://highon.coffee/blog/lfi-cheat-sheet/
-Owasp series | https://www.owasp.org/index.php/OWASP_Cheat_Sheet_Series :star:
+Owasp series | https://github.com/OWASP/CheatSheetSeries :star::star:
 Packet life | http://packetlife.net/library/cheat-sheets/
 Penetration test | https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/
 Pentest monkey | http://pentestmonkey.net
 SANS Forensic | https://digital-forensics.sans.org/community/cheat-sheets
 Security Onion | https://github.com/Security-Onion-Solutions/security-onion/wiki/Cheat-Sheet
-SQL injection | http://websec.ca/kb/sql_injection
-Web application | https://www.owasp.org/index.php/Web_Application_Security_Testing_Cheat_Sheet
 Zeltser's cheat sheets list | https://zeltser.com/cheat-sheets/
 
 
 ## CTF :triangular_flag_on_post:
 Name | URL
 ------------------------------------ | ---------------------------------------------
-CTFTIME | https://ctftime.org/
+Awesome CTF | https://github.com/apsdehal/awesome-ctf :star::star:
+CTFd platform | https://github.com/CTFd/CTFd :star:
 CTF PAD | https://github.com/StratumAuhuur/CTFPad
-Write-ups | https://github.com/ctfs
+CTF TIME | https://ctftime.org/
+Mellivora platform | https://github.com/Nakiami/mellivora :star:
+Platform list | https://github.com/We5ter/Awesome-Platforms/blob/master/CTF-Platforms.md
 Reddit | https://www.reddit.com/r/securityctf
 Tools list | https://github.com/Laxa/HackingTools
 Tools list | https://github.com/zardus/ctf-tools
-Tools list | https://github.com/apsdehal/awesome-ctf
-Platform list | https://github.com/We5ter/Awesome-Platforms/blob/master/CTF-Platforms.md
-Mellivora platform | https://github.com/Nakiami/mellivora :star:
-Tinyctf platform | https://github.com/balidani/tinyctf-platform
-Isislab platform | https://github.com/isislab/CTFd
-Facebook platform | https://github.com/facebook/fbctf
+Write-ups | https://github.com/ctfs
 
 
 ## Decoder/Converter/Beautifier :hurtrealbad:
