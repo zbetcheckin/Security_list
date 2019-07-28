@@ -227,7 +227,7 @@ Package - forensic-all | https://packages.debian.org/stretch/forensics-all :star
 Testing Images | http://dftt.sourceforge.net/
 Tools - DFIR | http://www.dfir.training/index.php/tools/ :star:
 Tools - Forensics wiki | http://forensicswiki.org/wiki/Tools
-Tools - NIST | http://toolcatalog.nist.gov/populated_taxonomy/index.php
+Tools - NIST | https://toolcatalog.nist.gov/taxonomy/index.php
 Windows tools | https://ericzimmerman.github.io/
 Windows tools list | http://forensic-proof.com/tools
 Windows Artifact | [https://blogs.sans.org/computer-forensics/](https://blogs.sans.org/computer-forensics/files/2012/06/SANS-Digital-Forensics-and-Incident-Response-Poster-2012.pdf)
@@ -345,7 +345,7 @@ Nirsoft country IP | http://www.nirsoft.net/countryip/
 Project Honeypot | https://www.projecthoneypot.org/search_ip.php
 Spamhaus | https://www.spamhaus.org/lookup/
 TCP utils | http://www.tcpiputils.com/
-Virus total | https://www.virustotal.com/en/ip-address/$IP/information/
+Virus total | https://www.virustotal.com/gui/search/$IP
 Whatch Guard | http://www.reputationauthority.org/
 
 
@@ -370,7 +370,7 @@ Awesome training | http://opensecuritytraining.info/Training.html :star::star:
 Cybrary training | https://www.cybrary.it/
 Essential basics | https://github.com/alex/what-happens-when :trophy:
 Exploits | https://thesprawl.org/research/
-F-Secure training | http://mooc.fi/courses/2016/cybersecurity/
+F-Secure training | https://moocfi.github.io/courses/2017/cybersecurity/
 Malware Analysis course | https://github.com/RPISEC/Malware :star::star:
 Malware traffic training | http://www.malware-traffic-analysis.net/training-exercises.html :star:
 Network - Forensic | https://www.honeynet.org/node/504
@@ -452,7 +452,7 @@ Structured Threat Information eXpression | https://stixproject.github.io/
 The Zoo aka Malware DB | https://ytisf.github.io/theZoo/
 Total hash | https://totalhash.cymru.com/
 VirusBay | https://beta.virusbay.io/
-VirusShare | http://virusshare.com/
+VirusShare | https://virusshare.com/
 VX Vault | http://vxvault.net/
 Yararules | https://github.com/Yara-Rules/rules
 ZeuS Tracker | https://zeustracker.abuse.ch
@@ -814,7 +814,7 @@ Name | URL
 Anti forensic Windows | https://www.reddit.com/r/security/comments/32fb1l/open_guide_to_scrubbing_windows_oss_from_forensic/
 Security development | https://github.com/ExpLife0011/awesome-windows-kernel-security-development
 Windows executable walkthrough | https://i.imgur.com/pHjcI.png
-Windows exploitation | https://github.com/enddo/awesome-windows-exploitation
+Windows exploitation | https://github.com/r3p3r/nixawk-awesome-windows-exploitation
 Windows hardening | https://github.com/PaulSec/awesome-windows-domain-hardening
 
 
