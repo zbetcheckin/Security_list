@@ -219,7 +219,6 @@ DFRWS challenge | http://www.dfrws.org/dfrws-forensic-challenge-2016
 File signatures | https://en.wikipedia.org/wiki/List_of_file_signatures
 File signatures | http://www.filesignatures.net/index.php?page=all
 File signatures | http://www.garykessler.net/library/file_sigs.html
-Forensic control | https://forensiccontrol.com/resources/free-software/
 Forensic kb practical | http://www.forensickb.com/2008/01/forensic-practical.html
 Forensic tools | https://forensics.cert.org/
 Forensic - Technical graph | http://www.amanhardikar.com/mindmaps/ForensicChallenges.html
@@ -251,7 +250,6 @@ Akamai map | https://www.akamai.com/fr/fr/solutions/intelligent-platform/visuali
 Bitdefender map | https://threatmap.bitdefender.com/ :earth_americas:
 Blueliv map | https://community.blueliv.com/map/ :earth_americas:
 Checkpoint map | https://threatmap.checkpoint.com/ :earth_americas:
-Cymon map | https://cymon.io/map :earth_americas:
 DDoS attacks | http://www.digitalattackmap.com/ :trollface:
 Dead drops | https://deaddrops.com/db/ :floppy_disk::skull:
 Dshield map | https://dshield.org/threatmap.html :earth_americas:
@@ -262,8 +260,7 @@ Fortinet map | https://threatmap.fortiguard.com/ :earth_americas:
 HE maps | https://he.net/3d-map/ :earth_americas:
 Kaspersky AV map | https://cybermap.kaspersky.com/ :earth_americas:
 Kaspersky map | https://apt.securelist.com/ :earth_americas:
-Norse map | http://map.norsecorp.com/ :earth_americas:
-Mozilla location service map | https://location.services.mozilla.com/map :earth_americas: - Thx [rawger](https://twitter.com/_rawger)
+Mozilla location service map | https://location.services.mozilla.com/map :earth_americas:
 Open IP video cameras | http://www.insecam.org/ :video_camera::see_no_evil:
 Pwnie Awards | http://pwnies.com/nominations/ :horse:
 Sub marine cable | http://www.submarinecablemap.com/ :anchor:
@@ -285,7 +282,6 @@ Citizen lab | https://citizenlab.org/
 Code analysises | https://en.wikipedia.org/wiki/List_of_tools_for_static_code_analysis
 Codepad	| http://codepad.org/
 Crypto currency | https://coinmarketcap.com
-Darknet stats | https://dnstats.net/
 Deepweb | https://www.reddit.com/r/deepweb/
 Electronic Frontier Foundation | https://www.eff.org/
 Fake ID | http://www.fakenamegenerator.com/
@@ -342,7 +338,6 @@ FireHOL IP  blacklist | https://github.com/firehol/blocklist-ipsets :star:
 Google dork | "$IP"
 Host file | https://hosts-file.net/
 Host tracker | https://www.host-tracker.com/
-IP in detail | http://ipindetail.com/ip-blacklist-checker
 IP void | http://www.ipvoid.com/
 IPv4 info | http://ipv4info.com/
 Multi RBL |  http://multirbl.valli.org/lookup/ :star:
@@ -440,7 +435,6 @@ Cybercrime tracker | http://cybercrime-tracker.net/
 Dont need coffee | http://malware.dontneedcoffee.com/
 Exposed Botnets	| http://www.exposedbotnets.com/
 Malc0de	| http://malc0de.com/database/
-Malekal	| http://malwaredb.malekal.com/
 No more ransom | https://www.nomoreransom.org/
 Tracker | http://tracker.h3x.eu/
 Kernel mode | http://www.kernelmode.info
@@ -514,14 +508,12 @@ Virus Total Notifier | https://github.com/mubix/vt-notify
 ## Mobile :iphone:
 Name	|URL
 ------------------------------------ | ---------------------------------------------
-AndroTotal | https://andrototal.org/
 APK Analzyer | http://www.apk-analyzer.net/
 Droid Sec wiki | http://www.droidsec.org/wiki/
 Joebox Cloud | https://jbxcloud.joesecurity.org/login
 Mobile security wiki | https://mobilesecuritywiki.com/ :star:
 OWASP Goat Droid | https://www.owasp.org/index.php/Projects/OWASP_GoatDroid_Project
 Sand droid | http://sanddroid.xjtu.edu.cn
-Tracedroid | http://tracedroid.few.vu.nl
 Wiki secmobi | https://github.com/secmobi/wiki.secmobi.com :trophy:
 
 
@@ -557,7 +549,6 @@ Maltego | https://www.paterva.com/
 Hunter | https://hunter.io/
 Pipl | https://pipl.com/
 Peek you | http://www.peekyou.com/
-Yatedo | http://www.yatedo.com/
 Lullar | http://com.lullar.com/
 Lakako | http://www.lakako.com/
 Yasni | http://www.yasni.com/
@@ -682,7 +673,6 @@ Name | URL
 Zenk-Security | https://www.zenk-security.com/
 Root-Me | http://www.root-me.org/
 Overthewire | http://overthewire.org/wargames/
-CrackMe.de | http://crackmes.de/
 Reversing | http://reversing.kr/
 Pwnable | http://pwnable.kr/
 Newbiecontest | https://www.newbiecontest.org/
@@ -706,7 +696,6 @@ Net force | https://www.net-force.nl/challenges/
 CanYouHack.it | http://canyouhack.it/
 Hellboundhackers | https://www.hellboundhackers.org/
 Microcorruption | https://microcorruption.com/
-More challenges | http://captf.com/practice-ctf/
 
 
 ## Skimmer :black_joker:
