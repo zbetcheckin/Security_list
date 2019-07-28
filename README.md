@@ -216,6 +216,7 @@ File signatures | http://www.garykessler.net/library/file_sigs.html
 Forensic kb practical | http://www.forensickb.com/2008/01/forensic-practical.html
 Forensic tools | https://forensics.cert.org/
 Forensic - Technical graph | http://www.amanhardikar.com/mindmaps/ForensicChallenges.html
+Learn with David Cowen | https://www.youtube.com/channel/UCZ7mQV3j4GNX-LU1IKPVQZg
 Package - DEFT | http://www.deftlinux.net/package-list/
 Package - forensic-all | https://packages.debian.org/stretch/forensics-all :star::star:
 Testing Images | http://dftt.sourceforge.net/
@@ -227,7 +228,7 @@ Windows tools list | http://forensic-proof.com/tools
 Windows Artifact | [https://blogs.sans.org/computer-forensics/](https://blogs.sans.org/computer-forensics/files/2012/06/SANS-Digital-Forensics-and-Incident-Response-Poster-2012.pdf)
 Write blocker | http://www.cftt.nist.gov/software_write_block.htm
 Write blocker | https://github.com/msuhanov/Linux-write-blocker
-Zythom list - FR | https://zythom.blogspot.se/2007/02/les-outils-dun-expert-judiciaire.html
+Zythom list | https://zythom.blogspot.se/2007/02/les-outils-dun-expert-judiciaire.html :fr:
 
 
 ## Free shell :shell:
@@ -241,6 +242,7 @@ Red-pill | http://shells.red-pill.eu/
 Name | URL
 ------------------------------------ | ---------------------------------------------
 Akamai map | https://www.akamai.com/us/en/resources/visualizing-akamai/real-time-web-monitor.jsp :earth_americas:
+BGP stream | https://bgpstream.com/ :earth_americas:
 Bitdefender map | https://threatmap.bitdefender.com/ :earth_americas:
 Blueliv map | https://community.blueliv.com/map/ :earth_americas:
 Checkpoint map | https://threatmap.checkpoint.com/ :earth_americas:
@@ -803,6 +805,7 @@ User agent | http://useragentstring.com/pages/useragentstring.php
 User agent | http://whatsmyuseragent.com/
 User agent | https://www.projecthoneypot.org/robot_useragents.php
 User agent | https://www.whatismybrowser.com/developers/tools/user-agent-parser/browse
+Web technologies support tables | https://caniuse.com/
 
 
 ## Windows
