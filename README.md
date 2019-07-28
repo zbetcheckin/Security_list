@@ -281,6 +281,7 @@ Codepad	| http://codepad.org/
 Crypto currency | https://coinmarketcap.com
 Deepweb | https://www.reddit.com/r/deepweb/
 Electronic Frontier Foundation | https://www.eff.org/
+Face generator | https://www.thispersondoesnotexist.com/
 Fake ID | http://www.fakenamegenerator.com/
 Hackforum | http://hackforums.net/ :trollface:
 Hardened BSD | https://hardenedbsd.org/content/easy-feature-comparison
@@ -326,22 +327,21 @@ Live nothink | http://www.nothink.org/honeypots.php
 ## IP Research / Analysis / Investigation
 Name | URL
 ------------------------------------ | ---------------------------------------------
+Abuse IP DB | https://www.abuseipdb.com/
 BGP Toolkit | http://bgp.he.net/ :star:
 Bing dork | ip:$IP
 Black List Alert | http://www.blacklistalert.org/
 Black List Check | http://whatismyipaddress.com/blacklist-check/
 Check host | http://check-host.net/
-FireHOL IP  blacklist | https://github.com/firehol/blocklist-ipsets :star:
+FireHOL IP list | https://github.com/firehol/blocklist-ipsets :star:
 Google dork | "$IP"
 Host file | https://hosts-file.net/
-Host tracker | https://www.host-tracker.com/
 IP void | http://www.ipvoid.com/
-IPv4 info | http://ipv4info.com/
 Multi RBL |  http://multirbl.valli.org/lookup/ :star:
 Nirsoft country IP | http://www.nirsoft.net/countryip/
 Project Honeypot | https://www.projecthoneypot.org/search_ip.php
+RIPE stat | https://stat.ripe.net/
 Spamhaus | https://www.spamhaus.org/lookup/
-TCP utils | http://www.tcpiputils.com/
 Virus total | https://www.virustotal.com/gui/search/$IP
 Whatch Guard | http://www.reputationauthority.org/
 
