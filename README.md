@@ -395,6 +395,7 @@ DNSBL | https://en.wikipedia.org/wiki/DNSBL
 DKIM validator | http://dkimvalidator.com/
 Email recon | https://github.com/laramies/theHarvester
 Get air mail | http://en.getairmail.com/
+Google Phishing quiz | https://phishingquiz.withgoogle.com/ :star::e-mail::bar_chart:
 Gophish | https://github.com/gophish/gophish
 Mailinator | https://www.mailinator.com/ # https://gist.github.com/nocturnalgeek/1b8fa44283314544c487
 Mailnesia | http://mailnesia.com/
@@ -613,12 +614,14 @@ SSH dictionary | https://github.com/droope/pwlist
 Name | URL
 ------------------------------------ | ---------------------------------------------
 Awesome pentest | https://github.com/enaqx/awesome-pentest
+Awesome WAF | https://github.com/0xInfection/Awesome-WAF
 Footprinting - Procedure & tools | http://www.0daysecurity.com/penetration-testing/network-footprinting.html
 GNU/Linux privilege escalation | https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/ :star:
 Informaion gathering - Tools | http://www.w4rri0r.com/hacking-tools-windows-os-x-linux-android-solaris-unixware/information-gathering.html
+IppSec channel | https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA
 Organization of the Standard | http://www.pentest-standard.org/index.php/Main_Page :star:
 Owasp - Check list | https://www.owasp.org/index.php/Testing_Checklist
-Owasp testing guide | https://www.owasp.org/images/5/52/OWASP_Testing_Guide_v4.pdf :star::star:
+Owasp testing guide | https://www.owasp.org/images/1/19/OTGv4.pdf :star::star:
 Owasp - tools | https://www.owasp.org/index.php/Category:OWASP_Tool
 Public pentest reports | https://github.com/juliocesarfort/public-pentesting-reports :star:
 Python tools for pentest | https://github.com/dloss/python-pentest-tools
