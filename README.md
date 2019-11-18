@@ -370,7 +370,6 @@ Exploits | https://thesprawl.org/research/
 F-Secure training | https://moocfi.github.io/courses/2017/cybersecurity/
 Malware Analysis course | https://github.com/RPISEC/Malware :star::star:
 Malware traffic training | http://www.malware-traffic-analysis.net/training-exercises.html :star:
-Network - Forensic | https://www.honeynet.org/node/504
 Practical analysis | https://practicalmalwareanalysis.com/labs/
 Reverse - Malware | http://fumalwareanalysis.blogspot.se/p/malware-analysis-tutorials-reverse.html
 Security courses | https://bitvijays.github.io/ :star:
@@ -540,7 +539,6 @@ Service Port Number Registry | https://en.wikipedia.org/wiki/List_of_TCP_and_UDP
 Subnet calculator | http://www.subnet-calculator.com/cidr.php
 Subnet calculator | http://www.subnetonline.com/pages/subnet-calculators.php
 Security Onion tools | https://github.com/Security-Onion-Solutions/security-onion/wiki/Tools
-Wireshark extentions | https://www.honeynet.org/project/WiresharkExtensions
 
 
 ## OSINT
@@ -621,6 +619,7 @@ Name | URL
 ------------------------------------ | ---------------------------------------------
 Awesome pentest | https://github.com/enaqx/awesome-pentest
 Awesome WAF | https://github.com/0xInfection/Awesome-WAF
+Findsubdomains - subdomain enumeration | https://findsubdomains.com/
 Footprinting - Procedure & tools | http://www.0daysecurity.com/penetration-testing/network-footprinting.html
 GNU/Linux privilege escalation | https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/ :star:
 Informaion gathering - Tools | http://www.w4rri0r.com/hacking-tools-windows-os-x-linux-android-solaris-unixware/information-gathering.html
@@ -665,6 +664,7 @@ Zgrab | https://github.com/zmap/zgrab
 ## Search engines :satellite:
 Name | URL
 ------------------------------------ | ---------------------------------------------
+Spyse | https://spyse.com/
 ZoomEye | https://zoomeye.org/ :star::cn:
 Shodan | https://www.shodan.io/
 Censys | https://censys.io/
