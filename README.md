@@ -370,7 +370,6 @@ Exploits | https://thesprawl.org/research/
 F-Secure training | https://moocfi.github.io/courses/2017/cybersecurity/
 Malware Analysis course | https://github.com/RPISEC/Malware :star::star:
 Malware traffic training | http://www.malware-traffic-analysis.net/training-exercises.html :star:
-Network - Forensic | https://www.honeynet.org/node/504
 Practical analysis | https://practicalmalwareanalysis.com/labs/
 Reverse - Malware | http://fumalwareanalysis.blogspot.se/p/malware-analysis-tutorials-reverse.html
 Security courses | https://bitvijays.github.io/ :star:
@@ -540,7 +539,6 @@ Service Port Number Registry | https://en.wikipedia.org/wiki/List_of_TCP_and_UDP
 Subnet calculator | http://www.subnet-calculator.com/cidr.php
 Subnet calculator | http://www.subnetonline.com/pages/subnet-calculators.php
 Security Onion tools | https://github.com/Security-Onion-Solutions/security-onion/wiki/Tools
-Wireshark extentions | https://www.honeynet.org/project/WiresharkExtensions
 
 
 ## OSINT
@@ -667,6 +665,7 @@ Name | URL
 ------------------------------------ | ---------------------------------------------
 ZoomEye | https://zoomeye.org/ :star::cn:
 Shodan | https://www.shodan.io/
+Spyse | https://spyse.com/
 Censys | https://censys.io/
 Gegereka | http://gegereka.com/ (not always up)
 Google | https://www.google.com/advanced_search
