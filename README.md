@@ -53,6 +53,8 @@ Inspired by http://www.nothink.org/utilities.php
 Name | URL
 ------------------------------------ | ---------------------------------------------
 Android | https://github.com/ashishb/android-security-awesome
+Arm Exploitation | https://github.com/HenryHoggard/awesome-arm-exploitation
+Cloud Security | https://github.com/Funkmyster/awesome-cloud-security
 Curated list of awesome lists | https://github.com/sindresorhus/awesome :star:
 Fuzzing | https://github.com/secfigo/Awesome-Fuzzing
 Hacking list | https://github.com/Hack-with-Github/Awesome-Hacking :star::star::star:
@@ -65,6 +67,7 @@ Red team | https://github.com/yeyintminthuhtut/Awesome-Red-Teaming
 Reversing | https://github.com/fdivrp/awesome-reversing
 Security | https://github.com/sbilly/awesome-security
 Threat intelligence | https://github.com/hslatman/awesome-threat-intelligence
+Threat Modeling | https://github.com/redshiftzero/awesome-threat-modeling
 Web | https://github.com/qazbnm456/awesome-web-security/ https://github.com/infoslack/awesome-web-hacking
 
 
