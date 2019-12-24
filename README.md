@@ -619,7 +619,6 @@ Name | URL
 ------------------------------------ | ---------------------------------------------
 Awesome pentest | https://github.com/enaqx/awesome-pentest
 Awesome WAF | https://github.com/0xInfection/Awesome-WAF
-Findsubdomains - subdomain enumeration | https://findsubdomains.com/
 Footprinting - Procedure & tools | http://www.0daysecurity.com/penetration-testing/network-footprinting.html
 GNU/Linux privilege escalation | https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/ :star:
 Informaion gathering - Tools | http://www.w4rri0r.com/hacking-tools-windows-os-x-linux-android-solaris-unixware/information-gathering.html
@@ -664,7 +663,6 @@ Zgrab | https://github.com/zmap/zgrab
 ## Search engines :satellite:
 Name | URL
 ------------------------------------ | ---------------------------------------------
-Spyse | https://spyse.com/
 ZoomEye | https://zoomeye.org/ :star::cn:
 Shodan | https://www.shodan.io/
 Censys | https://censys.io/
