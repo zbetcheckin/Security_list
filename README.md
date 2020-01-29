@@ -61,6 +61,7 @@ Incident response | https://github.com/meirwah/awesome-incident-response/ :star:
 Indicators of compromise | https://github.com/sroberts/awesome-iocs
 Info sec | https://github.com/rmusser01/Infosec_Reference
 Malware analysis | https://github.com/rshipp/awesome-malware-analysis/ :star::star::star:
+Personal Security | https://github.com/Lissy93/personal-security-checklist
 Red team | https://github.com/yeyintminthuhtut/Awesome-Red-Teaming
 Reversing | https://github.com/fdivrp/awesome-reversing
 Security | https://github.com/sbilly/awesome-security
