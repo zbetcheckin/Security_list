@@ -282,6 +282,7 @@ Codepad	| http://codepad.org/
 Crypto currency | https://coinmarketcap.com
 Deepweb | https://www.reddit.com/r/deepweb/
 Electronic Frontier Foundation | https://www.eff.org/
+ExtendsClass | https://extendsclass.com/
 Face generator | https://www.thispersondoesnotexist.com/
 Fake ID | http://www.fakenamegenerator.com/
 Hackforum | http://hackforums.net/ :trollface:
