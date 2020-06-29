@@ -155,6 +155,7 @@ Into dns | http://www.intodns.com/
 Multi RBL | http://multirbl.valli.org/lookup/ :star:
 MXToolBox | https://mxtoolbox.com/SuperTool.aspx#
 Netcraft | http://www.netcraft.com/
+Pepipost | https://tools.pepipost.com/
 Reverse Whois | https://reversewhois.domaintools.com/
 Robtex | https://www.robtex.com/dns/
 Sucuri | http://sitecheck.sucuri.net/scanner/
@@ -406,6 +407,7 @@ Open phish | https://openphish.com/ :star:
 Openresolver JP	| http://www.openresolver.jp/en/
 Phishing Framework | https://github.com/pentestgeek/phishing-frenzy
 Phish tank | http://www.phishtank.com/ :star:
+Pepipost | https://tools.pepipost.com/email-blacklist-checker
 SimplyEmail | https://github.com/killswitch-GUI/SimplyEmail
 Spam DB | http://www.dnsbl.info/dnsbl-database-check.php
 Spam encode secret | http://spammimic.com/encode.cgi
