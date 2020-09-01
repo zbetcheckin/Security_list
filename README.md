@@ -539,8 +539,8 @@ Service Port Number Registry | [https://www.iana.org/assignments/service-names-p
 Service Port Number Registry | https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers
 Subnet calculator | http://www.subnet-calculator.com/cidr.php
 Subnet calculator | http://www.subnetonline.com/pages/subnet-calculators.php
-IPv4 Subnet Creator | https://network00.com/NetworkTools/IPv4VisualSubnetCalculatorCreator
-IPv6 Subnet Creator | https://network00.com/NetworkTools/IPv6VisualSubnetCalculatorCreator
+IPv4 Address Planner | https://network00.com/NetworkTools/IPv4AddressPlanner/
+IPv6 Address Planner | https://network00.com/NetworkTools/IPv6AddressPlanner/
 Security Onion tools | https://github.com/Security-Onion-Solutions/security-onion/wiki/Tools
 
 
