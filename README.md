@@ -717,6 +717,7 @@ Name | URL
 ------------------------------------ | ---------------------------------------------
 Bruteforce know hosts | https://github.com/Churro/bruteforce-known-hosts
 OpenSSH guidelines | https://wiki.mozilla.org/Security/Guidelines/OpenSSH
+Operous SSH vulnerability and security scanner | https://sshcheck.operous.dev
 SSH audit | https://github.com/arthepsy/ssh-audit.git
 SSH audit online | https://sshcheck.com
 Who's there | https://github.com/FiloSottile/whosthere
