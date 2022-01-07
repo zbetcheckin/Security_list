@@ -588,6 +588,7 @@ stronghold - Easily configure MacOS security settings from the terminal. | https
 Name | URL
 ------------------------------------ | ---------------------------------------------
 CrackStation | https://crackstation.net/buy-crackstation-wordlist-password-cracking-dictionary.htm
+Default credentials | https://many-passwords.github.io/
 Default password | https://default-password.info/
 Default password | https://cirt.net/passwords
 Default password | http://www.defaultpassword.com/
