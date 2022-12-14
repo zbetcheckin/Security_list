@@ -716,6 +716,7 @@ Great reverse engineering on skimmer | https://trustfoundry.net/reverse-engineer
 Name | URL
 ------------------------------------ | ---------------------------------------------
 Bruteforce know hosts | https://github.com/Churro/bruteforce-known-hosts
+CryptoLyzer | https://gitlab.com/coroner/cryptolyzer
 OpenSSH guidelines | https://wiki.mozilla.org/Security/Guidelines/OpenSSH
 SSH audit | https://github.com/arthepsy/ssh-audit.git
 SSH audit online | https://sshcheck.com
@@ -727,6 +728,7 @@ Name | URL
 ------------------------------------ | ---------------------------------------------
 Certificate search | https://crt.sh
 Bad SSL | https://github.com/chromium/badssl.com
+CryptoLyzer | https://gitlab.com/coroner/cryptolyzer
 Htbridge - Online analysis | https://www.htbridge.com/ssl/
 Mozilla SSL Configuration Generator | https://mozilla.github.io/server-side-tls/ssl-config-generator/
 Observatory by Mozilla - Online analysis | https://observatory.mozilla.org/ :star::star::star::star:
@@ -734,7 +736,7 @@ O-Saft - Tools | https://www.owasp.org/index.php/O-Saft
 OWASP tests - Procedure | [https://www.owasp.org/index.php/Testing_for_Weak_SSL/TLS_Ciphers](https://www.owasp.org/index.php/Testing_for_Weak_SSL/TLS_Ciphers,_Insufficient_Transport_Layer_Protection_(OTG-CRYPST-002))
 Qualys SSL Labs	- Online analysis | https://www.ssllabs.com/ssltest/
 SSLscan - Tools | https://github.com/rbsec/sslscan
-SSLyze - Tools | https://github.com/iSECPartners/sslyze
+SSLyze - Tools | https://github.com/nabla-c0d3/sslyze
 Testssl.sh - Tools | https://github.com/drwetter/testssl.sh :star:
 
 
